@@ -582,6 +582,96 @@
 
 ---
 
+## Capstone Timeline & Process
+
+### Overview
+Each capstone follows a **3-phase timeline**: Assignment → Work Time → Presentations. Students receive **at least 1 week** (and up to 2 weeks for major capstones) between assignment and presentation.
+
+### Capstone #1: Biblical Reliability (Unit 2)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 6 | Thu, Oct 1 | Assign capstone prompt. Present rubric, show sample capstone. Students brainstorm thesis ideas. |
+| **Work Time** | Week 7 | Mon–Fri, Oct 5–9 | **Flex Week:** Open Q&A (Mon), then dedicated capstone work time (Tue–Fri). Individual conferences, practice presentations. |
+| **Present** | Week 8 | Mon–Thu, Oct 12–15 | Presentations Mon–Wed (Groups 1–3). Final Brief #1 due Thu. Debrief Fri. |
+
+**Total Work Time:** 5 in-class days + 1 weekend = ~6 days  
+**Prompt:** *"Make the case for biblical reliability. Your thesis must address one specific objection and defend it using evidence from Ch 4–6."*
+
+---
+
+### Capstone #2: Prophecy & Evidence (Unit 3)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 13 | Mon, Nov 16 | Assign capstone prompt. Students begin thesis development. |
+| **Work Time** | Week 13 | Tue–Fri, Nov 17–20 | Capstone work time in class. Individual conferences. |
+| | Week 14 | Nov 23–27 | **Thanksgiving Break** — students work at home. |
+| **Present** | Week 15 | Mon–Thu, Nov 30–Dec 3 | Presentations Mon–Wed (Groups 1–3). Final Brief #2 due Thu. Debrief Fri. |
+
+**Total Work Time:** 4 in-class days + Thanksgiving break = ~9 days  
+**Prompt:** *"Defend the role of prophecy in validating Jesus as Messiah. Address one major objection."*
+
+---
+
+### Capstone #3: Worldview Challenges (Unit 5)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 26 | Tue, Feb 16 | Assign capstone prompt after Unit 5 review. |
+| **Work Time** | Week 26 | Wed–Fri, Feb 17–19 | Capstone work time in class. Individual conferences, practice presentations. |
+| **Present** | Week 27 | Mon–Wed, Feb 22–24 | Presentations Mon–Wed (Groups 1–3). Final Brief #3 due Wed. Debrief Thu (before T2 ends). |
+
+**Total Work Time:** 3 in-class days + 1 weekend = ~5 days  
+**Prompt:** *"Defend Christianity against one major worldview challenge from Ch 11–12. Engage with the strongest counterargument."*
+
+---
+
+### Capstone #4: Suffering & Intolerance (Final — Unit 6)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 33 | Tue, Apr 6 | Assign final capstone prompt. Explain cumulative synthesis requirement. |
+| **Work Time** | Week 33 | Wed–Thu, Apr 7–8 | Initial capstone work time in class. |
+| | Weekend | Apr 10–11 | Students work at home. |
+| **Present** | Week 34 | Mon–Thu, Apr 12–15 | Presentations Mon–Wed (Groups 1–3). Final Brief #4 due Thu. Debrief Fri. |
+
+**Total Work Time:** 2 in-class days + 1 long weekend = ~5 days  
+**Prompt:** *"Defend Christianity against the objection you find most difficult. Your thesis must engage Ch 13 or 14 and synthesize earlier units."* **(Cumulative)**
+
+---
+
+### Key Process Notes
+
+**Assignment Day:**
+- Present the capstone prompt and rubric
+- Show a sample capstone (yours or a past student's)
+- Students brainstorm thesis ideas
+- You approve thesis statements before students proceed
+
+**Work Time Days:**
+- Students research, outline, and build visual aids
+- You circulate for **individual conferences** (5–10 min per student)
+  - "What's your thesis?"
+  - "What evidence are you using?"
+  - "What's the strongest objection, and how will you respond?"
+- Students practice presentations with partners
+
+**Presentation Days:**
+- 5–7 minutes per presentation + 2–3 minutes Q&A
+- Spread across 3 days (~6–8 students per day)
+- All students take notes on peer presentations (needed for Final Brief)
+
+**Final Brief:**
+- Collected on the last day of presentations (Thursday)
+- Prompt: *"How has your thinking changed since the beginning of this unit? What's the strongest idea you encountered?"*
+- Graded as part of the capstone assessment
+
+**Closing Question (asked aloud, not answered in writing):**
+*"What question from this unit are you still thinking about?"*
+
+---
+
 ## Assessment Schedule
 
 | Assessment | Type | Due Date | Weight | Unit |

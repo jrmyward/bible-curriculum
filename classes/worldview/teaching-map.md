@@ -604,6 +604,97 @@
 
 ---
 
+## Capstone Timeline & Process
+
+### Overview
+Each capstone follows a **3-phase timeline**: Assignment → Work Time → Presentations. Worldview capstones engage **multiple competing worldviews** and require students to defend the biblical position.
+
+### Capstone #1: Islam (Unit 3)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 8 | Wed, Oct 14 | Assign capstone prompt. Present rubric, show sample capstone. Students brainstorm thesis ideas. |
+| **Work Time** | Week 8–9 | Thu–Fri, Oct 15–16 + Weekend | Limited in-class work time (Thu only; Fri is NO SCHOOL). Students work over the weekend. |
+| **Present** | Week 9 | Mon–Thu, Oct 19–22 | Presentations Mon–Wed (Groups 1–3). Final Brief #1 due Thu. Debrief Fri. |
+
+**Total Work Time:** 2 in-class days + 1 weekend = ~4 days  
+**Prompt:** *"Compare and contrast Christianity and Islam on one key question (theology, ethics, politics, or law). Defend the biblical worldview."*  
+**Note:** This is the first capstone of the year — simpler prompt and shorter work time to introduce the format.
+
+---
+
+### Capstone #2: Secularism (Unit 5)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 16 | Tue, Dec 8 | Assign capstone prompt. Students begin thesis development. |
+| **Work Time** | Week 16 | Wed–Fri, Dec 9–11 | **Flex Week:** Dedicated capstone work time. Open Q&A (Mon), individual conferences (Tue–Fri), practice presentations. |
+| **Present** | Week 17 | Mon–Thu, Dec 14–17 | Presentations Mon–Wed (Groups 1–3). Final Brief #2 due Thu. Debrief Fri (before Christmas break). |
+
+**Total Work Time:** 4 in-class days + 1 weekend = ~6 days  
+**Prompt:** *"Defend the biblical worldview against one major secular objection (ethics, origins, meaning, or psychology)."*
+
+---
+
+### Capstone #3: Postmodernism (Unit 7)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 25 | Tue, Feb 9 | Assign capstone prompt after Unit 7 review. |
+| **Work Time** | Week 25 | Wed–Fri, Feb 10–12 | **Flex Week:** Capstone work time in class. Individual conferences, practice presentations. |
+| **Present** | Week 26 | Mon–Thu, Feb 15–18 | Presentations Mon–Wed (Groups 1–3). Final Brief #3 due Thu. Debrief Fri. |
+
+**Total Work Time:** 3 in-class days + 1 weekend = ~5 days  
+**Prompt:** *"Defend objective truth and morality against postmodern relativism. Engage with a specific postmodern claim."*
+
+---
+
+### Capstone #4: Contemporary Issues (Final — Unit 10)
+
+| Phase | Week | Timeline | What Happens |
+|-------|------|----------|--------------|
+| **Assign** | Week 33 | Thu, Apr 8 | Assign final capstone prompt. Explain cumulative synthesis requirement and engagement with multiple worldviews. |
+| **Work Time** | Week 33–34 | Fri, Apr 9 (NO SCHOOL) + Weekend + Week 34 | Students work over long weekend. Presentations begin Mon, Apr 12 (limited additional work time). |
+| **Present** | Week 34–35 | Mon–Tue, Apr 12–20 | Presentations spread across 7 days (Groups 1–7, ~3 students per day). Longer presentations (7–10 min). |
+
+**Total Work Time:** Fri (at home) + 2 weekends + ongoing through Week 34 = ~10 days  
+**Prompt:** *"Choose one contemporary issue. Defend the biblical worldview response, engaging with at least two competing worldviews."* **(Cumulative, 7–10 min)**  
+**Note:** Final capstone is longer, cumulative, and worth more (15% vs. 12%). Students must synthesize across all 8 worldviews studied.
+
+---
+
+### Key Process Notes
+
+**Assignment Day:**
+- Present the capstone prompt and rubric
+- Show a sample capstone (yours or a past student's)
+- Students brainstorm thesis ideas
+- You approve thesis statements before students proceed
+
+**Work Time Days:**
+- Students research, outline, and build visual aids
+- You circulate for **individual conferences** (5–10 min per student)
+  - "What's your thesis?"
+  - "Which worldviews are you engaging?"
+  - "What's the strongest objection, and how will you respond?"
+- Students practice presentations with partners
+
+**Presentation Days:**
+- **Capstones #1–3:** 5–7 minutes per presentation + 2–3 minutes Q&A
+- **Final Capstone #4:** 7–10 minutes per presentation + 2–3 minutes Q&A
+- Spread across 3 days (Capstones #1–3) or 7 days (Final Capstone)
+- All students take notes on peer presentations (needed for Final Brief)
+
+**Final Brief:**
+- Collected on the last day of presentations (Thursday for Capstones #1–3)
+- Prompt: *"How has your understanding of competing worldviews changed? What's the most compelling idea you encountered?"*
+- Graded as part of the capstone assessment
+
+**Closing Question (asked aloud, not answered in writing):**
+*"What question from this unit are you still thinking about?"*
+
+---
+
 ## Cohort Tools Summary
 
 | Tool | Usage | Total Uses |
