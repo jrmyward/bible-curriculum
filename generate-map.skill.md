@@ -31,10 +31,26 @@ Generate a cohort-style teaching map for a class in this Bible curriculum reposi
    - If `classes/<class-name>/teaching-map.md` exists, ask whether to regenerate or update
    - If it doesn't exist, proceed to generation
 
-3. **Read required files**
-   - `_skill/SKILL_cohort_teaching_map.md` — teaching map generation process
+3. **Ask which teaching style to use**
+   - Present options from `_shared/teaching-styles.md`:
+     1. Cohort Teaching Model
+     2. Lecture-Seminar Model
+     3. Inductive Bible Study (IBS)
+     4. Flipped Classroom
+     5. Project-Based Learning (PBL)
+     6. Chronological Narrative
+     7. Catechetical (Q&A)
+   - If the teacher doesn't specify, recommend based on course type:
+     - Apologetics/Worldview → Cohort
+     - Survey courses → Lecture-Seminar or Chronological Narrative
+     - Book studies → Inductive Bible Study
+     - Application-heavy → Project-Based Learning
+
+4. **Read required files**
+   - `_skill/SKILL_<style>_teaching_map.md` — teaching map generation process for chosen style
    - `_shared/school-calendar-2026-27.md` — school calendar and no-school dates
-   - `_shared/cohort-tools.md` — cohort teaching tools
+   - `_shared/teaching-styles.md` — teaching style reference
+   - Style-specific tool files (e.g., `_shared/cohort-tools.md` for cohort style)
    - `classes/<class-name>/syllabus/syllabus.md` — official syllabus (if it exists)
 
 4. **Gather chapter/syllabus data**
