@@ -44,86 +44,181 @@ Each worldview is examined through:
 
 ## Structure
 
-### Part 1: Understanding the Times Core Content
-**Weeks 1-24** (condensed from original 36 weeks)
+### Interleaved Structure (Core + Supplemental)
+**Weeks 1-36**
 
-Based on the official 180-day syllabus but streamlined to cover essential content more efficiently.
+Supplemental worldviews are integrated immediately after related core content for better compare-and-contrast learning.
 
-| Unit | Weeks | Worldviews | Disciplines |
-|------|-------|------------|-------------|
-| 1 | 1-2 | Introduction & Christianity | Overview + Theology |
-| 2 | 3-6 | Christianity, Islam, Secularism | Philosophy, Ethics |
-| 3 | 7-10 | Marxism, Postmodernism | Biology, Psychology |
-| 4 | 11-15 | All 5 worldviews | Sociology, Law |
-| 5 | 16-20 | All 5 worldviews | Politics, Economics |
-| 6 | 21-24 | All 5 worldviews | History, Synthesis |
+| Unit | Weeks | Worldview | Type | Focus |
+|------|-------|-----------|------|-------|
+| 1 | 1-3 | **Christianity** | Core | Baseline worldview — theology, philosophy, ethics across all disciplines |
+| 2 | 4-5 | **Mormonism (LDS)** | **Supplemental** | Claims to be Christian — immediate contrast with orthodox theology |
+| 3 | 6-8 | **Islam** | Core | Major Abrahamic monotheism — theology, law, politics |
+| 4 | 9-11 | **Buddhism & Hinduism** | **Supplemental** | Eastern religions — karma, reincarnation, enlightenment vs. monotheism |
+| 5 | 12-16 | **Secularism** | Core | Western naturalism — philosophy, ethics, biology, psychology |
+| 6 | 17-20 | **Marxism** | Core | Atheistic materialism — economics, politics, history |
+| 7 | 21-24 | **Postmodernism** | Core | Relativism and deconstruction — philosophy, ethics, truth claims |
+| 8 | 25-28 | **Cross-Worldview Synthesis** | Application | Law, politics, economics, history across all 8 worldviews |
+| 9 | 29-32 | **Contemporary Issues** | Application | Bioethics, justice, technology through multiple worldview lenses |
+| 10 | 33-36 | **Capstones & Final Exam** | Assessment | Student presentations and cumulative exam |
 
-### Part 2: Supplemental Worldviews
-**Weeks 25-32**
-
-| Unit | Weeks | Worldview | Focus |
-|------|-------|-----------|-------|
-| 7 | 25-27 | Buddhism & Hinduism | Eastern religious thought, karma, reincarnation, enlightenment |
-| 8 | 28-30 | Mormonism (LDS) | Claims, scriptures, theology, cultural impact |
-| 9 | 31-32 | Comparative Analysis | Cross-worldview synthesis and debate |
-
-### Part 3: Application & Assessment
-**Weeks 33-36**
-
-| Unit | Weeks | Content |
-|------|-------|---------|
-| 10 | 33-35 | Final projects, presentations, capstones |
-| 11 | 36 | Final exam, course reflection |
+**Key Pedagogical Strategy**: Supplemental content is interleaved for immediate comparison:
+- **Mormonism** follows **Christianity** (claimed Christian identity)
+- **Buddhism/Hinduism** follows **Islam** (major non-Christian world religions)
+- **Western philosophies** grouped together (Secularism → Marxism → Postmodernism)
 
 ---
 
-## Condensed Core Syllabus (Weeks 1-24)
+## Week-by-Week Outline (Interleaved Structure)
 
-The official Understanding the Times syllabus is 36 weeks (180 days). To make room for supplemental content, we condense it to 24 weeks by:
+### Unit 1: Christianity (Weeks 1-3)
+**Core UTT Content**: Chapters 1-6 (condensed)
 
-- Combining overview days with content introduction
-- Reducing some discussion/review days
-- Integrating tests into instructional weeks rather than dedicating full weeks to review
-- Focusing on 3-4 key disciplines per worldview rather than all 10
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 1 | 1-5 | Introduction to worldview thinking; Christianity overview | Introduction, theology overview, key questions framework |
+| 2 | 6-10 | Christian philosophy, ethics, biology | How Christianity answers: What is real? What is good? Where did life come from? |
+| 3 | 11-15 | Christian psychology, sociology, law | Human nature, family, justice — biblical foundations |
 
-### Recommended Pacing for Core Content
-
-| Week | Days | Chapters (UTT) | Content |
-|------|------|----------------|---------|
-| 1 | 1-5 | Ch 1-2 | Introduction, Theology overview |
-| 2 | 6-10 | Ch 3-4 | Philosophy overview, Ethics overview |
-| 3 | 11-15 | Ch 5-6 | Biology overview, Christianity deep dive |
-| 4 | 16-20 | Ch 7-8 | Islam: Theology & Philosophy |
-| 5 | 21-25 | Ch 9-10 | Islam: Ethics & Biology |
-| 6 | 26-30 | Ch 11-12 | Test #1 (Ch 1-12), Secularism: Theology & Philosophy |
-| 7 | 31-35 | Ch 13-14 | Secularism: Ethics & Biology |
-| 8 | 36-40 | Ch 15-16 | Secularism: Psychology & Sociology |
-| 9 | 41-45 | Ch 17-18 | Marxism: Theology & Philosophy |
-| 10 | 46-50 | Ch 19-20 | Marxism: Ethics & Biology |
-| 11 | 51-55 | Ch 21-22 | Test #2 (Ch 13-24), Marxism: Psychology & Sociology |
-| 12 | 56-60 | Ch 23-24 | Postmodernism: Theology & Philosophy |
-| 13 | 61-65 | Ch 25-26 | Postmodernism: Ethics & Biology |
-| 14 | 66-70 | Ch 27-28 | Postmodernism: Psychology & Sociology |
-| 15 | 71-75 | Ch 29-30 | Postmodernism: Law & Politics |
-| 16 | 76-80 | Review | Test #3 (Ch 25-30), Comparative Law |
-| 17 | 81-85 | Synthesis | Comparative Politics across worldviews |
-| 18 | 86-90 | Synthesis | Comparative Economics across worldviews |
-| 19 | 91-95 | Synthesis | Comparative History across worldviews |
-| 20 | 96-100 | Review | Mid-course synthesis and discussion |
-| 21 | 101-105 | Application | Case studies: contemporary cultural issues |
-| 22 | 106-110 | Application | Case studies: bioethics, technology, justice |
-| 23 | 111-115 | Application | Case studies: politics, economics, social issues |
-| 24 | 116-120 | Assessment | Test #4 (cumulative on all 5 worldviews) |
+**Assessment**: Discussion Brief #1, Quiz on Christianity
 
 ---
 
-## Supplemental Units (Weeks 25-32)
+### Unit 2: Mormonism / LDS (Weeks 4-5) — SUPPLEMENTAL
+**Why here?** Students just learned orthodox Christianity — now contrast with a movement claiming Christian identity.
 
-### Unit 7: Buddhism & Hinduism (Weeks 25-27)
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 4 | 16-20 | Origins and claims of LDS church | Joseph Smith, Book of Mormon, additional scriptures, missionary program |
+| 5 | 21-25 | LDS theology vs. biblical Christianity | View of God, Jesus, salvation; temple practices; evangelism strategies |
+
+**Assessment**: Pair & Defend (LDS is/isn't Christian), Case Study (responding to Mormon missionaries), Quiz on Mormonism
+
+---
+
+### Unit 3: Islam (Weeks 6-8)
+**Core UTT Content**: Chapters 7-12 (condensed)
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 6 | 26-30 | Islamic theology and philosophy | Allah, prophets, Quran; Islamic epistemology and metaphysics |
+| 7 | 31-35 | Islamic ethics, law (Sharia), politics | Moral framework, family law, theocratic governance |
+| 8 | 36-40 | Islamic history and cultural impact | Spread of Islam, caliphates, modern jihadism vs. moderate Islam |
+
+**Assessment**: Discussion Brief #2, Test #1 (Christianity + Mormonism + Islam)
+
+---
+
+### Unit 4: Buddhism & Hinduism (Weeks 9-11) — SUPPLEMENTAL
+**Why here?** After Abrahamic monotheism (Islam), contrast with Eastern pantheism/non-theism.
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 9 | 41-45 | Introduction to Eastern thought | Karma, samsara, moksha/nirvana; contrast with linear history and monotheism |
+| 10 | 46-50 | Buddhism: Four Noble Truths, Eightfold Path | Life of Buddha, suffering, enlightenment; Theravada vs. Mahayana |
+| 11 | 51-55 | Hinduism: Brahman, avatars, caste system | Vedas, Upanishads, Bhagavad Gita; paths to liberation; cultural impact |
+
+**Assessment**: Discussion Brief #3, Pair & Defend (suffering: Buddhism vs. Christianity), Quiz on Eastern Religions
+
+---
+
+### Unit 5: Secularism (Weeks 12-16)
+**Core UTT Content**: Chapters 13-18 (condensed)
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 12 | 56-60 | Secular theology (atheism/agnosticism) and philosophy | Naturalism, materialism, empiricism; Enlightenment roots |
+| 13 | 61-65 | Secular ethics and biology | Moral relativism or utilitarianism; Darwinian evolution, origins |
+| 14 | 66-70 | Secular psychology and sociology | Freud, behaviorism, social construction; family, sexuality |
+| 15 | 71-75 | Secular law and politics | Separation of church/state, individual rights, democracy |
+| 16 | 76-80 | Review and assessment | Test #2 (Islam + Buddhism/Hinduism + Secularism) |
+
+**Assessment**: Discussion Brief #4, Case Study (bioethics from secular vs. Christian view), Test #2
+
+---
+
+### Unit 6: Marxism (Weeks 17-20)
+**Core UTT Content**: Chapters 19-24 (condensed)
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 17 | 81-85 | Marxist theology (atheism) and philosophy | Dialectical materialism, no God, history as class struggle |
+| 18 | 86-90 | Marxist ethics and economics | Class-based morality, workers vs. bourgeoisie, communism |
+| 19 | 91-95 | Marxist politics and history | Revolutionary change, dictatorship of proletariat, historical determinism |
+| 20 | 96-100 | Marxism in practice | Soviet Union, China, Cuba; failures and modern revivals (socialism, critical theory) |
+
+**Assessment**: Discussion Brief #5, Pair & Defend (capitalism vs. socialism), Quiz on Marxism
+
+---
+
+### Unit 7: Postmodernism (Weeks 21-24)
+**Core UTT Content**: Chapters 25-30 (condensed)
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 21 | 101-105 | Postmodern philosophy and ethics | Deconstruction, relativism, power dynamics, truth skepticism |
+| 22 | 106-110 | Postmodern theology and sociology | God as social construct, identity politics, gender/sexuality fluidity |
+| 23 | 111-115 | Postmodern law and politics | Intersectionality, equity vs. equality, critical theory in culture |
+| 24 | 116-120 | Review and assessment | Test #3 (Secularism + Marxism + Postmodernism) |
+
+**Assessment**: Discussion Brief #6, Case Study (cancel culture, free speech, identity politics), Test #3
+
+---
+
+### Unit 8: Cross-Worldview Synthesis (Weeks 25-28)
+**Application across all 8 worldviews**
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 25 | 121-125 | Comparative law and politics | How do all 8 worldviews answer: What is justice? Who should govern? |
+| 26 | 126-130 | Comparative economics and history | Property, wealth, labor; purpose of history, progress vs. cycles |
+| 27 | 131-135 | Worldview comparison charts | Students create grids: 8 worldviews × 10 key questions |
+| 28 | 136-140 | Debate tournament | Students defend assigned worldviews on contemporary issues |
+
+**Assessment**: Worldview comparison chart, debate participation
+
+---
+
+### Unit 9: Contemporary Issues (Weeks 29-32)
+**Worldview lenses applied to real-world problems**
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 29 | 141-145 | Bioethics | Abortion, euthanasia, genetic engineering — analyzed through 8 worldviews |
+| 30 | 146-150 | Social justice | Poverty, racism, immigration — worldview foundations for justice |
+| 31 | 151-155 | Technology and AI | Transhumanism, social media, surveillance — what does it mean to be human? |
+| 32 | 156-160 | Religious freedom and pluralism | Can we coexist? Tolerance vs. truth; evangelism in a pluralistic society |
+
+**Assessment**: Panel discussions (students represent worldviews), Essay (apply biblical worldview to chosen issue)
+
+---
+
+### Unit 10: Capstones & Final Exam (Weeks 33-36)
+
+| Week | Days | Content | Activities |
+|------|------|---------|------------|
+| 33 | 161-165 | Capstone project preparation | Students work on chosen project (presentation, essay, or documentary) |
+| 34 | 166-170 | Capstone presentations (Part 1) | Half the class presents, Q&A, peer feedback |
+| 35 | 171-175 | Capstone presentations (Part 2) | Remaining presentations, Q&A, peer feedback |
+| 36 | 176-180 | Final exam and reflection | Cumulative exam covering all 8 worldviews; reflection essay on personal worldview formation |
+
+**Assessment**: Capstone project (major grade), Final exam (cumulative), Reflection essay
+
+---
+
+## Detailed Supplemental Unit Plans
+
+### Unit 2: Mormonism / LDS (Weeks 4-5) — SUPPLEMENTAL
+
+**Placement Rationale**: Immediately after Christianity deep dive (Weeks 1-3) to create sharp contrast between orthodox Christianity and a movement claiming Christian identity.
+
+#### Week 4: Origins and Claims
+
+**Placement Rationale**: After studying Abrahamic monotheism (Islam, Weeks 6-8), students examine Eastern pantheism and non-theism for maximum contrast.
 
 **Overview**: Eastern religions offer a radically different framework from Western worldviews. Key concepts include karma, reincarnation, enlightenment, and the nature of reality (maya).
 
-#### Week 25: Introduction to Eastern Thought
+#### Week 9: Introduction to Eastern Thought
 **Topics**:
 - Historical origins (India, ~1500 BC for Hinduism, ~500 BC for Buddhism)
 - Core concepts: karma, samsara (cycle of rebirth), moksha/nirvana (liberation)
@@ -139,7 +234,7 @@ The official Understanding the Times syllabus is 36 weeks (180 days). To make ro
 - How does karma differ from Christian concepts of justice and grace?
 - What does "enlightenment" mean, and how is it achieved?
 
-#### Week 26: Buddhism — The Four Noble Truths
+#### Week 10: Buddhism — The Four Noble Truths
 **Topics**:
 - Life of Siddhartha Gautama (the Buddha)
 - Four Noble Truths: suffering, cause, cessation, path
@@ -155,7 +250,7 @@ The official Understanding the Times syllabus is 36 weeks (180 days). To make ro
 - Discussion Brief: "How does Buddhism's diagnosis of the human condition compare to Christianity's?"
 - Pair & Defend: "Suffering is central to life (Buddhism) vs. Suffering is an intrusion into God's good creation (Christianity)"
 
-#### Week 27: Hinduism — Many Gods, One Ultimate Reality
+#### Week 11: Hinduism — Many Gods, One Ultimate Reality
 **Topics**:
 - Sacred texts: Vedas, Upanishads, Bhagavad Gita
 - Pantheon of gods (Brahma, Vishnu, Shiva) and avatars
@@ -171,15 +266,15 @@ The official Understanding the Times syllabus is 36 weeks (180 days). To make ro
 - Discussion Brief: "What are the ethical implications of karma and reincarnation?"
 - Case Study: Analyze caste system through a Christian worldview lens
 
-**Assessment**: Quiz on Buddhism and Hinduism (Week 27, Day 5)
+**Assessment**: Quiz on Buddhism and Hinduism (Week 11, Day 5)
 
 ---
 
-### Unit 8: Mormonism / LDS (Weeks 28-30)
+### Unit 2 Details: Mormonism / LDS (Weeks 4-5)
 
 **Overview**: The Church of Jesus Christ of Latter-Day Saints (LDS) is a significant American religious movement that claims to be Christian but departs from historic orthodox Christianity in key areas. Understanding Mormonism is essential for evangelism and cultural engagement in the U.S.
 
-#### Week 28: Origins and Claims
+#### Week 4: Origins and Claims
 **Topics**:
 - Life of Joseph Smith and the founding of the LDS church (1830)
 - Key claims: additional scripture (Book of Mormon, D&C, Pearl of Great Price), modern prophets, restoration of true Christianity
@@ -200,7 +295,7 @@ The official Understanding the Times syllabus is 36 weeks (180 days). To make ro
 **Assignments**:
 - Discussion Brief: "How would you respond to a Mormon missionary who says, 'We're Christians too'?"
 
-#### Week 29: Theology and Scriptures
+#### Week 5: Theology and Scriptures
 **Topics**:
 - View of God: "God was once a man," exaltation to godhood
 - Christology: Jesus as spirit-brother of Lucifer, different from historic Christian doctrine
@@ -221,7 +316,7 @@ The official Understanding the Times syllabus is 36 weeks (180 days). To make ro
 - Pair & Defend: "The LDS church is a Christian denomination vs. The LDS church is a distinct religion"
 - Research project: Compare a key LDS doctrine (choose from: God, Jesus, salvation, scripture) with biblical Christianity
 
-#### Week 30: Evangelism and Cultural Engagement
+#### (Integrated into Week 5): Evangelism and Cultural Engagement
 **Topics**:
 - How to engage Mormons with the gospel (relational evangelism, doctrinal conversations)
 - Common apologetic approaches: archaeology, prophecy, grace vs. works
@@ -237,13 +332,15 @@ The official Understanding the Times syllabus is 36 weeks (180 days). To make ro
 - Case Study: Small groups practice responding to common LDS truth claims
 - Discussion Brief: "What is the most compelling way to share the gospel with a Mormon?"
 
-**Assessment**: Test on Mormonism (Week 30, Day 5)
+**Assessment**: Test on Mormonism (Week 5, Day 5)
 
 ---
 
-## Comparative Analysis (Weeks 31-32)
+## Comparative Analysis and Application (Weeks 25-32)
 
-### Week 31: Cross-Worldview Synthesis
+Now integrated into Units 8-9. See "Week-by-Week Outline" above for details.
+
+### Week 25-28: Cross-Worldview Synthesis
 **Topics**:
 - Create comparison charts across all 8 worldviews
 - Identify common ground and irreconcilable differences
@@ -254,7 +351,7 @@ The official Understanding the Times syllabus is 36 weeks (180 days). To make ro
 - Debate tournament: students defend assigned worldviews on key issues (abortion, justice, meaning of life, etc.)
 - Worldview grid: students fill in answers to 10 life questions across all 8 worldviews
 
-### Week 32: Application to Contemporary Issues
+### Week 29-32: Application to Contemporary Issues
 **Topics**:
 - Choose 3-5 contemporary issues and analyze through multiple worldview lenses:
   - Bioethics (abortion, euthanasia, genetic engineering)
