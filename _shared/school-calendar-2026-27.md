@@ -2,7 +2,9 @@
 
 ## Key Dates
 
-- **First Day of School:** August 17, 2026
+- **Senior Orientation:** August 17, 2026
+- **Senior Retreat:** August 18–20, 2026 (offsite, no formal classes)
+- **First Day of School (all students):** August 24, 2026
 - **Last Day of School:** May 21, 2027
 
 ## Trimester End Dates
@@ -17,6 +19,8 @@
 
 | Date | Event | Notes |
 |---|---|---|
+| Aug 18–20, 2026 | Senior Retreat | Offsite retreat; no formal classes |
+| Aug 21, 2026 | No School | |
 | Sep 7, 2026 | Labor Day | |
 | Sep 18, 2026 | Teacher Work Day | MS-HS Progress Reports |
 | Oct 2, 2026 | Teacher Work Day | |
