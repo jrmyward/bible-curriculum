@@ -51,24 +51,31 @@ Generate a cohort-style teaching map for a class in this Bible curriculum reposi
    - `_shared/school-calendar-2026-27.md` — school calendar and no-school dates
    - `_shared/teaching-styles.md` — teaching style reference
    - Style-specific tool files (e.g., `_shared/cohort-tools.md` for cohort style)
-   - `classes/<class-name>/syllabus/syllabus.md` — official syllabus (if it exists)
+   - `_skill/SKILL_supplemental_content.md` — guide for integrating supplemental units
 
-4. **Gather chapter/syllabus data**
-   - If official syllabus exists in `classes/<class-name>/syllabus/syllabus.md`, use it
-   - Otherwise, ask the teacher to provide chapter list, syllabus, or unit breakdown
+5. **Determine which syllabus to use**
+   - Check for syllabi in this order:
+     1. `classes/<class-name>/syllabus/custom-syllabus.md` (if exists, ask whether to use custom or official)
+     2. `classes/<class-name>/syllabus/syllabus.md` (official extracted syllabus)
+     3. If neither exists, ask teacher for chapter list/content outline
+   - If custom syllabus is selected:
+     - Read `_skill/SKILL_supplemental_content.md` for integration guidance
+     - Follow the structure defined in the custom syllabus (condensed core + supplemental, extended course, etc.)
+     - Mark supplemental units clearly in the teaching map
 
-5. **Generate the teaching map**
+6. **Generate the teaching map**
    - Follow the process in `_skill/SKILL_cohort_teaching_map.md`
    - Incorporate school calendar, no-school dates, and trimester ends
    - Integrate cohort tools (Discussion Brief, Pair & Defend, Case Study, Capstone)
    - Build realistic pacing for high school discussion-heavy instruction
    - Account for all breaks, half-days, and assessment checkpoints
 
-6. **Write the map**
+7. **Write the map**
    - Save to `classes/<class-name>/teaching-map.md`
    - Follow the format specified in the skill definition
+   - If using custom syllabus, add note at top referencing supplemental content
 
-7. **Remind the teacher**
+8. **Remind the teacher**
    - After generating, remind them to review for school events, field trips, or special schedules that may need adjustment
 
 ## Notes
