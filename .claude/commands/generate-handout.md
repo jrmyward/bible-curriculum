@@ -10,12 +10,13 @@ Create a specific handout for a lesson using templates or custom generation.
 
 ## Usage
 
-```
+```bash
 /generate-handout <handout-type> --week <week-number> [options]
 ```
 
 **Examples:**
-```
+
+```bash
 /generate-handout core-reading-guide --week 5 --chapter 3
 /generate-handout note-catcher --week 5 --chapter 3
 /generate-handout discussion-brief --week 5 --number 3 --prompt "What is the strongest objection to biblical reliability?"
@@ -24,6 +25,15 @@ Create a specific handout for a lesson using templates or custom generation.
 /generate-handout video-note-catcher --week 5 --video "The Case for Reliability of the Gospels"
 /generate-handout reflection --week 1 --title "Week 1 Reflection"
 ```
+
+## Prerequisites
+
+Before running this command, ensure:
+
+- ✅ **Teaching map exists**: For context about the week's content
+- ✅ **Week directory exists**: `lesson-plans-<year>/week-XX-<date>/handouts/`
+
+If the week directory doesn't exist, run `/scaffold-lesson-structure` first.
 
 **Note:** Handouts are written to `lesson-plans-<year>/week-XX-<date>/handouts/` directory.
 

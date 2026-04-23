@@ -1,32 +1,76 @@
-Create a new class in this Bible curriculum repository.
+---
+name: new-class
+description: Create a new class in this Bible curriculum repository
+args: "[class-name]"
+---
 
-Follow these steps:
+# Create New Class
 
-1. Ask the teacher for:
-   - Class name (will be used as the folder name, lowercased and hyphenated)
-   - Grade level (e.g. 11–12)
-   - Textbook or series used
-   - Number of chapters or units
+Create a new class directory with all necessary structure for lesson planning.
 
-2. Create the class directory under `classes/<class-name>/` with this structure:
-   ```
-   classes/<class-name>/
-   ├── README.md
-   ├── teaching-map.md      (placeholder — will be generated separately)
-   ├── lesson-plans/.gitkeep
-   ├── assessments/.gitkeep
-   └── handouts/.gitkeep
-   ```
+## Usage
 
-3. Generate a `README.md` for the class that includes:
-   - Class title
-   - Grade level
-   - Textbook/series
-   - Number of chapters
-   - A brief course description (ask the teacher or draft one for review)
-   - The standard subfolder layout
+```bash
+/new-class [class-name]
+```
 
-4. After creating the class, remind the teacher:
-   > To generate a full teaching map, provide the syllabus or chapter list and run `/generate-map`.
+**Examples:**
 
-5. Update the "Current Classes" section in the root `CLAUDE.md` to include the new class as a stub.
+```bash
+/new-class apologetics
+/new-class old-testament-survey
+/new-class biblical-ethics
+```
+
+## Process
+
+### 1. Gather class information
+
+Ask the teacher for:
+
+- Class name (will be used as the folder name, lowercased and hyphenated)
+- Grade level (e.g. 11–12)
+- Textbook or series used
+- Number of chapters or units
+
+### 2. Create the class directory structure
+
+Create `classes/<class-name>/` with this structure:
+
+```text
+classes/<class-name>/
+├── README.md
+├── teaching-maps/         (will hold year-specific maps)
+├── syllabus/              (for syllabus images and extracted content)
+└── lesson-plans-YYYY-YY/  (created later by /scaffold-lesson-structure)
+```
+
+### 3. Generate the class README
+
+Create `classes/<class-name>/README.md` with:
+
+- Class title (properly capitalized)
+- Grade level
+- Textbook/series
+- Number of chapters
+- Brief course description (ask teacher or draft for review)
+- Explanation of subfolder structure
+- Link to next steps
+
+### 4. Update project index
+
+Add new class to the "Current Classes" table in `/CLAUDE.md`
+
+### 5. Next steps reminder
+
+After creating the class, remind the teacher:
+
+```text
+✅ Class created: <class-name>
+
+Next steps:
+1. Upload syllabus images to classes/<class-name>/syllabus/
+2. Run /generate-official-syllabus to extract chapter structure
+3. Run /generate-map <class-name> to create teaching map
+4. Run /lesson-plan-workflow <class-name> to build lesson plans
+```

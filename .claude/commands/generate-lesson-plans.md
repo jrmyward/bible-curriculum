@@ -10,16 +10,33 @@ Generate comprehensive, day-by-day lesson plans for a specific week based on tex
 
 ## Usage
 
-```
+```bash
 /generate-lesson-plans <week-number> [--class class-name] [--year YYYY-YY]
 ```
 
 **Examples:**
-```
+
+```bash
 /generate-lesson-plans 5
 /generate-lesson-plans 12 --class understanding-the-faith
 /generate-lesson-plans 23 --year 2026-27
 ```
+
+## Prerequisites
+
+Before running this command, ensure:
+
+- ✅ **Teaching map exists**: `classes/<class-name>/teaching-maps/teaching-map-<year>.md`
+- ✅ **School calendar exists**: `_shared/school-calendar-<year>.md`
+- ✅ **Class directory exists**: `classes/<class-name>/`
+
+If missing:
+
+- Teaching map → Run `/generate-map <class-name>`
+- School calendar → Create manually in `_shared/`
+- Class directory → Run `/new-class <class-name>`
+
+**Note:** The lesson structure will be scaffolded automatically if it doesn't exist.
 
 ## Process
 

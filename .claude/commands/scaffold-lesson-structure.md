@@ -10,16 +10,29 @@ Create the complete directory structure for lesson plans, handouts, substitute p
 
 ## Usage
 
-```
+```bash
 /scaffold-lesson-structure <class-name> [--year YYYY-YY]
 ```
 
 **Example:**
-```
+
+```bash
 /scaffold-lesson-structure understanding-the-faith
 /scaffold-lesson-structure understanding-the-faith --year 2026-27
 /scaffold-lesson-structure worldview --year 2027-28
 ```
+
+## Prerequisites
+
+Before running this command, ensure:
+
+- ✅ **Teaching map exists**: `classes/<class-name>/teaching-maps/teaching-map-<year>.md`
+- ✅ **Class directory exists**: `classes/<class-name>/`
+
+If missing:
+
+- Teaching map → Run `/generate-map <class-name>`
+- Class directory → Run `/new-class <class-name>`
 
 ## Process
 

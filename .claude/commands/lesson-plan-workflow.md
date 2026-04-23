@@ -10,16 +10,31 @@ Interactive guide to build out a complete set of lesson plans for a class, from 
 
 ## Usage
 
-```
+```bash
 /lesson-plan-workflow [class-name] [--year YYYY-YY]
 ```
 
 **Examples:**
-```
+
+```bash
 /lesson-plan-workflow understanding-the-faith
 /lesson-plan-workflow understanding-the-faith --year 2026-27
 /lesson-plan-workflow worldview --year 2027-28
 ```
+
+## Prerequisites
+
+Before running this command, ensure:
+
+- ✅ **Teaching map exists**: `classes/<class-name>/teaching-maps/teaching-map-<year>.md`
+- ✅ **Class directory exists**: `classes/<class-name>/`
+
+If missing:
+
+- Teaching map → Run `/generate-map <class-name>`
+- Class directory → Run `/new-class <class-name>`
+
+**Note:** This workflow will scaffold the lesson structure automatically if needed.
 
 ## What This Skill Does
 

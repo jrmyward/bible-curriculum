@@ -1,24 +1,88 @@
-Generate a cohort teaching map for a class in this Bible curriculum repository.
+---
+name: generate-map
+description: Generate a cohort teaching map for a Bible curriculum class
+args: "[class-name]"
+---
 
-Follow these steps:
+# Generate Teaching Map
 
-1. Read `.claude/commands/cohort-teaching-map.md` for the full teaching map generation process and format.
+Generate a cohort-style teaching map for a class in this Bible curriculum repository.
 
-2. Read `_shared/school-calendar-2026-27.md` for the school calendar, trimester dates, and all no-school dates.
+## Usage
 
-3. Ask the teacher: which class is this teaching map for? List the available classes from `classes/`.
+```
+/generate-map <class-name>
+```
 
-4. Check if `classes/<class-name>/teaching-map.md` already exists.
-   - If it exists, ask whether to regenerate or update it.
-   - If it doesn't exist, check for `classes/<class-name>/syllabus/syllabus.md` to use as the source.
-   - If no syllabus exists, ask the teacher to paste or describe the chapter list, syllabus, or unit breakdown.
+**Example:**
+```
+/generate-map understanding-the-faith
+/generate-map worldview
+/generate-map old-testament-survey
+```
 
-5. Generate the full cohort teaching map following the skill definition, incorporating:
-   - The school calendar and no-school dates
-   - The cohort tools from `_shared/cohort-tools.md`
-   - The chapter/unit list from the syllabus or provided by the teacher
-   - Realistic pacing for a high school Bible class (discussion-heavy, not lecture-heavy)
+## Process
 
-6. Write the completed map to `classes/<class-name>/teaching-map.md`.
+1. **Validate class name**
+   - Check that `classes/<class-name>/` exists
+   - If not, list available classes and exit
 
-7. After generating, remind the teacher to review the map and flag any weeks that need adjustment for school events, field trips, or special schedules.
+2. **Check for existing teaching map**
+   - If `classes/<class-name>/teaching-map.md` exists, ask whether to regenerate or update
+   - If it doesn't exist, proceed to generation
+
+3. **Ask which teaching style to use**
+   - Present available teaching map styles:
+     1. **Cohort Teaching Model** - Discussion-first, debate-heavy (default)
+     2. **Lecture-Seminar Model** - Teacher-led content + discussion days
+     3. **Inductive Bible Study (IBS)** - Observation → Interpretation → Application
+     4. **Chronological Narrative** - Bible as one unified story
+   - If the teacher doesn't specify, recommend based on course type:
+     - Apologetics/Worldview → Cohort
+     - Survey courses → Lecture-Seminar or Chronological Narrative
+     - Book studies → Inductive Bible Study
+     - Theology courses → Cohort or Lecture-Seminar
+
+4. **Read required files**
+   - `_shared/teaching-map-styles/<style>-teaching-map.md` — teaching map generation process for chosen style
+   - `_shared/school-calendar-2026-27.md` — school calendar and no-school dates
+   - Style-specific tool files (e.g., `_shared/cohort-tools.md` for cohort style)
+   - `.claude/commands/supplemental-content.md` — guide for integrating supplemental units (if needed)
+
+5. **Determine which syllabus to use**
+   - Check for syllabi in this order:
+     1. `classes/<class-name>/syllabus/custom-syllabus.md` (if exists, ask whether to use custom or official)
+     2. `classes/<class-name>/syllabus/syllabus.md` (official extracted syllabus)
+     3. If neither exists, ask teacher for chapter list/content outline
+   - If custom syllabus is selected:
+     - Read `.claude/commands/supplemental-content.md` for integration guidance
+     - Follow the structure defined in the custom syllabus (condensed core + supplemental, extended course, etc.)
+     - Mark supplemental units clearly in the teaching map
+
+6. **Determine the school year**
+   - Auto-detect from current date (Aug-May = current school year)
+   - Or ask teacher: "Which school year is this map for? (e.g., 2026-27)"
+   - This determines which school calendar to use
+
+7. **Generate the teaching map**
+   - Follow the process in the selected teaching style's internal command file
+   - Incorporate school calendar, no-school dates, and trimester ends
+   - Integrate style-specific tools (e.g., cohort tools: Discussion Brief, Pair & Defend, Case Study, Capstone)
+   - Build realistic pacing for high school instruction
+   - Account for all breaks, half-days, and assessment checkpoints
+
+8. **Write the map**
+   - Save to `classes/<class-name>/teaching-maps/teaching-map-<year>.md` (e.g., `teaching-map-2026-27.md`)
+   - If this is the first/only teaching map, also create a symlink: `classes/<class-name>/teaching-map.md` → `teaching-maps/teaching-map-<year>.md`
+   - Follow the format specified in the teaching style definition
+   - If using custom syllabus, add note at top referencing supplemental content
+
+9. **Remind the teacher**
+   - After generating, remind them to review for school events, field trips, or special schedules that may need adjustment
+
+## Notes
+
+- The teaching map aligns chapter content with the actual school calendar
+- Cohort tools follow a rhythm: Reading → Discussion Brief → Pair & Defend → Case Study → (occasional) Capstone
+- Major capstones are placed at trimester ends for summative assessment
+- Flex days are built in for catch-up and review

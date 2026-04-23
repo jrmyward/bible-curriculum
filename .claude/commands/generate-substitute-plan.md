@@ -10,16 +10,26 @@ Create a detailed, self-contained substitute teacher plan for a teacher absence 
 
 ## Usage
 
-```
+```bash
 /generate-substitute-plan <week-number> <day>
 ```
 
 **Examples:**
-```
+
+```bash
 /generate-substitute-plan 1 friday
 /generate-substitute-plan 2 thursday
 /generate-substitute-plan 33 monday
 ```
+
+## Prerequisites
+
+Before running this command, ensure:
+
+- ✅ **Teaching map exists**: To understand week context and verify sub day
+- ✅ **Week directory exists**: `lesson-plans-<year>/week-XX-<date>/`
+
+If missing, run `/scaffold-lesson-structure` first.
 
 ## Process
 
