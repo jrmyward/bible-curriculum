@@ -66,23 +66,40 @@ From `classes/<class-name>/teaching-maps/teaching-map-<year>.md` (or fall back t
 - **Trimester** (T1, T2, or T3)
 - **Unit** (which unit this week belongs to)
 
-### 3. **Request Textbook Chapter Images**
+### 3. **Locate Textbook Chapter Images**
 
-Prompt the user:
+Source images live at the **class level**, organized by chapter:
+
+```
+classes/<class-name>/_source-text/chXX/
+  textbook/          ← photos of the textbook chapter pages
+  student-manual/    ← photos of the student manual discussion questions (optional, but useful)
+```
+
+**First, check if images already exist** at `classes/<class-name>/_source-text/ch<XX>/textbook/`. If they do:
+
+- Read the images from `textbook/` for chapter content
+- If `student-manual/` also exists, read those too — they provide publisher-authored discussion questions mapped to sections (e.g., `[1.6]` = Chapter 1, Section 6), which can seed Discussion Briefs and note catchers
+- Acknowledge: "Found N textbook pages and M student-manual pages for Chapter X at `_source-text/ch<XX>/`. Analyzing chapter structure..."
+
+**If images are NOT yet staged**, prompt the user:
 
 ```
 To generate lesson plans for Week X ([Chapter]), I need images of the textbook chapter.
 
-Please provide:
-- Chapter X from "[Textbook name]"
-- All pages (title page through end-of-chapter review)
-- Images can be photos, scans, or screenshots
+Please place images in:
+  classes/<class-name>/_source-text/ch<XX>/textbook/       (required)
+  classes/<class-name>/_source-text/ch<XX>/student-manual/ (optional)
 
-Upload images now, or type 'skip' to generate plans from teaching map only (less detailed).
+Or upload them in this conversation. Images can be photos, scans, or screenshots
+covering title page through end-of-chapter review.
+
+Type 'skip' to generate plans from teaching map only (less detailed).
 ```
 
-If user uploads images:
+If user uploads images in-conversation:
 - Acknowledge: "Received X images for Chapter X. Analyzing chapter structure..."
+- Offer to save them to `_source-text/ch<XX>/textbook/` so they're reusable for future years
 
 If user types 'skip':
 - Acknowledge: "Generating plans from teaching map context only. You can regenerate later with chapter images for more detail."
