@@ -47,9 +47,9 @@ If missing:
 - If `--year` not provided, detect from directory structure or default to current school year
 - Verify week number is valid (check teaching map for total weeks)
 - Determine week directory name from teaching map (e.g., `week-05-sep-21`)
-- Check if `lesson-plans-<year>/week-XX-<date>/lesson-plans.md` already exists
-  - If exists: "Week X lesson plan already exists. Regenerate? (yes/no)"
-  - If regenerating: back up existing file to `lesson-plans.backup.md` in the same directory
+- Check if daily lesson plan files already exist in `lesson-plans-<year>/week-XX-<date>/` (e.g., `1-monday.md`)
+  - If exists: "Week X lesson plans already exist. Regenerate? (yes/no)"
+  - If regenerating: back up existing daily files to a `backup/` subdirectory
 
 ### 2. **Read Teaching Map Context**
 
@@ -149,24 +149,31 @@ Based on teaching map activities and chapter content, design a 5-day (or 3-4 day
 
 ### 6. **Generate Day-by-Day Lesson Plans**
 
-For each instructional day, create a detailed lesson plan following this structure:
+Each day is written to its own file (`1-monday.md`, `2-tuesday.md`, etc.). The number prefix keeps days ordered when browsing the repository.
+
+For each instructional day, create a file following this structure:
 
 ```markdown
-## **[DAY], [MONTH DATE] — [Lesson Focus]**
+# [Day], [Month Date] — [Lesson Focus]
 
-### **Objectives:**
+**Week X** | **Ch X — [Chapter Title]**
+**Class Period:** 45 minutes
+
+---
+
+### Objectives:
 - [Objective 1: content goal]
 - [Objective 2: skill goal]
 - [Objective 3: assessment or application goal]
 
-### **Materials:**
+### Materials:
 - [Material 1]
 - [Material 2]
-- [Handout name] (file: `handouts/week-XX/[filename].md` — one per student)
+- [Handout name] (`handouts/[filename].md` — one per student)
 
-### **Lesson Flow:**
+### Lesson Flow:
 
-#### **[0–X min] [Activity Name]**
+#### [0–X min] [Activity Name]
 
 **[Teacher instruction or student activity description]**
 
@@ -182,23 +189,15 @@ For each instructional day, create a detailed lesson plan following this structu
 
 **Teacher role:** [What teacher does during this segment]
 
----
-
-#### **[X–X min] [Next Activity Name]**
+#### [X–X min] [Next Activity Name]
 
 [Repeat structure]
 
----
-
 [Continue for all activities until end of period]
-
----
-
-**Due:** [What's due this day]  
-**Notes:** [Any important reminders or context]
-
----
 ```
+
+**File naming:** `1-monday.md`, `2-tuesday.md`, `3-wednesday.md`, `4-thursday.md`, `5-friday.md`
+For short weeks, only create files for instructional days (e.g., a 3-day week gets `1-monday.md`, `2-tuesday.md`, `3-wednesday.md`).
 
 **Each lesson should:**
 - Be **45 minutes** total (standard class period)
@@ -260,53 +259,40 @@ If the teaching map marks any day this week as **SUB:**:
 
 Write all files to `lesson-plans-<year>/week-XX-<date>/`:
 
-**Main lesson plan file:** `lesson-plans.md`
+**Daily lesson plan files:**
 
-```markdown
-# Week X Lesson Plans — [Class Name]
+- `1-monday.md`
+- `2-tuesday.md`
+- `3-wednesday.md`
+- `4-thursday.md`
+- `5-friday.md`
 
-**Week:** [Dates]  
-**Chapter:** [Chapter]  
-**Topic:** [Topic]  
-**Class Period:** 45 minutes  
-**Teacher Absence:** [None / Day if substitute]
-
----
-
-## **[DAY 1], [MONTH DATE] — [Lesson Focus]**
-
-[Full lesson plan as generated in Step 6]
-
----
-
-## **[DAY 2], [MONTH DATE] — [Lesson Focus]**
-
-[Full lesson plan]
-
----
-
-[Continue for all 5 days, or 3-4 for short weeks]
-
----
-
-**End of Week X Lesson Plans**
-```
+Each file is self-contained with its own header (day, date, title, week/chapter context, class period).
 
 **Handouts:** All handouts written to `handouts/` subdirectory
+
 - `handouts/core-reading-guide-chXX.md`
 - `handouts/note-catcher-chXX.md`
-- `handouts/discussion-brief-XX-template.md`
+- `handouts/discussion-brief-XX.md`
 - etc.
 
-**Substitute plan** (if applicable): `substitute-plan-<day>.md`
+**Assessment references:** Daily plans should reference shared rubrics in `../../assessments/` (e.g., `../../assessments/discussion-brief-rubric.md`) rather than inlining rubric content.
 
-**Week README**: Update `README.md` to mark as generated:
+**Week README**: Update `README.md` to list generated files:
+
 ```markdown
 ## Files in This Directory
 
-- **`lesson-plans.md`** — Complete day-by-day lesson plans (5 days) ✅ Generated
-- **`handouts/`** — All handouts for this week (6 files)
-- **`substitute-plan-friday.md`** — Detailed substitute plan ✅ Generated
+### Lesson Plans
+- `1-monday.md` — [Lesson Focus]
+- `2-tuesday.md` — [Lesson Focus]
+- `3-wednesday.md` — [Lesson Focus]
+- `4-thursday.md` — [Lesson Focus]
+- `5-friday.md` — [Lesson Focus]
+
+### Handouts (`handouts/`)
+- `core-reading-guide-chXX.md` — [Description]
+- [... list all handouts]
 ```
 
 ### 10. **Cross-Reference with Teaching Map**
@@ -342,13 +328,16 @@ Display summary:
 ✅ Week X lesson plans generated for [class-name] (<year>)
 
 Created in lesson-plans-<year>/week-XX-<date>/:
-- lesson-plans.md (X days, XX pages)
+- 1-monday.md — [Lesson Focus]
+- 2-tuesday.md — [Lesson Focus]
+- 3-wednesday.md — [Lesson Focus]
+- 4-thursday.md — [Lesson Focus]
+- 5-friday.md — [Lesson Focus]
 - handouts/ (X files):
   - core-reading-guide-chXX.md
   - note-catcher-chXX.md
-  - discussion-brief-XX-template.md
+  - discussion-brief-XX.md
   - [... list all handouts]
-- substitute-plan-<day>.md [if applicable]
 - README.md (updated)
 
 Updated:

@@ -143,8 +143,8 @@ Template for Discussion Brief assignments with prompt and rubric.
 1. Read the teaching map to understand the Discussion Brief context
 2. Generate the template with the provided prompt
 3. Include 2-4 "Think about:" prompts to guide student thinking
-4. Include the standard rubric (from Week 1 example)
-5. Write to `lesson-plans-<year>/week-XX-<date>/handouts/discussion-brief-XX-template.md`
+4. Include the standard rubric from `lesson-plans-<year>/assessments/discussion-brief-rubric.md`
+5. Write to `lesson-plans-<year>/week-XX-<date>/handouts/discussion-brief-XX.md`
 
 **Template structure:**
 ```markdown
@@ -178,7 +178,7 @@ Write a 1-page, double-spaced response to the prompt above. Your brief should in
 
 ## Rubric
 
-[Include standard 5-criterion rubric from week-01-lesson-plans.md]
+[Include rubric from `../../assessments/discussion-brief-rubric.md`]
 
 **Total: _____ / 20 points**
 ```
@@ -196,7 +196,7 @@ Case Study scenario with group work instructions.
 2. Generate a realistic scenario based on the topic and type
 3. Include discussion questions (3-5)
 4. Include group roles (Facilitator, Scribe, Presenter, Researcher)
-5. Include write-up instructions and rubric
+5. Reference the shared rubric from `lesson-plans-<year>/assessments/case-study-rubric.md` (pass/fail, participation-based)
 6. Write to `lesson-plans-<year>/week-XX-<date>/handouts/case-study-[topic-slug].md`
 
 **Template structure:**
@@ -238,30 +238,25 @@ Working in groups of 3-4, discuss the scenario and answer the following question
 
 ---
 
-## Write-Up Instructions
+## Group Deliverables
 
-Submit **one write-up per group** (1-2 pages) that includes:
+Your group must produce all three:
 
-1. Brief summary of your group's position
-2. Answers to the 5 questions above
-3. Key Scripture or textbook references you used
-4. One question or tension your group couldn't resolve
-
-**Format:** Typed, names of all group members at top
-
-**Due:** [Date from teaching map]
+1. **Summary of the dilemma** — What's the situation? What makes it hard?
+2. **Recommended response** — What should the person/group do, and why?
+3. **Strongest counterargument** — What's the best objection to your own recommendation?
 
 ---
 
-## Rubric
+## Grading
 
-| Criterion | Points |
-|-----------|--------|
-| Answered all 5 questions clearly | 8 |
-| Used Scripture/textbook evidence | 5 |
-| Showed critical thinking (not just obvious answers) | 4 |
-| Well-organized and proofread | 3 |
-| **Total** | **20** |
+Case Studies are graded on **participation** (pass/fail). See `../../assessments/case-study-rubric.md` for full details.
+
+| Score | Criteria |
+|-------|----------|
+| **100%** | Participated in group work. Group produced all 3 deliverables. Contributed to presentation. |
+| **50%** | Participated but group deliverables were incomplete or rushed. |
+| **0%** | Absent, refused to participate, or clearly did not contribute. |
 ```
 
 ---
@@ -348,15 +343,13 @@ You will be paired with a partner and assigned a position (pro or con). Your job
 
 ## Grading
 
-You're graded on the **quality of your argument**, not whether you "win."
+Pair & Defend is graded on **participation** (pass/fail). See `../../assessments/pair-and-defend-rubric.md` for full details.
 
-| Criterion | Points |
-|-----------|--------|
-| Clear thesis and logical structure | 4 |
-| Used evidence (Scripture/textbook) | 3 |
-| Engaged with opponent's argument in rebuttal | 2 |
-| Spoke clearly and confidently | 1 |
-| **Total** | **10** |
+| Score | Criteria |
+|-------|----------|
+| **100%** | Participated fully. Defended assigned position for 3 min. Asked/answered follow-up questions. |
+| **50%** | Participated but unprepared. Didn't use full time or struggled to articulate position. |
+| **0%** | Absent or refused to participate. |
 ```
 
 ---

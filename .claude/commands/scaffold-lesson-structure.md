@@ -63,17 +63,23 @@ If missing:
    
    ```
    classes/<class-name>/lesson-plans-<year>/
+   classes/<class-name>/lesson-plans-<year>/assessments/
+   classes/<class-name>/lesson-plans-<year>/handouts/
    classes/<class-name>/lesson-plans-<year>/week-01-<mon-day>/
    classes/<class-name>/lesson-plans-<year>/week-01-<mon-day>/handouts/
    classes/<class-name>/lesson-plans-<year>/week-02-<mon-day>/
    classes/<class-name>/lesson-plans-<year>/week-02-<mon-day>/handouts/
    [...through week-XX based on teaching map]
-   classes/<class-name>/lesson-plans-<year>/assessments/
    ```
-   
+
+   **Directory purpose:**
+   - `assessments/` — Shared rubrics and assessment materials used across all weeks
+   - `handouts/` — Shared handouts used across multiple weeks (top-level)
+   - `week-XX/handouts/` — Week-specific handouts (reading guides, note-catchers, etc.)
+
    Note: Week directory names include the date (e.g., `week-01-aug-24`) parsed from teaching map.
 
-   **Important:** Add `.gitkeep` files to all empty directories (`handouts/`, `assessments/`) so Git tracks them.
+   **Important:** Add `.gitkeep` files to all empty directories so Git tracks them.
 
 5. **Create main README file**
 
@@ -87,13 +93,12 @@ If missing:
    
    Each week has its own directory with all materials:
    
+   - **`assessments/`**: Shared rubrics for all grading categories
+   - **`handouts/`**: Shared handouts used across multiple weeks
    - **`week-XX-<mon-day>/`**: Week directory (named with start date)
      - **`README.md`**: Week overview and post-teaching notes
-     - **`lesson-plans.md`**: Complete day-by-day lesson plans (Monday–Friday)
-     - **`handouts/`**: All handouts for this week
-     - **`substitute-plan-<day>.md`**: Substitute plan (if applicable)
-   
-   - **`assessments/`**: Major course assessments and rubrics (Capstones, essays)
+     - **`1-monday.md`** through **`5-friday.md`**: Daily lesson plans (number prefix keeps them ordered)
+     - **`handouts/`**: Week-specific handouts
    - **`.generation-log.md`**: Tracks how each week was created
    
    ## Generating Lesson Plans
@@ -159,9 +164,11 @@ If missing:
    
    ## Files in This Directory
    
-   - **`lesson-plans.md`** — Complete day-by-day lesson plans (not yet generated)
-   - **`handouts/`** — All handouts for this week (empty until generated)
-   - **`substitute-plan-<day>.md`** — Substitute plan (if applicable)
+   ### Lesson Plans
+   - `1-monday.md` through `5-friday.md` — Daily lesson plans (not yet generated)
+   
+   ### Handouts (`handouts/`)
+   - Week-specific handouts (empty until generated)
    
    ---
    
@@ -197,31 +204,24 @@ If missing:
 
 9. **Create assessment stub files**
 
-   Based on the teaching map's capstone schedule, create:
-   
-   - `assessments/capstone-01-rubric.md`
-   - `assessments/capstone-02-rubric.md`
-   - `assessments/capstone-03-rubric.md`
-   - `assessments/capstone-final-rubric.md`
-   - `assessments/final-reflection-essay.md`
-   - Any other major assessments from the teaching map
+   Create shared rubric files for all grading categories:
 
-   Each stub includes:
-   ```markdown
-   # [Assessment Name] — [Class Name]
-   
-   **Due:** [Date from teaching map]  
-   **Chapters Covered:** [Chapters]  
-   **Weight:** [Percentage from teaching map]
-   
-   ---
-   
-   _This assessment rubric has not been created yet._
-   
-   ## Context from Teaching Map
-   
-   [Copy relevant notes about this assessment from teaching map]
-   ```
+   **Shared rubrics (always created):**
+
+   - `assessments/discussion-brief-rubric.md` — 20-point rubric (thesis, reasoning, evidence, clarity, mechanics)
+   - `assessments/case-study-rubric.md` — Pass/fail participation rubric (100/50/0)
+   - `assessments/pair-and-defend-rubric.md` — Pass/fail participation rubric (100/50/0)
+   - `assessments/capstone-rubric.md` — 100-point rubric (thesis, evidence, counterargument, presentation, final brief)
+
+   **Assessment-specific stubs (from teaching map):**
+
+   - `assessments/capstone-01-rubric.md` — Capstone #1 prompt and timeline
+   - `assessments/capstone-02-rubric.md` — Capstone #2 prompt and timeline
+   - `assessments/capstone-03-rubric.md` — Capstone #3 prompt and timeline
+   - `assessments/capstone-final-rubric.md` — Final Capstone prompt and timeline
+   - `assessments/final-reflection-essay.md` — End-of-course reflection
+
+   Each capstone stub includes the shared rubric structure plus capstone-specific details (prompt, chapters, due dates) from the teaching map.
 
 10. **Generate weeks overview table**
 

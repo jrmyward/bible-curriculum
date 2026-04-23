@@ -45,6 +45,8 @@ Generated lesson plans should meet all of the following standards.
 
 ## Follows Week 1 Exemplar
 
-- Tone, structure, and level of detail match `week-01-lesson-plans.md`
-- Handouts follow the same format and rubric standards
+- Tone, structure, and level of detail match the Week 1 daily files (`week-01-aug-24/1-monday.md` through `5-friday.md`)
+- Each day is its own file with a self-contained header (day, date, title, week/chapter context)
+- Handouts are standalone files in the week's `handouts/` directory, not inlined in lesson plans
+- Rubrics reference shared files in `assessments/` rather than being duplicated
 - Teacher scripts are in the same style (warm, clear, not condescending)
