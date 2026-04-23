@@ -73,6 +73,8 @@ If missing:
    
    Note: Week directory names include the date (e.g., `week-01-aug-24`) parsed from teaching map.
 
+   **Important:** Add `.gitkeep` files to all empty directories (`handouts/`, `assessments/`) so Git tracks them.
+
 5. **Create main README file**
 
    **`lesson-plans-<year>/README.md`:**

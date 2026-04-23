@@ -1,4 +1,10 @@
-# Skill: Generate Official Syllabus
+---
+name: generate-official-syllabus
+description: Convert syllabus images from a textbook into structured markdown
+args: "[class-name]"
+---
+
+# Generate Official Syllabus
 
 **Purpose**: Convert syllabus images from a textbook into a structured markdown file that can be consumed by the teaching map generator.
 

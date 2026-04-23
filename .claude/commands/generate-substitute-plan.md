@@ -191,7 +191,7 @@ If missing, run `/scaffold-lesson-structure` first.
    - Department chair: [name, room number]
    
    **For Mr. Ward (non-urgent):**
-   - Email: jeremy@workhorsesolutions.llc
+   - Email: [use the teacher's email from CLAUDE.md userEmail context]
    
    ---
    

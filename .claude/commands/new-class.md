@@ -40,10 +40,14 @@ Create `classes/<class-name>/` with this structure:
 ```text
 classes/<class-name>/
 ├── README.md
-├── teaching-maps/         (will hold year-specific maps)
-├── syllabus/              (for syllabus images and extracted content)
+├── teaching-maps/
+│   └── .gitkeep
+├── syllabus/
+│   └── .gitkeep
 └── lesson-plans-YYYY-YY/  (created later by /scaffold-lesson-structure)
 ```
+
+**Note:** Add `.gitkeep` files to empty directories so Git tracks them.
 
 ### 3. Generate the class README
 

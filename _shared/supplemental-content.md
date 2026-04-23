@@ -1,8 +1,6 @@
-# Skill: Supplemental Content Integration for Teaching Maps
+# Supplemental Content Integration Guide
 
-## Purpose
-
-Guide the teaching map generator to incorporate supplemental units beyond the official textbook syllabus. This allows teachers to extend curricula with additional topics, perspectives, or content that addresses gaps in the published material.
+Reference document for incorporating supplemental units beyond the official textbook syllabus into teaching maps. Read by `/generate-map` when custom syllabi are in use.
 
 ## When to Use
 
@@ -61,6 +59,7 @@ For each supplemental unit, define:
 ### Step 4: Integrate into Teaching Map
 
 #### For Extended Courses (Option A):
+
 ```markdown
 ## Week-by-Week Schedule
 
@@ -85,6 +84,7 @@ For each supplemental unit, define:
 ```
 
 #### For Condensed + Supplemental (Option B):
+
 ```markdown
 ## Course Structure
 
@@ -103,6 +103,7 @@ For each supplemental unit, define:
 ```
 
 #### For Interleaved Content (Option C):
+
 ```markdown
 ### Week 8: Christianity — Deep Dive
 (Official content)
@@ -152,18 +153,21 @@ See `syllabus/custom-syllabus.md` for rationale and detailed content outline.
 When condensing official content to make room for supplemental units:
 
 ### What to Streamline
+
 - **Repetitive review days**: Integrate review into instructional days
 - **Redundant discussions**: Combine similar discussion topics
 - **Lower-priority disciplines**: Focus on 4-5 key disciplines per worldview instead of all 10
 - **Extended test prep**: 1 day of review is usually sufficient for high schoolers
 
 ### What NOT to Cut
+
 - **Core concepts**: Don't sacrifice depth on essential doctrines or ideas
 - **Primary texts**: Students still need to read the key passages/chapters
 - **Critical thinking activities**: Pair & Defend, Case Studies, etc. are where learning happens
 - **Major assessments**: Capstones and unit exams provide accountability
 
 ### Example: Condensing 36 Weeks to 24 Weeks
+
 **Original pacing** (Understanding the Times):
 - Week 1-7: Theology across 5 worldviews (1 week per worldview + 2 review weeks)
 - Week 8-14: Philosophy across 5 worldviews
@@ -181,12 +185,14 @@ When condensing official content to make room for supplemental units:
 ## Resources for Common Supplemental Topics
 
 ### Buddhism & Hinduism (Eastern Religions)
+
 - *The Universe Next Door* by James Sire, Ch 5
 - *Encountering World Religions* by Irving Hexham
 - Websites: CARM.org, GotQuestions.org
 - Videos: Ravi Zacharias, Nabeel Qureshi on Eastern thought
 
 ### Mormonism (LDS)
+
 - *Kingdom of the Cults* by Walter Martin
 - *Reasoning from the Scriptures with the Mormons* by Ron Rhodes
 - *Letters to a Mormon Elder* by James R. White
@@ -194,21 +200,25 @@ When condensing official content to make room for supplemental units:
 - Testimonies: Ex-Mormon videos, articles
 
 ### Jehovah's Witnesses
+
 - *Kingdom of the Cults* by Walter Martin
 - *Reasoning from the Scriptures with the Jehovah's Witnesses* by Ron Rhodes
 - Websites: CARM.org, 4Witnesses.org
 
 ### New Age / New Spirituality
+
 - *The Universe Next Door* by James Sire, Ch 7
 - *Unmasking the New Age* by Douglas Groothuis
 - Articles on Oprah spirituality, yoga/mindfulness in culture
 
 ### Contemporary Issues (Bioethics, Technology, Justice)
+
 - Case studies from The Gospel Coalition, Desiring God
 - *How to Find Truth in a Post-Truth World* by Summit Ministries
 - Current event articles analyzed through worldview lenses
 
 ### Political Ideologies (Progressivism, Libertarianism, etc.)
+
 - *Fault Lines* by Voddie Baucham (Critical Theory)
 - *The Benedict Option* by Rod Dreher (cultural engagement)
 - Primary documents from political movements
@@ -246,15 +256,3 @@ When running `/generate-map`, the system should:
 3. If custom is selected, follow the structure defined in the custom document
 4. Mark supplemental weeks clearly in the teaching map
 5. Reference resources for supplemental content
-
----
-
-## Summary
-
-Supplemental content allows teachers to:
-- Address gaps in published curricula
-- Tailor courses to student/school context
-- Integrate contemporary issues and real-world application
-- Provide comprehensive coverage of important topics
-
-The teaching map generator supports supplemental content through condensed pacing, extended courses, interleaved units, or section replacement. Always create a `custom-syllabus.md` to document the rationale and plan.

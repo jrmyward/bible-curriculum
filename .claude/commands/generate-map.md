@@ -43,26 +43,26 @@ Generate a cohort-style teaching map for a class in this Bible curriculum reposi
      - Book studies → Inductive Bible Study
      - Theology courses → Cohort or Lecture-Seminar
 
-4. **Read required files**
-   - `_shared/teaching-map-styles/<style>-teaching-map.md` — teaching map generation process for chosen style
-   - `_shared/school-calendar-2026-27.md` — school calendar and no-school dates
-   - Style-specific tool files (e.g., `_shared/cohort-tools.md` for cohort style)
-   - `.claude/commands/supplemental-content.md` — guide for integrating supplemental units (if needed)
+4. **Determine the school year**
+   - Auto-detect from current date (Aug-May = current school year)
+   - Or ask teacher: "Which school year is this map for? (e.g., 2026-27)"
+   - This determines which school calendar to use
 
-5. **Determine which syllabus to use**
+5. **Read required files**
+   - `_shared/teaching-map-styles/<style>-teaching-map.md` — teaching map generation process for chosen style
+   - `_shared/school-calendar-<year>.md` — school calendar and no-school dates (use year from step 4)
+   - Style-specific tool files (e.g., `_shared/cohort-tools.md` for cohort style)
+   - `_shared/supplemental-content.md` — guide for integrating supplemental units (if needed)
+
+6. **Determine which syllabus to use**
    - Check for syllabi in this order:
      1. `classes/<class-name>/syllabus/custom-syllabus.md` (if exists, ask whether to use custom or official)
      2. `classes/<class-name>/syllabus/syllabus.md` (official extracted syllabus)
      3. If neither exists, ask teacher for chapter list/content outline
    - If custom syllabus is selected:
-     - Read `.claude/commands/supplemental-content.md` for integration guidance
+     - Read `_shared/supplemental-content.md` for integration guidance
      - Follow the structure defined in the custom syllabus (condensed core + supplemental, extended course, etc.)
      - Mark supplemental units clearly in the teaching map
-
-6. **Determine the school year**
-   - Auto-detect from current date (Aug-May = current school year)
-   - Or ask teacher: "Which school year is this map for? (e.g., 2026-27)"
-   - This determines which school calendar to use
 
 7. **Generate the teaching map**
    - Follow the process in the selected teaching style's internal command file

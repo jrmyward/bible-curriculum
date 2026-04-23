@@ -158,7 +158,7 @@ After generating:
 ✅ Week X complete!
 
 Created:
-- lesson-plans-<year>/week-XX-lesson-plans.md
+- lesson-plans-<year>/week-XX-<date>/lesson-plans.md
 - X handouts
 - [Substitute plan if applicable]
 
@@ -250,31 +250,15 @@ This skips weekly lesson plans and generates:
 
 ## Progress Tracking
 
-This skill maintains a hidden progress file: `lesson-plans-<year>/.progress.json`
+This skill uses `.generation-log.md` (created by `/scaffold-lesson-structure`) as the single source of truth for progress. Do not create separate tracking files.
 
-**Structure:**
-```json
-{
-  "class": "understanding-the-faith",
-  "total_weeks": 39,
-  "completed_weeks": [1, 2, 5, 6],
-  "substitute_plans_complete": ["week-01-friday", "week-02-thursday"],
-  "assessments_complete": ["capstone-01-rubric"],
-  "last_updated": "2026-04-22",
-  "next_suggested_week": 3
-}
-```
+**How to determine status:**
+- Scan `.generation-log.md` for each week's method column (🆕, 📋, 🔄, ✏️, or blank)
+- Blank entries = not yet generated
+- Scan week directories for `lesson-plans.md` to confirm file existence
 
-**Why track progress?**
-- Resume workflow exactly where you left off
-- Avoid accidentally regenerating completed weeks
-- Show visual progress (motivating!)
-- Suggest next logical step
-
-**Update triggers:**
-- After each week is generated
-- After each substitute plan is created
-- After each assessment rubric is created
+**After each generation:**
+- Update the week's row in `.generation-log.md` with method, date, and notes
 
 ---
 
