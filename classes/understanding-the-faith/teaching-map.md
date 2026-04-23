@@ -49,10 +49,10 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Tue: Complete Ch 1 reading; class overview discussion
 - Wed: Discussion Brief #1 due ("Why should Christians be prepared to defend their faith?")
 - Thu: Class discussion based on briefs; introduce Discussion Brief format
-- Fri: **NO SCHOOL** (Teacher Absence - J. Ward)
+- Fri: **SUB:** Ch 1 review worksheet; video — "What is Apologetics?" (guided notes)
 
 **Due:** Discussion Brief #1 (Wed)  
-**Notes:** First week of school; build class culture and norms
+**Notes:** First week of school; build class culture and norms. Fri substitute plan needed.
 
 ---
 
@@ -63,11 +63,11 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Mon: Preview Ch 2; debrief first week
 - Tue: Ch 2 reading in class; guided notes
 - Wed: Continue Ch 2 discussion; prepare for Discussion Brief
-- Thu: **NO SCHOOL** (Teacher Absence - J. Ward)
+- Thu: **SUB:** Ch 2 comprehension questions (individual work); reflection writing on relativism
 - Fri: **NO SCHOOL** (No School)
 
 **Due:** None  
-**Notes:** Short week; only 3 instructional days — Discussion Brief moved to Week 3
+**Notes:** Short week; only 3 instructional days — Discussion Brief moved to Week 3. Thu substitute plan needed.
 
 ---
 
@@ -493,14 +493,14 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Chapter:** Ch 17 continued & Ch 18 Introduction  
 **Topic:** Doubt and faith; bringing it all together  
 **Activities:**
-- Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
+- Mon: **SUB:** Ch 17 review questions; video — "Dealing with Doubt" (individual reflection writing)
 - Tue: **Pair & Defend:** "Doubt strengthens faith vs. Doubt undermines faith"
 - Wed: Debrief Pair & Defend; Ch 18 reading introduced
 - Thu: Discussion Brief #18 due ("What is the most important thing you've learned in this course?")
 - Fri: **NO SCHOOL** (Teacher Work Day)
 
 **Due:** Discussion Brief #18 (Thu)  
-**Notes:** Short week; teacher absence Mon, work day Fri
+**Notes:** Short week; Mon substitute plan needed, work day Fri
 
 ---
 
@@ -508,14 +508,14 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Chapter:** Ch 18 — Conclusion  
 **Topic:** Bringing it all together; Final Capstone prep  
 **Activities:**
-- Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
+- Mon: **SUB:** Ch 18 reading and guided notes; reflection on course-long themes
 - Tue: Class discussion on Ch 18; **begin final Capstone prep** (thesis brainstorming)
 - Wed: **Case Study:** Cultural encounter — synthesizing all course themes in a single conversation
 - Thu: Case study presentations; Final Capstone thesis development continues
 - Fri: Final Capstone work day (thesis outline drafting begins)
 
 **Due:** Case Study write-up (Thu)  
-**Notes:** Final Capstone prep starts earlier to accommodate compressed schedule
+**Notes:** Final Capstone prep starts earlier to accommodate compressed schedule. Mon substitute plan needed.
 
 ---
 
@@ -523,14 +523,14 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Chapter:** Final Capstone Prep  
 **Topic:** Course synthesis and final assessment  
 **Activities:**
-- Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
-- Tue: Final Capstone thesis outline refinement and peer feedback
+- Mon: **SUB:** Final Capstone thesis outline work day (individual drafting and refinement)
+- Tue: Final Capstone thesis outline peer feedback session
 - Wed: Final Capstone presentation prep (visual aids, practice)
 - Thu: Final Capstone presentation prep continues
 - Fri: **NO SCHOOL** (Teacher Work Day — available for students needing extra prep time)
 
 **Due:** Final Capstone thesis outline (Tue)  
-**Notes:** Work day Fri available for students needing rescheduling or extra help
+**Notes:** Work day Fri available for students needing rescheduling or extra help. Mon substitute plan needed.
 
 ---
 
@@ -538,14 +538,14 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Chapter:** Final Capstone Presentations — Week 1  
 **Topic:** Student synthesis presentations  
 **Activities:**
-- Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
+- Mon: **SUB:** Final Capstone presentation practice day (peer review of visual aids and talking points)
 - Tue: Final Capstone presentations begin (4-5 students)
 - Wed: Final Capstone presentations continue (4-5 students)
 - Thu: Final Capstone presentations continue (4-5 students)
 - Fri: Final Capstone presentations continue (4-5 students)
 
 **Due:** Capstone presentations (begin Tue)  
-**Notes:** Presentations start Tue to maximize available days
+**Notes:** Presentations start Tue to maximize available days. Mon substitute plan needed.
 
 ---
 
@@ -553,14 +553,14 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Chapter:** Final Capstone Presentations — Week 2  
 **Topic:** Student synthesis presentations continued  
 **Activities:**
-- Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
+- Mon: **SUB:** Course review activity; students prepare final reflection essay outline
 - Tue: Final Capstone presentations continue (4-5 students)
 - Wed: Final Capstone presentations continue (4-5 students)
 - Thu: Final Capstone presentations continue (4-5 students)
 - Fri: **NO SCHOOL** (Teacher Work Day — makeup presentations if needed)
 
 **Due:** Capstone presentations (Tue-Thu)  
-**Notes:** Work day Fri available for makeup presentations due to absences
+**Notes:** Work day Fri available for makeup presentations due to absences. Mon substitute plan needed.
 
 ---
 
@@ -636,6 +636,8 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 11. **T2 cognitive load management:** Weeks 14-20 cover heavy content (Ch 9-10: evil and science). To prevent burnout during the holiday season, Week 17 (Fri) includes a synthesis reflection (ungraded) and Week 20 (Tue) begins with a Socratic seminar to reconnect themes after Christmas break.
 
 12. **Case Study variety:** Case Studies include ethical dilemmas, cultural encounters, and historical parallels. Week 30 addresses social media apologetics—a context where juniors are already engaging these issues in real time.
+
+13. **Substitute plans:** Days marked **SUB** indicate teacher absences requiring substitute plans (7 total: Aug 28, Sep 3, Apr 5, 12, 19, 26, May 3). These days use non-cohort activities that substitutes can facilitate: individual work (reading, comprehension questions, reflection writing), video with guided notes, or work days. Cohort tools (Pair & Defend, Case Studies, presentations) are scheduled on days when the teacher is present.
 
 ---
 
