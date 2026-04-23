@@ -62,12 +62,12 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Activities:**
 - Mon: Preview Ch 2; debrief first week
 - Tue: Ch 2 reading in class; guided notes
-- Wed: **NO SCHOOL** (Teacher Absence - J. Ward)
-- Thu: **NO SCHOOL** (No School)
-- Fri: **NO SCHOOL** (Labor Day weekend)
+- Wed: Continue Ch 2 discussion; prepare for Discussion Brief
+- Thu: **NO SCHOOL** (Teacher Absence - J. Ward)
+- Fri: **NO SCHOOL** (No School)
 
 **Due:** None  
-**Notes:** Short week; Labor Day weekend
+**Notes:** Short week; only 3 instructional days — Discussion Brief moved to Week 3
 
 ---
 
@@ -76,9 +76,9 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Topic:** Relativism, postmodernism, and objective truth  
 **Activities:**
 - Mon: **NO SCHOOL** (Labor Day)
-- Tue: Discussion Brief #2 due ("Can truth be relative?")
-- Wed: Discussion debrief; introduce Pair & Defend
-- Thu: **Pair & Defend:** "Is objective truth possible in a pluralistic society?"
+- Tue: Discussion Brief #2 due ("Can truth be relative?"); class discussion
+- Wed: **Pair & Defend:** "Is objective truth possible in a pluralistic society?"
+- Thu: Debrief Pair & Defend from Wed
 - Fri: **NO SCHOOL** (Teacher Work Day - Progress Reports)
 
 **Due:** Discussion Brief #2 (Tue)  
@@ -86,18 +86,18 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 4 — Sep 14–17, 2026
+### Week 4 — Sep 14–18, 2026
 **Chapter:** Ch 1–2 Synthesis & Ch 3 Introduction  
 **Topic:** Apologetics and truth wrap-up; Bible reliability  
 **Activities:**
-- Mon: Debrief Pair & Defend from last week
-- Tue: **Case Study:** Cultural encounter — defending truth claims in a secular setting
-- Wed: Case study presentations and debrief; Unit 1 review
-- Thu: Ch 3 reading introduced ("Is the Bible Reliable?")
+- Mon: Teach "accountable talk" norms; **Case Study:** Cultural encounter — defending truth claims in a secular setting
+- Tue: Case study presentations and debrief; Unit 1 review
+- Wed: Ch 3 reading introduced ("Is the Bible Reliable?")
+- Thu: Ch 3 reading discussion
 - Fri: **NO SCHOOL** (Teacher Work Day)
 
-**Due:** Case Study group write-up (Wed)  
-**Notes:** Teacher Work Day on Fri
+**Due:** Case Study group write-up (Tue)  
+**Notes:** Accountable talk norms introduced to support discussion participation
 
 ---
 
@@ -105,22 +105,22 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Chapter:** Ch 3 — Is the Bible Reliable?  
 **Topic:** Manuscript evidence, textual criticism, historical reliability  
 **Activities:**
-- Mon: Ch 3 reading discussion
-- Tue: Discussion Brief #3 due ("What is the strongest objection to biblical reliability?")
-- Wed: Class discussion; video — "The Case for Reliability of the Gospels"
-- Thu: Debrief video; introduce skeptical objections
-- Fri: Continue discussion; preview Ch 4
+- Mon: Discussion Brief #3 due ("What is the strongest objection to biblical reliability?")
+- Tue: Class discussion; video — "The Case for Reliability of the Gospels"
+- Wed: Debrief video; introduce skeptical objections
+- Thu: Continue discussion; preview Ch 4
+- Fri: Ch 4 reading ("Does the Bible Have Authority?")
 
-**Due:** Discussion Brief #3 (Tue)  
+**Due:** Discussion Brief #3 (Mon)  
 **Notes:** Full week
 
 ---
 
-### Week 6 — Sep 28 – Oct 1, 2026
+### Week 6 — Sep 28 – Oct 2, 2026
 **Chapter:** Ch 4 — Does the Bible Have Authority?  
 **Topic:** Inspiration, canon, and the Bible's claims about itself  
 **Activities:**
-- Mon: Ch 4 reading; comparison of Scripture's self-witness with other religious texts
+- Mon: Ch 4 reading discussion; comparison of Scripture's self-witness with other religious texts
 - Tue: Discussion Brief #4 due ("How do we know the Bible is authoritative?")
 - Wed: Class discussion; introduce competing views (Muslim, Mormon, secular)
 - Thu: **Pair & Defend:** "The Bible's authority is self-evident vs. must be externally verified"
@@ -146,7 +146,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 8 — Oct 12–15, 2026
+### Week 8 — Oct 12–16, 2026
 **Chapter:** Capstone #1 continued & Ch 5 Introduction  
 **Topic:** Complete Capstone; begin theology of God  
 **Activities:**
@@ -176,18 +176,18 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 10 — Oct 26–29, 2026
+### Week 10 — Oct 26–30, 2026
 **Chapter:** Ch 6 continued  
 **Topic:** Understanding narrative theology  
 **Activities:**
-- Mon: **Pair & Defend:** "The Bible is primarily history vs. primarily theology"
-- Tue: Debrief Pair & Defend
+- Mon: Students generate their own **Pair & Defend** prompts for Ch 5-6 themes (teacher approves)
+- Tue: Student-generated **Pair & Defend** debates
 - Wed: **Case Study:** Ethical dilemma — applying biblical metanarrative to modern moral question
 - Thu: Case study presentations and debrief; Unit 3 review
 - Fri: **NO SCHOOL** (Teacher Work Day)
 
 **Due:** Case Study group write-up (Thu)  
-**Notes:** Teacher Work Day on Fri; T1 ends in 2 weeks
+**Notes:** First student-generated debate prompts; building student agency
 
 ---
 
@@ -211,13 +211,13 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Topic:** Trimester 1 wrap-up  
 **Activities:**
 - Mon: Ch 8 reading introduced ("The Supernatural"); evidence for the resurrection
-- Tue: Discussion Brief #8 due ("What is the strongest evidence for the resurrection?")
+- Tue: Discussion Brief #8 due ("What is the strongest evidence for the resurrection?"); **Mid-year peer feedback** on discussion habits (anonymous, formative only)
 - Wed: **NO SCHOOL** (Teacher Work Day)
 - Thu: **NO SCHOOL** (Trimester 1 ends — half-day)
 - Fri: **NO SCHOOL** (Thanksgiving Break begins)
 
 **Due:** Discussion Brief #8 (Tue); T1 grades finalized  
-**Notes:** T1 ends Nov 12; Thanksgiving break Nov 23-27
+**Notes:** T1 ends Nov 12; peer feedback helps students reflect on discussion participation
 
 ---
 
@@ -265,13 +265,13 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Topic:** Free will, theodicy, and the problem of evil  
 **Activities:**
 - Mon: Ch 9 debrief; introduce science and faith conversation
-- Tue: **Case Study:** Cultural encounter — defending Christ's exclusivity in interfaith dialogue
-- Wed: Case study presentations
-- Thu: Unit 5 partial review; preview Ch 10
+- Tue: **Case Study:** Ethical dilemma — responding to the problem of evil in pastoral context
+- Wed: Case study presentations; preview Ch 10
+- Thu: Unit 5 partial review
 - Fri: Ch 10 reading introduced ("Isn't Christianity Anti-Science?")
 
 **Due:** Case Study write-up (Wed)  
-**Notes:** Last week before Christmas break
+**Notes:** Last week before Christmas break; Case Study aligned with Ch 9 theme
 
 ---
 
@@ -283,10 +283,10 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Tue: Discussion Brief #10 due ("Are science and Christianity compatible?")
 - Wed: **Pair & Defend:** "Science has disproven Christianity vs. Science supports Christian theism"
 - Thu: Debrief Pair & Defend; introduce evidence for design
-- Fri: Flex day — student Q&A before break
+- Fri: Synthesis reflection: students write short (ungraded) reflection connecting Ch 9-10 themes
 
 **Due:** Discussion Brief #10 (Tue)  
-**Notes:** Christmas break Dec 21 – Jan 1
+**Notes:** Christmas break Dec 21 – Jan 1; synthesis reflection helps process heavy content
 
 ---
 
@@ -305,28 +305,28 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Topic:** Origins, Intelligent Design, and methodological naturalism  
 **Activities:**
 - Mon: **NO SCHOOL** (Teacher Work Day)
-- Tue: Return from break; video — "The Case for a Creator" (or equivalent)
-- Wed: Video debrief; discuss theistic evolution, young earth, old earth views
+- Tue: Return from break; **Socratic seminar** reviewing Ch 9-10 themes (evil, science, faith)
+- Wed: Video — "The Case for a Creator" (or equivalent)
 - Thu: **Case Study:** Ethical dilemma — a Christian student in a secular biology class
 - Fri: **NO SCHOOL** (Teacher Work Day)
 
 **Due:** Case Study group write-up (Thu)  
-**Notes:** Short week; two Teacher Work Days
+**Notes:** Short week; Socratic seminar bridges break and reconnects themes
 
 ---
 
-### Week 21 — Jan 11–14, 2027
+### Week 21 — Jan 11–15, 2027
 **Chapter:** Ch 11 — Truth Involved?  
 **Topic:** The role of truth in everyday life and apologetics  
 **Activities:**
-- Mon: Case study presentations; Unit 5 review
+- Mon: **Student-led Case Study debrief** (teacher observes, intervenes only if needed)
 - Tue: Ch 11 reading discussion
 - Wed: Discussion Brief #11 due ("How does understanding truth change how you live?")
 - Thu: Class discussion; explore practical apologetics scenarios
 - Fri: **NO SCHOOL** (Teacher Work Day)
 
 **Due:** Discussion Brief #11 (Wed)  
-**Notes:** Teacher Work Day on Fri; MLK Day next Mon
+**Notes:** Students lead Case Study debrief; building facilitation skills
 
 ---
 
@@ -345,7 +345,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 23 — Jan 25–28, 2027
+### Week 23 — Jan 25–29, 2027
 **Chapter:** Ch 12 — How to Read the Bible  
 **Topic:** Hermeneutics, context, genre, and faithful interpretation  
 **Activities:**
@@ -375,7 +375,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 25 — Feb 8–11, 2027
+### Week 25 — Feb 8–12, 2027
 **Chapter:** Capstone #3 continued  
 **Topic:** Capstone presentations and T2 flex time  
 **Activities:**
@@ -405,7 +405,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 27 — Feb 22–24, 2027
+### Week 27 — Feb 22–25, 2027
 **Chapter:** Ch 14 — Our Neighbors  
 **Topic:** The second great commandment and practical Christian ethics  
 **Activities:**
@@ -439,18 +439,18 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 29 — Mar 8–11, 2027
+### Week 29 — Mar 8–12, 2027
 **Chapter:** Ch 13–15 Synthesis  
 **Topic:** Loving God and neighbors — unit wrap-up  
 **Activities:**
 - Mon: Class discussion on Ch 15
 - Tue: **Pair & Defend:** "Apologetics is primarily for evangelism vs. primarily for discipleship"
 - Wed: Debrief; Unit 7 review
-- Thu: Flex day — student-led discussion or Q&A
+- Thu: **Student-led discussion** — students choose the topic from Ch 13-15 themes
 - Fri: **NO SCHOOL** (Teacher Work Day)
 
 **Due:** None  
-**Notes:** Teacher Work Day on Fri
+**Notes:** Students lead discussion; teacher facilitates transition to student ownership
 
 ---
 
@@ -461,11 +461,11 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Mon: T3 focus on integration; Ch 16 reading introduced
 - Tue: Discussion Brief #16 due (prompt TBD based on chapter)
 - Wed: Class discussion; explore personal apologetics questions
-- Thu: **Case Study:** Ethical dilemma — applying Christian apologetics in the workplace
+- Thu: **Case Study:** Cultural encounter — social media apologetics (responding to "Christianity is bigoted" post)
 - Fri: Case study presentations
 
 **Due:** Discussion Brief #16 (Tue), Case Study write-up (Fri)  
-**Notes:** Spring Break next week
+**Notes:** Spring Break next week; social media Case Study addresses real-world context
 
 ---
 
@@ -474,93 +474,93 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 32 — Mar 29 – Apr 1, 2027
+### Week 32 — Mar 29 – Apr 2, 2027
 **Chapter:** Ch 17 — If Christianity is True, Why Do People Walk Away?  
 **Topic:** Doubt, deconstruction, and apostasy  
 **Activities:**
 - Mon: Return from break; Ch 17 reading discussion
 - Tue: Discussion Brief #17 due ("What is the most common reason people leave the faith, and how would you respond?")
 - Wed: Class discussion; video — "Dealing with Doubt"
-- Thu: **NO SCHOOL** (Good Friday)
-- Fri: **NO SCHOOL** (Good Friday weekend)
+- Thu: Video debrief; explore personal stories of doubt and faith
+- Fri: **NO SCHOOL** (Good Friday)
 
 **Due:** Discussion Brief #17 (Tue)  
-**Notes:** Short week; Good Friday on Thu
+**Notes:** Short week; Good Friday on Fri
 
 ---
 
-### Week 33 — Apr 6–8, 2027
+### Week 33 — Apr 5–9, 2027
 **Chapter:** Ch 17 continued & Ch 18 Introduction  
 **Topic:** Doubt and faith; bringing it all together  
 **Activities:**
 - Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
-- Tue: Video debrief; explore personal stories of doubt and faith
-- Wed: **Pair & Defend:** "Doubt strengthens faith vs. Doubt undermines faith"
-- Thu: **NO SCHOOL** (Teacher Work Day)
-- Fri: **NO SCHOOL** (Teacher Absence - HS Golf)
+- Tue: **Pair & Defend:** "Doubt strengthens faith vs. Doubt undermines faith"
+- Wed: Debrief Pair & Defend; Ch 18 reading introduced
+- Thu: Discussion Brief #18 due ("What is the most important thing you've learned in this course?")
+- Fri: **NO SCHOOL** (Teacher Work Day)
 
-**Due:** None  
-**Notes:** Short week; two teacher absences for golf, one Teacher Work Day
+**Due:** Discussion Brief #18 (Thu)  
+**Notes:** Short week; teacher absence Mon, work day Fri
 
 ---
 
-### Week 34 — Apr 13–16, 2027
+### Week 34 — Apr 12–16, 2027
 **Chapter:** Ch 18 — Conclusion  
 **Topic:** Bringing it all together; Final Capstone prep  
 **Activities:**
 - Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
-- Tue: Debrief Pair & Defend; Ch 18 reading introduced
-- Wed: Discussion Brief #18 due ("What is the most important thing you've learned in this course?")
-- Thu: Class discussion; begin final Capstone prep
-- Fri: **Case Study:** Cultural encounter — synthesizing all course themes in a single conversation
+- Tue: Class discussion on Ch 18; **begin final Capstone prep** (thesis brainstorming)
+- Wed: **Case Study:** Cultural encounter — synthesizing all course themes in a single conversation
+- Thu: Case study presentations; Final Capstone thesis development continues
+- Fri: Final Capstone work day (thesis outline drafting begins)
 
-**Due:** Discussion Brief #18 (Wed)  
-**Notes:** Teacher absence Mon for golf
+**Due:** Case Study write-up (Thu)  
+**Notes:** Final Capstone prep starts earlier to accommodate compressed schedule
 
 ---
 
-### Week 35 — Apr 20–22, 2027
+### Week 35 — Apr 19–23, 2027
 **Chapter:** Final Capstone Prep  
 **Topic:** Course synthesis and final assessment  
 **Activities:**
 - Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
-- Tue: Case study presentations
-- Wed: Final Capstone work day (thesis development)
-- Thu: **NO SCHOOL** (Teacher Work Day)
-- Fri: **NO SCHOOL** (Teacher Absence - HS Golf)
+- Tue: Final Capstone thesis outline refinement and peer feedback
+- Wed: Final Capstone presentation prep (visual aids, practice)
+- Thu: Final Capstone presentation prep continues
+- Fri: **NO SCHOOL** (Teacher Work Day — available for students needing extra prep time)
 
-**Due:** Final Capstone thesis outline (Wed), Case Study write-up (Tue)  
-**Notes:** Short week; multiple teacher absences and work day
+**Due:** Final Capstone thesis outline (Tue)  
+**Notes:** Work day Fri available for students needing rescheduling or extra help
 
 ---
 
-### Week 36 — Apr 27–30, 2027
+### Week 36 — Apr 26–30, 2027
 **Chapter:** Final Capstone Presentations — Week 1  
 **Topic:** Student synthesis presentations  
 **Activities:**
 - Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
-- Tue: Final Capstone outline review and peer feedback
-- Wed: Final Capstone presentations begin (5 students)
-- Thu: Final Capstone presentations continue (5 students)
-- Fri: Final Capstone presentations continue (5 students)
+- Tue: Final Capstone presentations begin (4-5 students)
+- Wed: Final Capstone presentations continue (4-5 students)
+- Thu: Final Capstone presentations continue (4-5 students)
+- Fri: Final Capstone presentations continue (4-5 students)
 
-**Due:** Capstone presentations (begin Wed)  
-**Notes:** Teacher absence Mon for golf
+**Due:** Capstone presentations (begin Tue)  
+**Notes:** Presentations start Tue to maximize available days
 
 ---
 
-### Week 37 — May 4–6, 2027
+### Week 37 — May 3–7, 2027
 **Chapter:** Final Capstone Presentations — Week 2  
 **Topic:** Student synthesis presentations continued  
 **Activities:**
 - Mon: **NO SCHOOL** (Teacher Absence - HS Golf)
-- Tue: Final Capstone presentations continue (5 students)
-- Wed: Final Capstone presentations continue (5 students)
-- Thu: **NO SCHOOL** (Teacher Work Day)
-- Fri: Final Capstone presentations conclude; Final Brief #5 due
+- Tue: Final Capstone presentations continue (4-5 students)
+- Wed: Final Capstone presentations continue (4-5 students)
+- Thu: Final Capstone presentations continue (4-5 students)
+- Fri: **NO SCHOOL** (Teacher Work Day — makeup presentations if needed)
 
-**Due:** Capstone presentations (Tue-Fri), Final Brief #5 (Fri)  
-**Notes:** Short week; teacher absence Mon, work day Thu
+**Due:** Capstone presentations (Tue-Thu)  
+**Notes:** Work day Fri available for makeup presentations due to absences
 
 ---
 
@@ -568,13 +568,13 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 **Chapter:** Course Review and Reflection  
 **Topic:** Consolidation and final preparation  
 **Activities:**
-- Mon: Course debrief; student reflections
-- Tue: Review key themes from Units 1–4
-- Wed: Review key themes from Units 5–8
-- Thu: Student-led discussion — open forum for final questions
-- Fri: Final reflection assignment introduced; resources for continued study
+- Mon: Final Capstone presentations conclude; Final Brief #5 due
+- Tue: Course debrief; student reflections
+- Wed: Review key themes from Units 1–4
+- Thu: Review key themes from Units 5–8
+- Fri: Student-led discussion — open forum for final questions
 
-**Due:** None  
+**Due:** Final Brief #5 (Mon)  
 **Notes:** Full week
 
 ---
@@ -604,7 +604,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 | Capstone #1 (Ch 3–4) | Presentation + Final Brief | Oct 7–12 | 10% |
 | Capstone #2 (Ch 7–8) | Presentation + Final Brief | Nov 16–Dec 2 | 10% |
 | Capstone #3 (Ch 11–12) | Presentation + Final Brief | Feb 1–11 | 10% |
-| Final Capstone (Ch 1–18) | Presentation + Final Brief | Apr 27–May 7 | 15% |
+| Final Capstone (Ch 1–18) | Presentation + Final Brief | Apr 27–May 10 | 15% |
 | Final Reflection Essay | Essay | May 17 | 10% |
 
 **Total:** 100%
@@ -625,13 +625,17 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 6. **Discussion-first model:** Reading assignments are often completed *before* Discussion Briefs are due, allowing students to engage the text first and then commit to a position in writing before class discussion.
 
-7. **Student agency:** By T3, students should be driving more of the discussion. Use flex days for student-led questions, peer teaching, or extended debates on topics they found most compelling.
+7. **Student agency:** Students gradually take ownership of class discussions and activities. Key scaffolding moments include: Week 4 (accountable talk norms), Week 10 (student-generated Pair & Defend prompts), Week 12 (mid-year peer feedback on discussion habits), Week 21 (student-led Case Study debrief), and Week 29 (student-led discussion). By T3, students should be driving more of the discussion.
 
 8. **Final Capstone:** The final Capstone is the culminating assessment. Students synthesize the entire course into a single thesis and presentation. It replaces a traditional final exam and should be the most rigorous assessment of the year.
 
 9. **Buffer and flex time:** The schedule includes multiple flex days for catching up, going deeper on student questions, or extending Capstone presentations if class size requires it.
 
-10. **April-May pacing:** The final 6 weeks include 7 teacher absences for HS golf plus 3 teacher work days, resulting in many 3-day weeks. The final capstone presentations are spread across this time to accommodate the shortened schedule.
+10. **April-May pacing:** The final 6 weeks include 7 teacher absences for HS golf plus 3 teacher work days, resulting in many 3-day weeks. Final Capstone prep begins Week 34 (Tue, Apr 13) to spread the cognitive load. Presentations run Week 36-37 (Apr 27–May 8), with teacher work days available for makeup presentations.
+
+11. **T2 cognitive load management:** Weeks 14-20 cover heavy content (Ch 9-10: evil and science). To prevent burnout during the holiday season, Week 17 (Fri) includes a synthesis reflection (ungraded) and Week 20 (Tue) begins with a Socratic seminar to reconnect themes after Christmas break.
+
+12. **Case Study variety:** Case Studies include ethical dilemmas, cultural encounters, and historical parallels. Week 30 addresses social media apologetics—a context where juniors are already engaging these issues in real time.
 
 ---
 
