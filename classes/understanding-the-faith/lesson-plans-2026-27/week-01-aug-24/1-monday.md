@@ -60,7 +60,7 @@ Give students 3 min to write.
 **Debrief (whole class):**
 - "Who's willing to share?" (2–3 volunteers)
 - After each: "What made you change your mind?"
-- Transition: "This is what we're going to do all year — examine beliefs, test them, and be willing to change our minds if the evidence points elsewhere. That takes intellectual humility: being confident enough to question, humble enough to be wrong."
+- Transition: "This is what we're going to do all year - examine beliefs, test them, and be willing to change our minds if the evidence points elsewhere. That takes intellectual humility: being confident enough to question, humble enough to be wrong."
 
 #### [35–43 min] Preview Chapter 1
 
@@ -71,11 +71,11 @@ Give students 3 min to write.
 > 3. How do we gain knowledge?
 > 4. Where did we come from?
 > 5. Why are we here?
-> 
+>
 > These questions will come up over and over this year. Your job this week is to start wrestling with them."
 
 **Preview Tuesday's class:**
-> "Tomorrow we're doing a guided reading in class. I'm going to show you how to read this textbook efficiently — you won't read all 24 pages. I'll teach you how to find the core ideas and skip the filler. Bring your textbook and a pen."
+> "Tomorrow we're doing a guided reading in class. I'm going to show you how to read this textbook efficiently. You won't read all 24 pages. I'll teach you how to find the core ideas and skip the filler. Bring your textbook and a pen."
 
 #### [43–45 min] Exit Ticket
 
