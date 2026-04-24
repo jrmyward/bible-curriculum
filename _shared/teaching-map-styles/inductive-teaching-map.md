@@ -49,10 +49,21 @@ Every lesson follows this three-step process:
 
 ### Step 1: Map Available Instructional Days
 
+The school calendar (`_shared/school-calendar-<year>.md`) contains **TWO separate tables** that must be handled differently:
+
+- **No-School Dates** — actual school closures (holidays, breaks, teacher work days). Skip these entirely; they are NOT instructional days.
+- **Teacher Absences (J. Ward)** — days the teacher is out but **school is in session**. These ARE instructional days that need a substitute. Count them toward your total.
+
+Then:
+
 - Start with first day of school, end with last day
-- Remove all no-school dates from calendar
-- Count total available instructional days
+- Remove all **no-school dates** from calendar
+- Count total available instructional days (this count **includes** teacher-absence/sub days)
 - Divide into trimesters using trimester end dates
+
+When building the daily schedule, **mark teacher-absence days with `**SUB:**`** at the start of that day's plan. On a sub day, swap the planned IBS phase for a self-contained activity a substitute can facilitate (annotated reading + observation worksheet, application journal, scripture memory work, etc.). The `/generate-substitute-plan` skill produces the detailed plan; the teaching map only needs the `**SUB:**` marker.
+
+**Never label a teacher-absence day as "NO SCHOOL" — that is a correctness bug that makes the day disappear from instruction.**
 
 ### Step 2: Select and Chunk Passages
 

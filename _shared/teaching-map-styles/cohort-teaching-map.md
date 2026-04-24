@@ -15,11 +15,27 @@ Generate a complete semester-long teaching map for a high school Bible class. Th
 
 ### Step 1: Map Available Instructional Days
 
+The school calendar (`_shared/school-calendar-<year>.md`) contains **TWO separate tables** that must be handled differently:
+
+- **No-School Dates** — actual school closures (holidays, breaks, teacher work days). Skip these entirely; they are NOT instructional days.
+- **Teacher Absences (J. Ward)** — days the teacher is out but **school is in session**. These ARE instructional days that need a substitute. Count them toward your total.
+
+Then:
+
 - Start with the first day of school and end with the last day.
-- Remove all no-school dates from the calendar.
-- Count the total available instructional days.
+- Remove all **no-school dates** from the calendar.
+- Count the total available instructional days (this count **includes** teacher-absence/sub days).
 - Divide into trimesters using the trimester end dates.
 - Assume the class meets 5 days per week (Monday–Friday) unless the teacher specifies otherwise.
+
+When building the daily schedule (Step 4), **mark teacher-absence days with `**SUB:**`** at the start of that day's plan. Examples:
+
+> - **Fri (Aug 28):** **SUB:** Substitute-friendly activity (film + reflection, individual reading + worksheet, in-class writing assignment, etc.)
+> - **Mon (Apr 5):** **SUB:** Independent worldview chart work + journal entry
+
+Sub-day activities should be self-contained, **non-cohort** activities a substitute can facilitate without deep content knowledge. The `/generate-substitute-plan` skill produces the detailed sub plan; the teaching map only needs the `**SUB:**` marker so downstream skills know to generate one.
+
+**Never label a teacher-absence day as "NO SCHOOL" — that is a correctness bug that makes the day disappear from instruction.**
 
 ### Step 2: Chunk Chapters into Units
 

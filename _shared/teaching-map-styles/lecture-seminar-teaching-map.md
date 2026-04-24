@@ -35,11 +35,22 @@ A typical 5-day week follows this pattern:
 
 ### Step 1: Map Available Instructional Days
 
+The school calendar (`_shared/school-calendar-<year>.md`) contains **TWO separate tables** that must be handled differently:
+
+- **No-School Dates** — actual school closures (holidays, breaks, teacher work days). Skip these entirely; they are NOT instructional days.
+- **Teacher Absences (J. Ward)** — days the teacher is out but **school is in session**. These ARE instructional days that need a substitute. Count them toward your total.
+
+Then:
+
 - Start with first day of school, end with last day
-- Remove all no-school dates from calendar
-- Count total available instructional days
+- Remove all **no-school dates** from calendar
+- Count total available instructional days (this count **includes** teacher-absence/sub days)
 - Divide into trimesters using trimester end dates
 - Assume 5 days per week unless specified otherwise
+
+When building the daily schedule, **mark teacher-absence days with `**SUB:**`** at the start of that day's plan. On a sub day, replace the lecture/seminar with a self-contained, non-lecture activity a substitute can run (film + worksheet, in-class essay, individual study guide work, etc.). The `/generate-substitute-plan` skill produces the detailed plan; the teaching map only needs the `**SUB:**` marker.
+
+**Never label a teacher-absence day as "NO SCHOOL" — that is a correctness bug that makes the day disappear from instruction.**
 
 ### Step 2: Chunk Content into Weekly Units
 

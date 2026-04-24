@@ -21,11 +21,11 @@
 |---|---|---|
 | Aug 28, 2026 | Personal | Yes |
 | Sep 3, 2026 | Personal | Yes |
-| Apr 5, 2026 | HS Golf | Yes |
-| Apr 12, 2026 | HS Golf | Yes |
-| Apr 19, 2026 | HS Golf | Yes |
-| Apr 26, 2026 | HS Golf | Yes |
-| May 3, 2026 | HS Golf | Yes |
+| Apr 5, 2027 | HS Golf | Yes |
+| Apr 12, 2027 | HS Golf | Yes |
+| Apr 19, 2027 | HS Golf | Yes |
+| Apr 26, 2027 | HS Golf | Yes |
+| May 3, 2027 | HS Golf | Yes |
 
 ## No-School Dates
 
