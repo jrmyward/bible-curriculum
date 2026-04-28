@@ -26,23 +26,40 @@ These four tools form the backbone of the cohort-style, discussion-first teachin
 
 ## B. Pair & Defend
 
-**Purpose:** Force students to articulate and defend a position they may or may not personally hold. This builds empathy for opposing views and sharpens rhetorical skill. Students learn that understanding an argument is not the same as agreeing with it.
+**Purpose:** Force every student to articulate and defend *both* sides of a contested question — the side they hold and the side they don't. This builds empathy for opposing views, sharpens rhetorical skill, and surfaces the strongest version of arguments students will face in real life. Students learn that understanding an argument is not the same as agreeing with it.
 
-**Assignment:**
-- Pair students randomly (or strategically, depending on the class dynamic).
-- Assign each partner a position related to the chapter's core question. One defends the chapter's thesis; the other argues against it.
-- Positions are assigned, not chosen — students must argue the side they're given.
+**Format — two-round simultaneous pair debate.** All pairs run both rounds in parallel across the class; only the debrief is full-class. This is what makes "every student argues both sides" fit a single period.
 
-**Timing:**
-- 3 minutes: each partner presents their argument (6 minutes total)
-- 2 minutes: each partner asks one follow-up question (4 minutes total)
-- 5 minutes: open debrief with the full class
+**Setup (5 minutes):**
+- Topic and the two positions (X and Y) are announced.
+- Students pair up (random or strategic).
+- Each partner is assigned a starting side. Both partners spend 5 minutes brainstorming both positions on paper before any speaking starts.
 
-**Debrief Question:** After the exercise, ask the full class: *"What was the strongest argument you heard from the side you disagreed with?"* This redirects the conversation from winning to listening.
+**Round 1 (8 minutes — in pairs simultaneously):**
+- Student A argues their assigned side (3 min); B listens.
+- B asks one probing question (1 min); A responds briefly.
+- Student B argues their assigned side (3 min); A listens.
+- A asks one probing question (1 min); B responds briefly.
+
+**Round 2 — sides swap (6 minutes — in pairs simultaneously):**
+- Student A now argues the *opposite* side (2 min) — they pick up B's earlier argument and try to strengthen it.
+- Student B now argues the *opposite* side (2 min) — they pick up A's earlier argument and try to strengthen it.
+- 2 minutes of cross-questions in any direction.
+
+**Class debrief (5 minutes):**
+- Full-class question: *"What was the strongest argument you heard from the side you started disagreeing with?"*
+- Optional: 1–2 volunteer pairs perform the swap for the class so everyone sees the structure modeled.
+
+**Total: ~24 minutes.**
+
+**Why both sides:** in a Christian-school context many Pair & Defend topics ask students to argue against Christianity (e.g., *"Christianity's claim to be the one true worldview is arrogant"*; *"Karma explains suffering more satisfyingly than the Christian answer"*). The two-round structure guarantees every student also argues *for* Christianity on the same topic in the same period. Charitable representation cuts both ways.
+
+**Parent communication:** Tell parents at the start of the year — in the syllabus or a dedicated letter — that students will be assigned to argue positions they don't personally hold, and that this is by design. The framing should not be a surprise mid-year.
 
 **Tips:**
 - Remind students before every round: the goal is to understand, not to win.
 - If a student struggles with their assigned side, that's a teaching moment — help them see why someone might hold that view.
+- Round 2 ("strengthen what your partner just said") is where the real charitable-engagement work happens. Don't skip it.
 
 ---
 
