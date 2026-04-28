@@ -3,7 +3,7 @@
 **School Year:** 2026–2027  
 **Grade Level:** 11–12  
 **Series:** Understanding the Faith: A Survey of Christian Apologetics (Jeff Myers, Summit)  
-**Total Instructional Days:** 147 (T1: 49 days | T2: 53 days | T3: 45 days)
+**Total Instructional Days:** 152 (T1: 50 days | T2: 57 days | T3: 45 days)
 
 ## Course Context
 
@@ -41,7 +41,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 1 — Aug 24–27, 2026
+### Week 1 — Aug 24–28, 2026
 **Chapter:** Ch 1 — Why Apologetics?  
 **Topic:** The purpose and importance of defending the faith  
 **Activities:**
@@ -56,7 +56,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 2 — Aug 31 – Sep 2, 2026
+### Week 2 — Aug 31 – Sep 4, 2026
 **Chapter:** Ch 2 — What is Truth?  
 **Topic:** Relativism, postmodernism, and objective truth  
 **Activities:**
@@ -71,7 +71,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 3 — Sep 8–11, 2026
+### Week 3 — Sep 7–11, 2026
 **Chapter:** Ch 2 continued  
 **Topic:** Relativism, postmodernism, and objective truth  
 **Activities:**
@@ -79,10 +79,10 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Tue: Discussion Brief #2 due ("Can truth be relative?"); class discussion
 - Wed: **Pair & Defend:** "Is objective truth possible in a pluralistic society?"
 - Thu: Debrief Pair & Defend from Wed
-- Fri: **NO SCHOOL** (Teacher Work Day - Progress Reports)
+- Fri: Preview Ch 3 ("Is the Bible Reliable?"); assign Ch 3 reading for the weekend
 
 **Due:** Discussion Brief #2 (Tue)  
-**Notes:** Short week; first Pair & Defend exercise
+**Notes:** Labor Day Mon; first Pair & Defend exercise; Fri previews Unit 2
 
 ---
 
@@ -206,7 +206,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 12 — Nov 9–10, 2026
+### Week 12 — Nov 9–13, 2026
 **Chapter:** Ch 7–8 Synthesis (Capstone #2 Prep)  
 **Topic:** Trimester 1 wrap-up  
 **Activities:**
@@ -214,10 +214,10 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Tue: Discussion Brief #8 due ("What is the strongest evidence for the resurrection?"); **Mid-year peer feedback** on discussion habits (anonymous, formative only)
 - Wed: **NO SCHOOL** (Teacher Work Day)
 - Thu: **NO SCHOOL** (Trimester 1 ends — half-day)
-- Fri: **NO SCHOOL** (Thanksgiving Break begins)
+- Fri: Capstone #2 prep — review Ch 7–8 themes; introduce Capstone expectations
 
 **Due:** Discussion Brief #8 (Tue); T1 grades finalized  
-**Notes:** T1 ends Nov 12; peer feedback helps students reflect on discussion participation
+**Notes:** T1 ends Nov 12; peer feedback helps students reflect on discussion participation; Fri begins Capstone #2 ramp
 
 ---
 
@@ -300,7 +300,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 20 — Jan 5–8, 2027
+### Week 20 — Jan 4–8, 2027
 **Chapter:** Ch 10 continued  
 **Topic:** Origins, Intelligent Design, and methodological naturalism  
 **Activities:**
@@ -308,10 +308,10 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Tue: Return from break; **Socratic seminar** reviewing Ch 9-10 themes (evil, science, faith)
 - Wed: Video — "The Case for a Creator" (or equivalent)
 - Thu: **Case Study:** Ethical dilemma — a Christian student in a secular biology class
-- Fri: **NO SCHOOL** (Teacher Work Day)
+- Fri: Case study presentations (groups share findings)
 
 **Due:** Case Study group write-up (Thu)  
-**Notes:** Short week; Socratic seminar bridges break and reconnects themes
+**Notes:** Mon Teacher Work Day; Socratic seminar bridges break and reconnects themes
 
 ---
 
@@ -330,7 +330,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 22 — Jan 19–22, 2027
+### Week 22 — Jan 18–22, 2027
 **Chapter:** Ch 11 continued  
 **Topic:** Truth in practice  
 **Activities:**
@@ -338,10 +338,10 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 - Tue: **Pair & Defend:** "Truth claims demand action vs. Truth claims are primarily intellectual"
 - Wed: Debrief Pair & Defend
 - Thu: Preview Ch 12; introduce hermeneutics
-- Fri: **NO SCHOOL** (Teacher Work Day)
+- Fri: Continue Ch 12 introduction; practice reading a passage in context
 
 **Due:** None  
-**Notes:** Short week; MLK Day Mon, Teacher Work Day Fri
+**Notes:** MLK Day Mon; Fri launches Ch 12 hermeneutics work
 
 ---
 
@@ -390,7 +390,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 26 — Feb 16–19, 2027
+### Week 26 — Feb 15–19, 2027
 **Chapter:** Ch 13 — What the Bible Says About Loving God  
 **Topic:** Worship, obedience, and the Great Commandment  
 **Activities:**
@@ -405,18 +405,18 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-### Week 27 — Feb 22–25, 2027
+### Week 27 — Feb 22–26, 2027
 **Chapter:** Ch 14 — Our Neighbors  
 **Topic:** The second great commandment and practical Christian ethics  
 **Activities:**
 - Mon: Debrief Pair & Defend
 - Tue: Ch 14 reading discussion
 - Wed: Discussion Brief #14 due ("How does apologetics relate to loving your neighbor?")
-- Thu: **NO SCHOOL** (Trimester 2 ends)
+- Thu: T2 last day; class reflection and Ch 13–14 closure
 - Fri: **NO SCHOOL** (Teacher Work Day)
 
 **Due:** Discussion Brief #14 (Wed); T2 grades finalized  
-**Notes:** T2 ends Feb 25
+**Notes:** T2 ends Feb 25 (Thu); Fri Teacher Work Day
 
 ---
 
@@ -601,9 +601,9 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 | Discussion Briefs (18 total) | Written Response | Ongoing | 20% |
 | Case Studies (8 total) | Group Work + Write-up | Ongoing | 15% |
 | Pair & Defend (10 total) | Oral Defense | Ongoing | 10% |
-| Capstone #1 (Ch 3–4) | Presentation + Final Brief | Oct 7–12 | 10% |
-| Capstone #2 (Ch 7–8) | Presentation + Final Brief | Nov 16–Dec 2 | 10% |
-| Capstone #3 (Ch 11–12) | Presentation + Final Brief | Feb 1–11 | 10% |
+| Capstone #1 (Ch 3–4) | Presentation + Final Brief | Oct 9–13 | 10% |
+| Capstone #2 (Ch 7–8) | Presentation + Final Brief | Nov 20–Dec 1 | 10% |
+| Capstone #3 (Ch 11–12) | Presentation + Final Brief | Feb 5–9 | 10% |
 | Final Capstone (Ch 1–18) | Presentation + Final Brief | Apr 27–May 10 | 15% |
 | Final Reflection Essay | Essay | May 17 | 10% |
 
@@ -613,7 +613,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ## Notes for the Teacher
 
-1. **Pacing flexibility:** This map accounts for **147 instructional days** vs. the official syllabus's 180 days. The corrected calendar includes all teacher work days (15 total) and teacher absences for golf (7 days in April-May). Adjust as needed based on class engagement and depth of discussion.
+1. **Pacing flexibility:** This map accounts for **152 instructional days** vs. the official syllabus's 180 days. The corrected calendar includes all teacher work days (15 total) and teacher absences for golf (7 days in April-May). Adjust as needed based on class engagement and depth of discussion.
 
 2. **Shortened weeks:** Many weeks are 3-4 days instead of 5 due to teacher work days, holidays, and teacher absences. Plan lighter activities for these weeks and use them for review, capstone work, or flex time.
 
@@ -641,7 +641,7 @@ Capstones occur at the end of Units 2, 4, 6, and 8 to align with trimester ends 
 
 ---
 
-**Generated:** 2026-04-22  
-**Tool Used:** Cohort Teaching Map Generator (corrected for updated school calendar)
+**Generated:** 2026-04-22 (revised 2026-04-28)  
+**Tool Used:** Cohort Teaching Map Generator (corrected for updated school calendar; phantom no-school days and heading dates patched 2026-04-28)
 
 > To regenerate this map with different parameters, run the cohort-teaching-map skill and provide updated syllabus or calendar information.
