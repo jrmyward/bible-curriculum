@@ -24,10 +24,16 @@ Apple Vision OCR (the engine behind Live Text and Preview). Reads images, return
 
 ```bash
 swift _scripts/ocr.swift path/to/IMG_0001.jpg path/to/IMG_0002.jpg
-swift _scripts/ocr.swift classes/understanding-the-faith/syllabus/*.jpg > all-pages.txt
+swift _scripts/ocr.swift --min-confidence 0.5 classes/<class>/_source-text/ch01/textbook/*.jpg > ch01.txt
 ```
 
-Each image's text is preceded by `===== <filename> =====`. The script tries all four 90° orientations and picks the one with the most recognized characters, so rotated phone photos work without manual rotation.
+Each image's text is preceded by `=== <filename> ===`. The script tries all four 90° orientations and picks the one with the most recognized characters, so rotated phone photos work without manual rotation.
+
+**`--min-confidence VALUE`** (default 0.0): drop text observations below this confidence floor. Useful for skipping handwriting and other low-confidence content. Empirical guidance:
+
+- `0.5` filters most clear handwriting; risk of dropping smudgy printed text
+- `0.4` more lenient; keeps marginal printed content
+- `0.0` (default) keeps everything Vision recognized
 
 Requirements: macOS with Xcode (`xcrun --find swift`).
 
@@ -51,8 +57,8 @@ Reads from `<target-dir>/.raw-ocr/chNN.txt` and writes to `<target-dir>/chNN.md`
 What it cleans:
 
 - Strips repeating headers/footers
-- Drops standalone page-number lines
-- Replaces `=== IMG_NNNN.jpg ===` markers with `<!-- page-N -->` comments
+- Drops standalone page-number lines from body content
+- Replaces `=== IMG_NNNN.jpg ===` markers with `<!-- page-N (book p.X) -->` comments. The book page number is detected from the first/last 3 non-empty lines of each block (where headers/footers live); falls back to `<!-- page-N -->` if no plausible page number is found
 - Stitches numbered list items where the number is on its own line
 - Fixes common OCR errors in `[N.M]` section labels (`(3.4)`, `[3.4)`, etc.)
 - Collapses runs of 3+ blank lines

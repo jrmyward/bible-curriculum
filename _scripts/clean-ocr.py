@@ -20,11 +20,13 @@ from pathlib import Path
 
 
 def is_page_number_line(line: str) -> bool:
-    """Match standalone page numbers like '- 43-', '• 49 •', '-40 -', '- 65 -'."""
+    """Match standalone page numbers like '- 43-', '• 49 •', '-40 -', '- 65 -'.
+    Excludes list-number markers like '2.' (period not allowed as decoration).
+    """
     s = line.strip()
     if not s or len(s) > 10:
         return False
-    return bool(re.match(r"^[-–—•·.\s]*\d{1,4}[-–—•·.\s]*$", s))
+    return bool(re.match(r"^[-–—•·\s]*\d{1,4}[-–—•·\s]*$", s))
 
 
 def fix_section_labels(line: str) -> str:
@@ -60,6 +62,20 @@ def stitch_numbered_lists(lines: list[str]) -> list[str]:
     return out
 
 
+def extract_book_page(lines: list[str]) -> int | None:
+    """Find a book page number in a block. Page numbers live in headers/footers,
+    so only consider the first 3 or last 3 non-empty lines (the margins).
+    """
+    nonempty = [l for l in lines if l.strip()]
+    candidates = nonempty[:3] + nonempty[-3:]
+    for line in candidates:
+        if is_page_number_line(line):
+            m = re.search(r"\d{1,4}", line.strip())
+            if m:
+                return int(m.group(0))
+    return None
+
+
 def clean(raw_text: str, chapter_num: int) -> str:
     raw_lines = raw_text.split("\n")
 
@@ -69,26 +85,46 @@ def clean(raw_text: str, chapter_num: int) -> str:
         if count >= 3 and len(line) >= 3
     }
 
-    out: list[str] = []
-    page_count = 0
+    # Two-pass: split into image blocks first so we can detect each block's
+    # book page number before emitting the page comment.
+    image_re = re.compile(r"^=== (IMG_[\w-]+\.jpg) ===$", re.IGNORECASE)
+    blocks: list[tuple[str | None, list[str]]] = []
+    current_lines: list[str] = []
+    current_img: str | None = None
+    seen_first_image = False
 
     for line in raw_lines:
-        stripped = line.strip()
+        m = image_re.match(line.strip())
+        if m:
+            if seen_first_image:
+                blocks.append((current_img, current_lines))
+            current_img = m.group(1)
+            current_lines = []
+            seen_first_image = True
+        elif seen_first_image:
+            current_lines.append(line)
+    if seen_first_image:
+        blocks.append((current_img, current_lines))
 
-        if re.match(r"^=== IMG_\d+\.jpg ===$", stripped):
-            page_count += 1
-            out.append("")
-            out.append(f"<!-- page-{page_count} -->")
-            out.append("")
-            continue
+    out: list[str] = []
 
-        if is_page_number_line(line):
-            continue
+    for idx, (img, lines) in enumerate(blocks, start=1):
+        book_page = extract_book_page(lines)
 
-        if stripped in repeating:
-            continue
+        out.append("")
+        if book_page is not None:
+            out.append(f"<!-- page-{idx} (book p.{book_page}) -->")
+        else:
+            out.append(f"<!-- page-{idx} -->")
+        out.append("")
 
-        out.append(fix_section_labels(line))
+        for line in lines:
+            stripped = line.strip()
+            if is_page_number_line(line):
+                continue
+            if stripped in repeating:
+                continue
+            out.append(fix_section_labels(line))
 
     out = stitch_numbered_lists(out)
 
