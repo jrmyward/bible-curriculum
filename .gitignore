@@ -30,3 +30,13 @@ Desktop.ini
 *.swp
 *.swo
 *~
+
+# Source-text raw scans (textbook + teacher's manual photos).
+# Images are inputs to OCR, not committed artifacts. The transcribed markdown
+# under _source-text/textbook/ and _source-text/teaching-manual/ IS committed
+# and serves as the source of truth for skills.
+_source-text/**/*.jpg
+_source-text/**/*.jpeg
+_source-text/**/*.png
+_source-text/**/*.heic
+_source-text/**/*.HEIC
