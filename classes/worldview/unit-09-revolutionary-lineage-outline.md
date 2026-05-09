@@ -1,8 +1,9 @@
-# Unit 6: Marxism → Postmodernism — The Evolution of Critical Theory
+# Unit 9: Revolutionary Lineage — Marxism → Progressivism → Postmodernism
 
-**Duration:** 5 weeks (can condense to 4 weeks if needed)  
-**Priority:** CORE  
-**Capstone:** Capstone #3 (Defend biblical truth/justice against critical theory)
+**Duration:** 13 instructional days (≈ 3 calendar weeks; spans Spring Break)
+**Priority:** CORE
+**Course Map:** [teaching-map.md](teaching-map.md) Unit 9
+**Note:** This file predates the 2026-05-08 teaching-map rebuild. The week-by-week structure below is a content reference, not a calendar — the day-by-day schedule lives in [teaching-map.md](teaching-map.md). Use this outline as the source of supplemental content (especially the American Progressivism bridge that Myers/Noebel does not cover) when building per-day lesson plans.
 
 ---
 
