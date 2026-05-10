@@ -74,12 +74,12 @@ Question types follow the publisher's exact format: MC (1pt) → T/F with correc
 - **d. All of the above** [2.7a]
 - e. A and B only
 
-**8.** On which of the following points do Christianity and Islam disagree?
-- a. The existence of Jesus
-- b. The prophethood of Jesus
-- **c. The trinity** [2.8a]
-- d. The existence of moral absolutes
-- e. A and B only
+**8.** Which Christian doctrine teaches that God is one Being eternally existing as three coequal, coeternal persons (Father, Son, and Holy Spirit)?
+- a. Modalism
+- **b. Trinitarian Monotheism** [2.8a, adapted]
+- c. Polytheism
+- d. Henotheism
+- e. None of the above
 
 **9.** According to Christianity, knowledge comes from which of the following sources?
 - a. Science
@@ -149,11 +149,11 @@ Question types follow the publisher's exact format: MC (1pt) → T/F with correc
 **22.** We must know what a biblical passage **means** before we can accurately apply it to our lives.
 - **True** [2.7a]
 
-**23.** Unlike Christianity, **Islam** sees God as an impersonal consciousness.
-- **False: New Spirituality** [2.8c]
+**23.** Christianity teaches that God is **a personal being**, not an impersonal consciousness or force.
+- **True** [2.8c, adapted]
 
-**24.** Unlike Postmodernism, the Christian worldview sees **truth** as universal in both scope and application.
-- **True** [2.8e]
+**24.** The Christian worldview sees **truth** as universal in both scope and application.
+- **True** [2.8e, adapted]
 
 **25.** Because they believe God created it, Christians expect to find **chaos** in nature.
 - **False: order** [8.8]
@@ -225,7 +225,7 @@ Question types follow the publisher's exact format: MC (1pt) → T/F with correc
 - *Christianity is a theistic worldview centered on the person of Jesus Christ that derives its understanding of the world through the teachings of the Holy Bible.* [2.2]
 
 **44.** What does it mean to say that God is personal?
-- *To say that God is personal is to say that God is a person — that is, he possesses the characteristics of a person. Unlike the god-force of New Spirituality, the Christian God is self-aware, creative, volitional, rational, relational, and communicative.* [2.3a]
+- *To say that God is personal is to say that God is a person — that is, he possesses the characteristics of a person. Rather than an impersonal force or consciousness, the Christian God is self-aware, creative, volitional, rational, relational, and communicative.* [2.3a, adapted]
 
 **45.** Can general revelation lead people to God?
 - *General revelation can "lead people to God" by revealing something about his nature, but there is only so much we can infer about God from observing his creation. Basic knowledge comes through general revelation, but a personal and saving knowledge only comes through his special revelation.* [2.6]
@@ -277,4 +277,13 @@ Question types follow the publisher's exact format: MC (1pt) → T/F with correc
 
 ---
 
-*Test built 2026-05-09. Source breakdown: 28 items from publisher Ch 02 Test verbatim (worldview-comprehensive); 22 items from publisher Ch 8–17 Tests (discipline-comparative, Christianity-relevant); 1 locally-built essay drawn from Day 8 Four-Test exercise. Coordinates with [unit-01-christianity-reading-packet.md](../handouts/unit-01-christianity-reading-packet.md) and [unit-01-christianity-lecture-notes-teacher.md](../lectures/unit-01-christianity-lecture-notes-teacher.md). Pedagogical note: Q9, Q10, Q11, Q12, and Q13 mix Ch 8–17 items into the publisher's Ch 02 sequence — the teacher may wish to clarify on Day 13 that these are valid dual-credit-aligned items pulled from the discipline-comparative chapters.*
+*Test built 2026-05-09; revised 2026-05-09 to remove unstudied-worldview presuppositions. Source breakdown: 28 items from publisher Ch 02 Test (24 verbatim + 4 adapted to remove references to worldviews students have not yet studied); 22 items from publisher Ch 8–17 Tests (discipline-comparative, Christianity-relevant); 1 locally-built essay drawn from Day 8 Four-Test exercise. Coordinates with [unit-01-christianity-reading-packet.md](../handouts/unit-01-christianity-reading-packet.md) and [unit-01-christianity-lecture-notes-teacher.md](../lectures/unit-01-christianity-lecture-notes-teacher.md).*
+
+**Items adapted from publisher original** (worldview-first ordering means students have not yet studied Islam, New Spirituality, or Postmodernism at end of Unit 1):
+
+- **Q8** — original asked about Christianity-vs-Islam disagreement on the Trinity. Adapted to test the Christian doctrine of the Trinity directly (without naming Islam). Same theological content; correct answer still tests Trinitarian Monotheism.
+- **Q23** — original was "Unlike Christianity, Islam sees God as impersonal consciousness" (False: New Spirituality). Adapted to a direct True statement about the personal God of Christianity, without naming Islam or New Spirituality.
+- **Q24** — original was "Unlike Postmodernism, the Christian worldview sees truth as universal." Adapted to a direct claim about Christian truth-universalism, without naming Postmodernism.
+- **Q44** — question wording unchanged from publisher; the model answer was adapted to remove the "god-force of New Spirituality" reference. Sample answer now contrasts the personal God with "an impersonal force or consciousness" generically.
+
+**Pedagogical note:** Q9, Q10, Q11, Q12, and Q13 mix Ch 8–17 discipline-comparative items into the publisher's Ch 02 sequence — these are valid dual-credit-aligned items pulled from the chapters that will be revisited during T1 Discipline Pass review.

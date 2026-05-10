@@ -62,12 +62,12 @@
 - d. All of the above
 - e. A and B only
 
-**8.** On which of the following points do Christianity and Islam disagree?
-- a. The existence of Jesus
-- b. The prophethood of Jesus
-- c. The trinity
-- d. The existence of moral absolutes
-- e. A and B only
+**8.** Which Christian doctrine teaches that God is one Being eternally existing as three coequal, coeternal persons (Father, Son, and Holy Spirit)?
+- a. Modalism
+- b. Trinitarian Monotheism
+- c. Polytheism
+- d. Henotheism
+- e. None of the above
 
 **9.** According to Christianity, knowledge comes from which of the following sources?
 - a. Science
@@ -146,11 +146,11 @@ ____________________________________________________
 
 ____________________________________________________
 
-**23.** Unlike Christianity, **Islam** sees God as an impersonal consciousness.
+**23.** Christianity teaches that God is **a personal being**, not an impersonal consciousness or force.
 
 ____________________________________________________
 
-**24.** Unlike Postmodernism, the Christian worldview sees **truth** as universal in both scope and application.
+**24.** The Christian worldview sees **truth** as universal in both scope and application.
 
 ____________________________________________________
 

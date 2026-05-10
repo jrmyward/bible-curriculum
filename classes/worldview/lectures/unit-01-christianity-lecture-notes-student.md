@@ -1,4 +1,4 @@
-# Unit 1 — Christianity Lecture Notes (Student Handout)
+# Unit 1 — Christianity Lecture Notes (Student Outline)
 
 **Course:** Understanding the Times — A Survey of Competing Worldviews
 **Unit:** 1 — Christianity (the baseline)
@@ -9,11 +9,17 @@
 
 ---
 
-## How to Use This Handout
+## How to Use This Outline
 
-Bring it to every lecture day listed above. The lecture follows this exact structure — fill in the blanks as the teacher works through them. By the end of the unit, this handout becomes your study guide for the Day 13 blended chapter test. **Every blank you fill in is a vocabulary term that will appear on that test.**
+This is a **structured outline**, not a fill-in-the-blank handout. The Roman numerals (I, II, III) and capital letters (A, B, C) mark the major points the teacher will work through. Your job is to listen carefully and **write your own sub-points** in the numbered blanks beneath each header.
 
-Anything written under **WRITE ON BOARD** is what you should copy from the front of the room. Time markers tell you the pace.
+Three rules for taking good notes from this outline:
+
+1. **Write in your own words.** Don't try to transcribe the teacher word-for-word. Listen for the idea, then capture it in a way you'll understand in three months.
+2. **Mark what you don't understand.** Use a question mark in the margin. After class, ask the teacher or work it out from the reading packet.
+3. **Use the Terms to Know lists.** Each section ends with the publisher's vocabulary that will appear on the Day-13 test. Define each term *in your own words* — that's how you'll remember it.
+
+By the end of the unit, this outline becomes your study guide. By Day 12, you should be able to recite Christianity's answer to each of the 10 disciplines from your own notes.
 
 ---
 
@@ -21,71 +27,117 @@ Anything written under **WRITE ON BOARD** is what you should copy from the front
 
 **Reading due today:** Part 1 of the Christianity reading packet.
 
-## Opening hook [5 min]
+## I. Opening hook — The story of C. E. M. Joad [5 min]
 
-The story of C. E. M. Joad — a popular British radio philosopher in the 1940s, dismissive of Christianity, who returned to faith near the end of his life and wrote *The Recovery of Belief*.
+A. A British radio philosopher in the 1940s
 
-> *"It is because the religious view of the universe seems to me to cover more of the facts of experience than any other that I have been gradually led to embrace it."* — C. E. M. Joad
+   1. _________________________________________________________
 
-## What this worldview actually is [15 min]
+   2. _________________________________________________________
 
-**WRITE ON BOARD:** *Christianity is a __________ worldview centered on the person of __________ that derives its understanding of the world through the teachings of the Holy Bible.*
+B. His return to faith near the end of his life
 
-The basics of the Christian story (Myers Ch 2, §2):
-- There is a God.
-- Through Jesus Christ, God created the world.
-- Human beings were made in God's image but fell into sin.
-- The fall affected all creation.
-- Jesus Christ paid for sin and bought redemption with his own life.
+   1. _________________________________________________________
 
-The reversal: other religions may offer advice on how to search for God, but Christianity claims that __________ is the one who gets in touch with us. Immanuel — *"God with us."*
+   2. _________________________________________________________
 
-**WRITE ON BOARD: The four-act story —**
-1. **__________** — *meod tob* (very good)
-2. **__________** — *incurvatus in se* (curved in on itself)
-3. **__________** — the serpent who said "Take, eat" defeated by the Savior who said "Take, eat"
-4. **__________** — "Behold, I am making all things new" (Rev. 21:5)
+C. What his story tells us about Christianity
 
-**KEY VOCAB:**
+   1. _________________________________________________________
 
-- **__________** [2.2] — a theistic worldview centered on the person of Jesus Christ that derives its understanding of the world through the teachings of the Holy Bible
-- **__________** [8.1] — the belief in the existence of a God or gods
-- **__________** [2.4] — God's revelation of himself to all people through creation (Ps. 19:1–6; Rom. 1:18–20)
-- **__________** [2.4] — God's revelation of himself through the Bible, miraculous events, and Jesus Christ (Ps. 19:7–11; 2 Tim. 3:14–17; John 1:1–18)
+   2. _________________________________________________________
 
-## The framing question [10 min]
+## II. What this worldview actually is [15 min]
+
+**WRITE ON BOARD:** *Christianity is a theistic worldview centered on the person of Jesus Christ that derives its understanding of the world through the teachings of the Holy Bible.*
+
+A. The basics of the Christian story (Myers Ch 2, §2)
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+   3. _________________________________________________________
+
+   4. _________________________________________________________
+
+   5. _________________________________________________________
+
+B. The reversal: God comes to us, not the other way around
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+C. The four-act story (write the four acts on the board as the teacher names them)
+
+**WRITE ON BOARD:**
+
+   1. ____________________________ — *meod tob* (very good)
+
+   2. ____________________________ — *incurvatus in se* (curved in on itself)
+
+   3. ____________________________ — the serpent vs. the Savior
+
+   4. ____________________________ — "Behold, I am making all things new" (Rev. 21:5)
+
+**Terms to know** (define each in your own words — these will be on the test):
+
+- *Christianity* [2.2]: ___________________________________________
+
+- *Theism* [8.1]: ________________________________________________
+
+- *General revelation* [2.4]: ___________________________________
+
+- *Special revelation* [2.4]: ____________________________________
+
+## III. The framing question [10 min]
 
 **WRITE ON BOARD:** *What is the Christian answer to each of the 10 disciplines, and why?*
 
-Two big claims that organize everything that follows:
+A. Why Christianity is the longest unit (13 days)
 
-1. God exists, is personal, and has __________ himself. (vs. Secularism, Marxism, postmodernism, New Spirituality)
-2. History is going somewhere — toward the __________ of all things in Christ. (vs. cyclical religions, vs. nihilism)
+   1. _________________________________________________________
 
-## Anticipated student questions [10 min]
+   2. _________________________________________________________
 
-- *"Why are we starting with Christianity? Isn't that biased?"* — Notes from the teacher's response:
+B. The two biggest claims that organize the whole unit
 
-  ___________________________________________________________________
+   1. _________________________________________________________
 
-  ___________________________________________________________________
+   2. _________________________________________________________
 
-- *"What if I'm not a Christian? What if my family isn't?"* — Notes:
+C. The bar for Day 12
 
-  ___________________________________________________________________
+   1. _________________________________________________________
 
-  ___________________________________________________________________
+   2. _________________________________________________________
 
-- *"Christians disagree about a lot. Which Christianity are we doing?"* — Notes:
+## IV. Anticipated student questions [10 min]
 
-  ___________________________________________________________________
+A. *"Why are we starting with Christianity? Isn't that biased?"*
 
-  ___________________________________________________________________
+   1. _________________________________________________________
 
-## Transition to Day 2 [5 min]
+   2. _________________________________________________________
 
-Tomorrow: first three lenses — **Theology, Philosophy, Ethics**.
-Reading: Part 2 §§1–3 of the packet.
+B. *"What if I'm not a Christian? What if my family isn't?"*
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+C. *"Christians disagree about a lot. Which Christianity are we doing?"*
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+## V. Transition to Day 2 [5 min]
+
+A. Tomorrow's lenses: Theology, Philosophy, Ethics
+
+B. Reading: Part 2 §§1–3 of the packet
 
 ---
 
@@ -93,105 +145,151 @@ Reading: Part 2 §§1–3 of the packet.
 
 **Reading due today:** Part 2 §§1–3 of the reading packet.
 
-## Opening review [3 min]
+## I. Opening review [3 min]
 
-The four-act story: __________ → __________ → __________ → __________
+A. Recite the four-act story (no looking at notes)
 
-The difference between general and special revelation: ___________________________________________________________________
+   1. _________________________________________________________
 
-## Lens 1 — Theology [13 min]
+B. Difference between general and special revelation
 
-**WRITE ON BOARD:** Christianity's answer to *Who is God?*: **__________ Monotheism**
+   1. _________________________________________________________
 
-From Myers Ch 2 (the worldview's own chapter):
-- God is **__________** — possesses intellect, emotion, volition; rational, relational, communicative.
-- God is **__________** (beyond and separate from the world) and **__________** (in the world).
-- God is **__________** — relationship is not something God does but something God *is*.
+## II. Lens 1 — Theology [13 min]
 
-From Ch 8 (Theology), Christianity slice:
-- The publisher's exact phrase: *Trinitarian monotheism* — "the belief in __________ recognized as __________ separate and distinct persons: __________, __________, and __________" (Myers Ch 8, §6).
-- Christianity expects to find __________ in nature — not chaos — because God created it.
-- The God of love is also the God of __________.
+**WRITE ON BOARD:** Christianity's answer to *Who is God?* — **Trinitarian Monotheism**
 
-**KEY VOCAB:**
-- **__________** [8.6] — belief in one God recognized as three separate and distinct persons: Father, Son, and Spirit
-- **__________** [8.1] — belief in the existence of a God or gods
-- **__________** [8.6] — belief in the existence of one God
-- **__________** [8.9c] — sacred / set apart / consecrated
-- **__________** [8.8d] — the universe was designed for human beings
-- **__________** [8.8c] — complexity and information in DNA molecules reveal evidence for design
+A. From Myers Ch 2 (the worldview's own chapter)
 
-**Scripture anchor:** Isaiah 44:6 — *"I am the first, and I am the last; besides me there is no god."*
+   1. God is *personal*: ______________________________________
+
+   2. God is *transcendent + immanent*: _______________________
+
+   3. God is *triune*: _________________________________________
+
+B. From Ch 8 (Theology), Christianity slice
+
+   1. Trinitarian Monotheism — the publisher's exact phrase: _________________________________________________________
+
+   2. Christianity expects ____________________________ in nature, not chaos
+
+   3. The God of love is also the God of ____________________
+
+C. Scripture anchor
+
+   1. *Isaiah 44:6* — _________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Trinitarian Monotheism* [8.6]: __________________________
+
+- *Theism* [8.1]: __________________________________________
+
+- *Monotheism* [8.6]: ______________________________________
+
+- *Holy* [8.9c]: ___________________________________________
+
+- *Anthropic principle* [8.8d]: ____________________________
+
+- *Genetic information theory* [8.8c]: ______________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Theology row.
 
-## Lens 2 — Philosophy [13 min]
+## III. Lens 2 — Philosophy [13 min]
 
-**WRITE ON BOARD:** Christianity's answer to *What is real, and how do we know?*: **__________ + __________ Dualism**
+**WRITE ON BOARD:** Christianity's answer to *What is real, and how do we know?* — **Realism + Mind/Body Dualism**
 
-From Myers Ch 2:
-- Christianity claims reality exists for us to know.
-- Faith is not opposed to __________.
+A. From Myers Ch 2
 
-From Ch 9 (Philosophy), Christianity slice:
-- *__________* (Myers Ch 9, §7) — "the belief that an objective reality exists independently from human perception or language."
-- *__________ dualism* (Myers Ch 9, §7c) — "the belief that human beings are composed of __________ minds and __________ bodies."
-- According to the Christian view of metaphysics, **__________ came before __________** — not the other way around. (John 1:1)
-- Christians believe knowledge can come from science, history, experience, *and* __________.
-- Al-Ghazali's *__________* cosmological argument — a classical argument shared by Muslim and Christian theists.
+   1. Christianity claims reality exists independent of our minds: _________________________________________________________
 
-**KEY VOCAB:**
-- **__________** [9.1] — the study of knowledge, truth, and the nature of ultimate reality
-- **__________** [9.1] — the study of ultimate reality
-- **__________** [9.1] — the study of knowledge
-- **__________** [9.7] — the belief that an objective reality exists independently from human perception or language
-- **__________** [9.7] — the belief that reality is ultimately composed of two essential substances
-- **__________ dualism** [9.7c] — the belief that human beings are composed of immaterial minds and material bodies
+   2. Faith is not the opposite of reason: __________________________________________________________________
 
-**Scripture anchor:** John 1:1 — *"In the beginning was the __________, and the __________ was with God, and the __________ was God."*
+B. From Ch 9 (Philosophy), Christianity slice
+
+   1. *Realism* — defined: ____________________________________
+
+   2. *Mind/body dualism* — defined: __________________________
+
+   3. According to Christianity, mind came **before** matter (John 1:1): _____________________________________________
+
+   4. Christians believe knowledge comes from: _________________________________________________________
+
+C. Scripture anchor
+
+   1. *John 1:1* — ____________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Philosophy* [9.1]: ______________________________________
+
+- *Metaphysics* [9.1]: ______________________________________
+
+- *Epistemology* [9.1]: ____________________________________
+
+- *Realism* [9.7]: __________________________________________
+
+- *Dualism* [9.7]: __________________________________________
+
+- *Mind/body dualism* [9.7c]: ______________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Philosophy row.
 
-## Lens 3 — Ethics [14 min]
+## IV. Lens 3 — Ethics [14 min]
 
-**WRITE ON BOARD:** Christianity's answer to *What is good, on what basis?*: **__________ / Natural Law**
+**WRITE ON BOARD:** Christianity's answer to *What is good, on what basis?* — **Agape / Natural Law**
 
-From Myers Ch 2:
-> *"He exists; He has a character; and not all things are the same to Him. Some things conform to His character, and some are opposed to His character."* — Francis Schaeffer
+A. From Myers Ch 2
 
-Apologetic posture verses: 1 Pet. __________; Acts __________; 2 Cor. __________; Col. __________ (all from Myers Ch 2, §9).
+   1. Schaeffer on God's character as the source of ethics: _________________________________________________________
 
-From Ch 10 (Ethics), Christianity slice:
-- Christian ethics is grounded in God's __________ — not God's decree.
-- *Agape* — "the belief that morality is built upon two foundational moral absolutes: love of __________ and love of __________" (Myers Ch 10, §8).
-- The greatest commandment: __________ 10:27. The apex of Christ's ethical teaching: the __________ on the __________ (Matt. 5–7).
-- Romans 12:9 — *"Let love be __________. Abhor what is __________; hold fast to what is __________."*
-- Christians see common moral norms across cultures as evidence of a **__________ lawgiver**.
+   2. The four apologetic-posture verses (write the references): _________________________________________________________
 
-**KEY VOCAB:**
-- **__________** [10.2] — the study of moral conduct, values, duties, and goodness
-- **__________** [10.8] — the belief that morality is built upon two foundational moral absolutes: love of God and love of neighbor
-- **__________ on the __________** [10.8] — the apex of Christ's ethical teaching (Matt. 5–7)
-- **__________ commandment** [10.8] — Luke 10:27
-- **Universal __________** [10.1] — common moral norms across cultures point to one
-- **Christian ethics task** [10.8] — to determine what conforms to __________ and what does not
+B. From Ch 10 (Ethics), Christianity slice
 
-**Scripture anchor:** Luke 10:27.
+   1. Christian ethics is grounded in God's _______________ (not God's decree)
+
+   2. *Agape* — the publisher's definition: __________________________________________________________________
+
+   3. The greatest commandment (Luke 10:27): __________________________________________________________________
+
+   4. The apex of Christ's ethical teaching: __________________________________________________________________
+
+   5. Romans 12:9 — ____________________________________________
+
+   6. Universal moral norms = evidence of a __________________________________________________________________
+
+C. Scripture anchor
+
+   1. *Luke 10:27* — __________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Ethics* [10.2]: __________________________________________
+
+- *Agape* [10.8]: ___________________________________________
+
+- *Sermon on the Mount* [10.8]: ____________________________
+
+- *Greatest commandment* [10.8]: ___________________________
+
+- *Universal lawgiver* [10.1]: _____________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Ethics row.
 
-## Synthesis check [3 min]
+## V. Synthesis check [3 min]
 
-What's the through-line connecting Theology, Philosophy, and Ethics?
+A. The through-line connecting Theology, Philosophy, and Ethics
 
-___________________________________________________________________
+   1. _________________________________________________________
 
-___________________________________________________________________
+   2. _________________________________________________________
 
-## Bridge to Day 3 [4 min]
+## VI. Bridge to Day 3 [4 min]
 
-Tomorrow: **Biology, Psychology, Sociology** — what humans are and how they should live together.
-Reading: Part 2 §§4–6 of the packet.
+A. Tomorrow's lenses: Biology, Psychology, Sociology
+
+B. Reading: Part 2 §§4–6 of the packet
 
 ---
 
@@ -199,223 +297,367 @@ Reading: Part 2 §§4–6 of the packet.
 
 **Reading due today:** Part 2 §§4–6 of the reading packet.
 
-## Opening review [3 min]
+## I. Opening review [3 min]
 
-The publisher's name for Christianity's theological position: ____________________________________
+A. The publisher's name for Christianity's theological position
 
-Christianity's epistemology (one word): __________
+   1. _________________________________________________________
 
-## Lens 4 — Biology [14 min]
+B. Christianity's epistemology in one word
 
-**WRITE ON BOARD:** Christianity's answer to *What is life, and where did it come from?*: **__________ Creation / __________**
+   1. _________________________________________________________
 
-From Myers Ch 2:
-- The cosmological argument: order and arrangement of the universe point to a __________ cause.
-- Genesis 1:27 — humans created *in his own __________*.
+## II. Lens 4 — Biology [14 min]
 
-From Ch 11 (Biology), Christianity slice:
-- *__________ creation* — "the belief that the cosmos and all life were brought into existence by the creative act of God" (Myers Ch 11, §8).
-- Three legitimate Christian positions, all under the special-creation umbrella:
-  - **__________ creationism** — six literal days, ~6,000 years
-  - **__________ creationism** — progressive stages over a long time
-  - **__________ evolution** — billions of years, guided evolution
-- The **intelligent __________ movement** and **__________ complexity** are scientific arguments many Christians cite.
-- __________evolution is a fact of science; __________evolution is the disputed claim.
+**WRITE ON BOARD:** Christianity's answer to *What is life, and where did it come from?* — **Special Creation / Imago Dei**
 
-**KEY VOCAB:**
-- **__________** [11.2] — the study of life and living organisms
-- **__________ creation** [11.8] — the belief that the cosmos and all life were brought into existence by the creative act of God
-- **__________ creationism** [11.8] — God created in six literal days, ~6,000 years ago
-- **__________ creationism** [11.8] — God created in progressive stages over a long period
-- **__________ evolution** [11.8] — God guided evolution over billions of years
-- **__________ design movement** [11.7] — designer best accounts for design and complexity
-- **__________ complexity** [11.8] — complex biological systems can't function without all components
+A. From Myers Ch 2
+
+   1. The cosmological argument: ______________________________
+
+   2. Genesis 1:27 — humans created in God's __________________
+
+   3. Why naturalism cannot ground human dignity: ___________________________________________________________
+
+B. From Ch 11 (Biology), Christianity slice
+
+   1. *Special creation* — the publisher's definition: __________________________________________________________________
+
+   2. Three legitimate Christian positions, all under special creation:
+
+      a. *Young-age creationism*: ______________________________
+
+      b. *Progressive creationism*: ___________________________
+
+      c. *Theistic evolution*: ________________________________
+
+   3. *Intelligent design movement*: __________________________
+
+   4. *Irreducible complexity*: _______________________________
+
+   5. Microevolution vs. macroevolution: ______________________
+
+C. The unifying claim across all three views
+
+   1. _________________________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Biology* [11.2]: ________________________________________
+
+- *Special creation* [11.8]: _______________________________
+
+- *Young-age creationism* [11.8]: __________________________
+
+- *Progressive creationism* [11.8]: ________________________
+
+- *Theistic evolution* [11.8]: _____________________________
+
+- *Intelligent design movement* [11.7]: ____________________
+
+- *Irreducible complexity* [11.8]: _________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Biology row.
 
-## Lens 5 — Psychology [13 min]
+## III. Lens 5 — Psychology [13 min]
 
-**WRITE ON BOARD:** Christianity's answer to *What is the self?*: **__________/__________ Dualism (Fallen but Redeemable)**
+**WRITE ON BOARD:** Christianity's answer to *What is the self?* — **Mind/Body Dualism (Fallen but Redeemable)**
 
-From Myers Ch 2:
-- The fall: sin __________ but did not __________ the image of God in us. Light bulb with a broken filament — still a light bulb.
-- Augustine's __________ in __________ — "curved in on itself."
+A. From Myers Ch 2
 
-From Ch 12 (Psychology), Christianity slice:
-- *__________ dualism* — humans are composed of immaterial minds and material bodies.
-- The Christian view of the soul accounts for: __________, __________, and our proclivity to do __________.
-- The source of psychological problems is our __________ against God and against our fellow man — not society alone.
-- Three sources of temptation (Eph. 2:1–3): the __________, the __________, and the __________.
-- Matthew 10:28 — *"Do not fear those who kill the __________ but cannot kill the __________."*
-- The publisher commends __________ psychology as compatible with Christian anthropology.
+   1. The fall: sin _______________ but did not _______________ the image of God
 
-**KEY VOCAB:**
-- **__________** [12.1] — the study of the human soul
-- **__________ dualism** [12.8] — the belief that human beings are composed of immaterial minds and material bodies
-- **Imago __________** — every person bears God's image; not destroyed by the fall
-- **Three sources of temptation** [12.8] — __________, __________, __________
-- **__________ psychology** [12.8] — focuses on promoting mental health and happiness
+   2. Augustine's *incurvatus in se*: __________________________
 
-**Scripture anchor:** Matthew 10:28.
+B. From Ch 12 (Psychology), Christianity slice
+
+   1. *Mind/body dualism* applied to human persons: _____________________________________________________________
+
+   2. The Christian view of the soul accounts for:
+
+      a. _____________________________________________________
+
+      b. _____________________________________________________
+
+      c. _____________________________________________________
+
+   3. Source of psychological problems = ______________________________________________________________________
+
+   4. Three sources of temptation (Eph. 2:1–3):
+
+      a. _____________________________________________________
+
+      b. _____________________________________________________
+
+      c. _____________________________________________________
+
+   5. *Positive psychology* and Christian anthropology: __________________________________________________________________
+
+C. Scripture anchor
+
+   1. *Matthew 10:28* — ________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Psychology* [12.1]: _____________________________________
+
+- *Mind/body dualism* [12.8]: ______________________________
+
+- *Imago Dei / Image of God*: _____________________________
+
+- *Three sources of temptation* [12.8]: ____________________
+
+- *Positive psychology* [12.8]: ____________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Psychology row.
 
-## Lens 6 — Sociology [15 min]
+## IV. Lens 6 — Sociology [15 min]
 
-**WRITE ON BOARD:** Christianity's answer to *How should people live together?*: **__________ Sovereignty**
+**WRITE ON BOARD:** Christianity's answer to *How should people live together?* — **Sphere Sovereignty**
 
-From Myers Ch 2:
-- Genesis 1–4 sequence: marriage → family → worship → government → urbanization → agriculture → music → metallurgy. Society's basic institutions were there from the start.
+A. From Myers Ch 2
 
-From Ch 13 (Sociology), Christianity slice:
-- *__________ sovereignty* — "the belief that God ordained certain spheres of society, such as __________, __________, and __________, and that society functions best when each sphere is properly managing its own area of responsibility" (Myers Ch 13, §8).
-- The __________ is what holds society together.
-- The source of society's problems is __________ — rebellion against God's design.
-- Government's responsibility is to __________ human rights, not __________ them.
-- The church's primary responsibility is to model __________ by loving one's __________.
-- *__________* — decisions handled at the lowest competent level.
+   1. Genesis 1–4: society's basic institutions were there from the start
 
-> *"There is not one square inch of the entire creation about which Jesus Christ does not cry out, 'This is mine!'"* — Abraham Kuyper
+      a. List the institutions: ______________________________
 
-**KEY VOCAB:**
-- **__________** [13.1] — the study of human societies and institutions
-- **__________ sovereignty** [13.8] — God ordained spheres (family, church, state); society functions best when each manages its own
-- **__________** [13.8 / 15.9b] — decisions handled at the level closest to the issues affected
-- **__________ as society's anchor** [13.8] — Christianity's claim about what holds society together
+      b. _____________________________________________________
+
+   2. Lesslie Newbigin's Hindu friend on the Bible: ____________________________________________________________
+
+B. From Ch 13 (Sociology), Christianity slice
+
+   1. *Sphere sovereignty* — the publisher's definition: __________________________________________________________________
+
+   2. The three God-ordained spheres:
+
+      a. _____________________________________________________
+
+      b. _____________________________________________________
+
+      c. _____________________________________________________
+
+   3. What holds society together: ___________________________
+
+   4. Source of society's problems: __________________________
+
+   5. Government's responsibility — ______________ rights, not ______________ them
+
+   6. Church's primary responsibility: _______________________
+
+   7. *Subsidiarity* — defined: ______________________________
+
+C. Kuyper's quote to remember
+
+   1. _________________________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Sociology* [13.1]: ______________________________________
+
+- *Sphere sovereignty* [13.8]: ____________________________
+
+- *Subsidiarity* [13.8 / 15.9b]: __________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Sociology row.
 
-## Synthesis check [3 min]
+## V. Synthesis check [3 min]
 
-What does Christianity say about the relationship between body/soul, individual/community?
+A. What does Christianity say about the body/soul, individual/community relationships?
 
-___________________________________________________________________
+   1. _________________________________________________________
 
-___________________________________________________________________
+   2. _________________________________________________________
 
-## Bridge to Day 4 [2 min]
+## VI. Bridge to Day 4 [2 min]
 
-Tomorrow: **Law, Politics, Economics, History** — Christianity's answer to power and meaning.
-Reading: Part 2 §§7–10 of the packet.
+A. Tomorrow's lenses: Law, Politics, Economics, History (the longest day)
+
+B. Reading: Part 2 §§7–10 of the packet
 
 ---
 
 # Day 4 — Deep Dive Pt 3: Law, Politics, Economics, History [target: 50 min]
 
-**Reading due today:** Part 2 §§7–10 of the reading packet. Longest day — pace tightly.
+**Reading due today:** Part 2 §§7–10 of the reading packet. Pace tightly today — four lenses to cover.
 
-## Opening review [3 min]
+## I. Opening review [3 min]
 
-What does the publisher mean by "sphere sovereignty"?
+A. Sphere sovereignty in your own words
 
-___________________________________________________________________
+   1. _________________________________________________________
 
-## Lens 7 — Law [10 min]
+## II. Lens 7 — Law [10 min]
 
-**WRITE ON BOARD:** Christianity's answer to *What is justice, and where does authority come from?*: **__________ Law (grounded in God's character)**
+**WRITE ON BOARD:** Christianity's answer to *What is justice, and where does authority come from?* — **Natural Law (grounded in God's character)**
 
-From Myers Ch 2:
-> *"God is the only Legislator. Earthly rulers and legislative bodies are alike accountable to Him."* — Carl Henry
+A. From Myers Ch 2
 
-From Ch 14 (Law), Christianity slice:
-- *__________ law* — "the belief that laws are rules based upon an internal code of morality possessed by all people" (Myers Ch 14, §3).
-- The source of divine law is the __________ and __________ of God.
-- Christianity assumes all human beings have a general concept of __________ and __________.
-- Christian foundations of law: humanity is inherently __________; humans are made in God's __________; government is an institution created by __________.
-- To understand law, Christians turn to both __________ and __________ revelation.
+   1. Carl Henry: God is the only Legislator: ______________________________________________________________
 
-**KEY VOCAB:**
-- **__________** [14.3] — the study of ordinances designed to help citizens coexist peacefully
-- **__________ law** [14.3] — laws based upon an internal code of morality possessed by all people
-- **Source of divine law** [14.9] — the __________ and __________ of God
-- **__________** [14.3] — administrative aspect of law (safety, efficiency)
-- **__________** [14.3] — enforcement aspect of law (reasonable, fair, equal rules)
+   2. Romans 2:14–15 — the law written on the heart: ______________________________________________________________
 
-**Scripture anchor:** Romans 2:14–15.
+B. From Ch 14 (Law), Christianity slice
+
+   1. *Natural law* — the publisher's definition: __________________________________________________________________
+
+   2. The source of divine law: ______________________________
+
+   3. Christianity assumes all human beings have: __________________________________________________________________
+
+   4. Three Christian foundations of law:
+
+      a. _____________________________________________________
+
+      b. _____________________________________________________
+
+      c. _____________________________________________________
+
+   5. To understand law, Christians turn to: __________________________________________________________________
+
+C. Scripture anchor
+
+   1. *Romans 2:14–15* — _______________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Law* [14.3]: _____________________________________________
+
+- *Natural law* [14.3]: ____________________________________
+
+- *Source of divine law* [14.9]: ___________________________
+
+- *Order vs. justice* [14.3]: ______________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Law row.
 
-## Lens 8 — Politics [12 min]
+## III. Lens 8 — Politics [12 min]
 
-**WRITE ON BOARD:** Christianity's answer to *What is the role of the state?*: **__________ / Limited Government**
+**WRITE ON BOARD:** Christianity's answer to *What is the role of the state?* — **Subsidiarity / Limited Government**
 
-From Ch 15 (Politics), Christianity slice:
-- Government's primary mission in a fallen world: preserve __________ and punish __________.
-- Romans 13:1–7 — government as a sacred institution.
-- 1 Peter 2:13–14 — submit to governing authorities.
-- Acts 5:27–29 sets the limit: *"We must obey __________ rather than __________."*
-- Government was instituted by God to __________ human rights, not __________ them.
-- *__________ sovereignty* — same term as in Sociology.
-- *__________* — decisions at the level closest to the persons affected.
+A. From Ch 15 (Politics), Christianity slice
 
-**KEY VOCAB:**
-- **__________** [15.1] — the study of community governance
-- **__________** [15.9b] — decisions at the level closest to the persons affected
-- **__________ sovereignty** [15.9b] — God ordained family, church, and state
-- **Government's primary mission** [15.8] — __________ justice and punish __________
-- **Government's purpose** [15.9b] — to __________ (not create) human rights
+   1. Government's primary mission in a fallen world: __________________________________________________________________
 
-**Scripture anchors:** Romans 13:1–7; Acts 5:27–29.
+   2. Romans 13:1–7 on government: ___________________________
+
+   3. 1 Peter 2:13–14 on submission: _________________________
+
+   4. Acts 5:27–29 sets the limit: __________________________
+
+   5. Government was instituted to ___________ rights, not ___________ them
+
+   6. *Sphere sovereignty* (returns from sociology): __________________________________________________________________
+
+   7. *Subsidiarity*: __________________________________________
+
+   8. Christian political posture — humble involvement: __________________________________________________________________
+
+B. Scripture anchors
+
+   1. *Romans 13:1–7* — ________________________________________
+
+   2. *Acts 5:27–29* — _________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Politics* [15.1]: _______________________________________
+
+- *Subsidiarity* [15.9b]: __________________________________
+
+- *Sphere sovereignty* [15.9b]: ___________________________
+
+- *Government's primary mission* [15.8]: ___________________
+
+- *Government's purpose* [15.9b]: __________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Politics row.
 
-## Lens 9 — Economics [11 min]
+## IV. Lens 9 — Economics [11 min]
 
-**WRITE ON BOARD:** Christianity's answer to *What is wealth, and how should it be stewarded?*: **__________ Stewardship**
+**WRITE ON BOARD:** Christianity's answer to *What is wealth, and how should it be stewarded?* — **Biblical Stewardship**
 
-From Myers Ch 2:
-- Genesis 2:15 — __________ is part of God's *very good* design, not a curse from the fall.
+A. From Myers Ch 2
 
-From Ch 16 (Economics), Christianity slice:
-- *__________ stewardship* — "the act of managing and caring for resources that ultimately belong to __________" (Myers Ch 16, §10).
-- Our right to own property stems from our duty to __________.
-- We are accountable to __________ — not to no one — for how we use what we steward.
-- The commandments against stealing and coveting *presuppose* __________ property.
+   1. Genesis 2:15 — work as part of God's good design: __________________________________________________________________
 
-Three Proverbs to know:
-- Proverbs __________ — *"Better is a little with __________ than great revenues with injustice."*
-- Proverbs __________ — *"A slack hand causes poverty, but the hand of the __________ makes rich."*
-- Proverbs __________ — *"In all toil there is __________, but mere talk tends only to poverty."*
+   2. Dorothy Sayers on doing work well: __________________________________________________________________
 
-**KEY VOCAB:**
-- **__________** [16.1] — the study of the management of resources
-- **__________ stewardship** [16.10] — the act of managing and caring for resources that ultimately belong to God
-- **Right to property** [16.10] — stems from our __________ to __________
-- **Accountability** [16.10] — we are accountable to __________ for stewardship
+B. From Ch 16 (Economics), Christianity slice
+
+   1. *Biblical stewardship* — the publisher's definition: __________________________________________________________________
+
+   2. Right to property stems from: ___________________________
+
+   3. We are accountable to: __________________________________
+
+   4. Stealing/coveting commandments presuppose: __________________________________________________________________
+
+C. Three Proverbs to know
+
+   1. *Proverbs 16:8*: __________________________________________
+
+   2. *Proverbs 10:4*: __________________________________________
+
+   3. *Proverbs 14:23*: _________________________________________
+
+**Terms to know** (define each in your own words):
+
+- *Economics* [16.1]: _______________________________________
+
+- *Biblical stewardship* [16.10]: __________________________
+
+- *Right to property* [16.10]: ____________________________
+
+- *Accountability to God* [16.10]: _________________________
 
 **STUDENTS FILL IN GRID:** Christianity column, Economics row.
 
-## Lens 10 — History [11 min]
+## V. Lens 10 — History [11 min]
 
-**WRITE ON BOARD:** Christianity's answer to *Where is history going?*: **__________ Narrative**
+**WRITE ON BOARD:** Christianity's answer to *Where is history going?* — **Redemptive Narrative**
 
-From Myers Ch 2:
-- The four-act structure (revisit): Creation → Fall → Redemption → Restoration.
-- Galatians 4:4 — *"When the fullness of __________ had come, God sent forth his Son."*
+A. From Myers Ch 2
 
-From Ch 17 (History), Christianity slice:
-- *__________ narrative* — "the Christian metanarrative that describes the course of history unfolding according to the biblical chronicle of God's creative act, humanity's __________, Christ's __________ sacrifice, and God's eventual __________ of his creation" (Myers Ch 17, §9).
-- Christianity holds the __________ conception of history — over against the __________ conception held by Hinduism and Buddhism.
-- Christianity is *rooted in __________* — it makes specific claims about specific past events. (1 Cor. 15:14)
-- God works __________ our actions to direct history toward his ultimate end.
+   1. Four-act structure (revisit): ___________________________
 
-**KEY VOCAB:**
-- **__________** [17.1] — the study of past, places, persons, and events
-- **__________ narrative** [17.9] — Christian metanarrative: creation, fall, redemption, restoration
-- **__________ conception of history** [17.9b] — chronological pattern of cause and effect (Christianity)
-- **__________ conception of history** [17.9b] — repeating pattern of recurring ages (Hinduism / Buddhism)
+   2. Galatians 4:4 — "the fullness of time": _______________
 
-**Scripture anchor:** Revelation 21:5 — *"Behold, I am making all things __________."*
+B. From Ch 17 (History), Christianity slice
+
+   1. *Redemptive narrative* — the publisher's definition: __________________________________________________________________
+
+   2. *Linear conception of history*: __________________________
+
+   3. *Cyclical conception of history* (rejected by Christianity): __________________________________________________________________
+
+   4. Christianity is rooted in *history*: __________________________________________________________________
+
+   5. God works ___________________________ our actions to direct history
+
+C. Scripture anchor
+
+   1. *Revelation 21:5* — ______________________________________
+
+**Terms to know** (define each in your own words):
+
+- *History* [17.1]: ________________________________________
+
+- *Redemptive narrative* [17.9]: __________________________
+
+- *Linear conception of history* [17.9b]: __________________
+
+- *Cyclical conception of history* [17.9b]: ________________
 
 **STUDENTS FILL IN GRID:** Christianity column, History row.
 
-## Synthesis check + close [3 min]
+## VI. Synthesis + close [3 min]
 
-In one sentence, what is Christianity's biggest claim about reality?
+A. Christianity's biggest claim about reality, in one sentence
 
-___________________________________________________________________
+   1. _________________________________________________________
 
-___________________________________________________________________
+   2. _________________________________________________________
 
 This filled-in column is your reference document for the rest of the year.
 
@@ -423,114 +665,209 @@ This filled-in column is your reference document for the rest of the year.
 
 # Day 8 — Four-Test Self-Application [lecture frame: 10 min, then small-group: 35 min]
 
-**Reading due today:** Have the four tests memorized.
+## I. Lecture frame — The four tests [10 min]
 
-## Lecture frame [10 min]
+**WRITE ON BOARD:**
 
-**WRITE ON BOARD: The four tests**
-1. **__________** — Is the worldview internally coherent?
-2. **__________ World** — Does it match what we observe in nature, history, human experience?
-3. **__________ World** — Does it match our deepest moral, aesthetic, and relational intuitions?
-4. **Real-World __________** — When lived at scale, what fruit does it bear?
+A. **Reason** — Is the worldview internally coherent?
 
-Today is the **model exercise**. We're applying the four tests to Christianity itself. *Learn to see your faith from the outside, so you can defend it from the inside.*
+   1. _________________________________________________________
 
-Three highest-value tension points to consider:
+B. **Outer World** — Does it match what we observe in nature, history, human experience?
 
-1. **Reason:** Christianity claims the Trinity and Incarnation are mysteries (true but not fully comprehensible). Is "I can't fully explain this" the same as "this is contradictory"? — Notes: ____________________________________________
+   1. _________________________________________________________
 
-2. **Outer World:** Christianity stakes itself on the bodily resurrection of Jesus (1 Cor. 15:14). How do Christians defend the historicity of the resurrection? — Notes: ____________________________________________
+C. **Inner World** — Does it match our deepest moral, aesthetic, and relational intuitions?
 
-3. **Real-World Consequences:** Christianity has produced hospitals, universities, abolition movements — and inquisitions, crusades, scandals. How do Christians account for the failures? — Notes: ____________________________________________
+   1. _________________________________________________________
 
-## Small-group worksheet [25 min, then 10 min reports]
+D. **Real-World Consequences** — When lived at scale, what fruit does it bear?
 
-Your group's test: **__________________________**
+   1. _________________________________________________________
 
-Strongest case Christianity passes this test:
+E. Why we apply the four tests to Christianity *first*
 
-___________________________________________________________________
+   1. _________________________________________________________
 
-___________________________________________________________________
+## II. Three highest-value tension points
 
-Hardest pressure point against Christianity on this test:
+A. *Reason* — Trinity and Incarnation as mysteries vs. contradictions
 
-___________________________________________________________________
+   1. _________________________________________________________
 
-___________________________________________________________________
+   2. _________________________________________________________
 
-How a thoughtful Christian responds:
+B. *Outer World* — bodily resurrection of Jesus and 1 Cor. 15:14
 
-___________________________________________________________________
+   1. _________________________________________________________
 
-___________________________________________________________________
+   2. _________________________________________________________
 
-## Whole-class synthesis [5 min]
+C. *Real-World Consequences* — accounting for both the fruit and the failures
 
-Vocabulary to lock in for the test:
+   1. _________________________________________________________
 
-*__________ monotheism, __________ revelation, __________ revelation, __________ narrative, __________ sovereignty, __________ stewardship, __________, __________ law.*
+   2. _________________________________________________________
+
+## III. Small-group worksheet [25 min]
+
+A. Your group's test: ______________________________________
+
+B. Strongest case Christianity passes this test
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+   3. _________________________________________________________
+
+C. Hardest pressure point against Christianity on this test
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+   3. _________________________________________________________
+
+D. How a thoughtful Christian responds
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+   3. _________________________________________________________
+
+## IV. Whole-class synthesis [10 min]
+
+A. Strongest cracks each group surfaced
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+B. Vocabulary to lock in for the test
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
 
 ---
 
-# Day 9 — Christianity vs. Itself: Catholic / Protestant / Orthodox [target: 45 min]
+# Day 9 — Christianity vs. Itself: Catholic / Orthodox / Protestant [target: 45 min]
 
-## Opening framing [5 min]
+## I. Opening framing [5 min]
 
 **WRITE ON BOARD:** *What unites all Christians? What divides them?*
 
-The __________ Creed is what unites the three main branches. The differences are real but operate at a different level than the differences between Christianity and Islam, or Christianity and Buddhism.
+A. The Nicene Creed as the unifier
 
-## The three traditions [25 min]
+   1. _________________________________________________________
 
-| | Roman Catholic | Eastern Orthodox | Protestant |
-|---|---|---|---|
-| Authority | Scripture + Tradition + __________ (Pope) | Scripture + Tradition + Ecumenical __________ | Scripture alone (*__________*) |
-| Salvation | Grace + Faith + __________ | __________ (becoming partakers of the divine nature) | Grace alone, through __________ alone, in Christ alone |
-| Sacraments | __________ | Seven (called "mysteries") | __________ — most traditions |
-| Visible center | __________, Vatican | Patriarchs, councils | Local congregation |
+B. Differences between branches operate at a different level than differences between worldviews
 
-**Roman Catholic** notes:
+   1. _________________________________________________________
 
-___________________________________________________________________
+## II. The three traditions [25 min]
 
-___________________________________________________________________
+A. Roman Catholic
 
-___________________________________________________________________
+   1. Authority: _______________________________________________
 
-**Eastern Orthodox** notes:
+   2. Salvation: _______________________________________________
 
-___________________________________________________________________
+   3. Sacraments: ______________________________________________
 
-___________________________________________________________________
+   4. Visible center: __________________________________________
 
-___________________________________________________________________
+   5. Approximate numbers: _____________________________________
 
-**Protestant** notes (the five solas: __________, __________, __________, __________, __________):
+   6. Distinctive emphasis: ___________________________________
 
-___________________________________________________________________
+B. Eastern Orthodox
 
-___________________________________________________________________
+   1. Authority: _______________________________________________
 
-___________________________________________________________________
+   2. Salvation (*theosis*): ___________________________________
 
-## Synthesis: what worldview-grid cells stay constant? [10 min]
+   3. Sacraments (mysteries): __________________________________
 
-Cells where all three traditions agree:
+   4. Visible center: __________________________________________
 
-- *Theology:* __________ Monotheism — same for all three
-- *Biology:* __________ creation in God's image — same
-- *History:* __________ narrative ending with Christ's return — same
-- *Sociology:* Sphere sovereignty — varies by tradition, but family/church/state distinction holds
-- *Authority and salvation* are where they diverge — these are *intra-Christian* questions, not *Christianity vs. other worldviews* questions.
+   5. Approximate numbers: _____________________________________
 
-## Anticipated student questions [5 min]
+   6. Distinctive emphasis: ___________________________________
 
-- *"Are Catholics Christians?"* Notes: ___________________________________________
+C. Protestant
 
-- *"What about Mormons / Jehovah's Witnesses?"* Notes: ___________________________________________
+   1. Authority (*sola scriptura*): ____________________________
 
-- *"Which is right?"* Notes: ___________________________________________
+   2. The five solas:
+
+      a. _____________________________________________________
+
+      b. _____________________________________________________
+
+      c. _____________________________________________________
+
+      d. _____________________________________________________
+
+      e. _____________________________________________________
+
+   3. Spectrum (Lutheran → Pentecostal): ______________________
+
+   4. Strength: _______________________________________________
+
+   5. Weakness: _______________________________________________
+
+## III. Synthesis: which worldview-grid cells stay constant? [10 min]
+
+A. Theology — same across all three
+
+   1. _________________________________________________________
+
+B. Biology — same
+
+   1. _________________________________________________________
+
+C. History — same
+
+   1. _________________________________________________________
+
+D. Sociology — varies in detail, but family/church/state distinction holds
+
+   1. _________________________________________________________
+
+E. Where they diverge: authority and salvation
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+F. The take-home for the unit
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+## IV. Anticipated student questions [5 min]
+
+A. *"Are Catholics Christians?"*
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+B. *"What about Mormons / Jehovah's Witnesses?"*
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
+
+C. *"Which is right?"*
+
+   1. _________________________________________________________
+
+   2. _________________________________________________________
 
 ---
 
@@ -539,9 +876,10 @@ Cells where all three traditions agree:
 - [ ] Christianity column on the worldview grid filled in from memory
 - [ ] Gospel of Mark passages from the reading packet read in full
 - [ ] Doug Letter draft complete and ready to hand in Day 13 morning
-- [ ] All blanks on this handout filled in
+- [ ] All "Terms to know" defined in your own words
 - [ ] Nicene Creed read at least twice
+- [ ] You can recite Christianity's answer to all 10 disciplines from these notes
 
 ---
 
-*Student handout coordinates with [unit-01-christianity-reading-packet.md](../handouts/unit-01-christianity-reading-packet.md) and the Day 13 [unit-01-christianity-test-student.md](../assessments/unit-01-christianity-test-student.md).*
+*Student outline coordinates with [unit-01-christianity-reading-packet.md](../handouts/unit-01-christianity-reading-packet.md), the [Teacher version of these lecture notes](unit-01-christianity-lecture-notes-teacher.md), and the Day 13 [unit-01-christianity-test-student.md](../assessments/unit-01-christianity-test-student.md).*
