@@ -2,7 +2,7 @@
 
 **School Year:** 2026–2027
 **Total Instructional Days:** 155 (T1: 51 · T2: 54 · T3: 50)
-**Buffer / Synthesis Review Days Built In:** 49 total (T1: 10 · T2: 22 · T3: 17)
+**Discipline Pass Days (Pass 2 instruction):** 49 total (T1: 10 · T2: 22 · T3: 17)
 
 ---
 
@@ -10,17 +10,17 @@
 
 This guide answers a different question than [teaching-map.md](teaching-map.md). The teaching map is the plan. This guide is the triage framework for real-time decisions when you're running behind. Consult at the end of each trimester; consult immediately if a unit runs over by 2+ days.
 
-The short version: the course has 49 built-in synthesis-review days. Most pacing problems dissolve by using them. Beyond that, this guide tells you what to cut and in what order.
+**Important reframe (May 2026):** The 49 Discipline Pass days at trimester boundaries are **Pass 2 instruction**, not buffer. The publisher devotes 100 days of their 180-day course to discipline-comparative teaching (Ch 8–17); we devote 49. Cutting into Discipline Pass days costs more than cutting into worldview unit days, because no other part of the course teaches discipline-comparative thinking — and discipline-comparative recall is exactly what the dual-credit Ch 18 final tests.
 
-A note on the synthesis-review periods: they are **not free buffer**. They are where the discipline-comparative recall work happens — the work the dual-credit final tests. Cutting into them costs more than cutting into a worldview unit, because no other part of the course does discipline-row walkthroughs. Treat T1, T2, and T3 synthesis review as load-bearing.
+This means **the course has very little true buffer.** Pacing problems must be absorbed by compressing within worldview units or within Discipline Pass periods, not by deleting Discipline Pass days. The "Emergency Condensing Plan" below specifies what to cut and in what order, with that constraint in mind.
 
 ---
 
 ## Priority Levels
 
-- **CORE** — Non-negotiable. Every worldview unit is CORE; each exists for a specific pedagogical reason. You may condense, you may not skip.
+- **CORE-INSTRUCTION** — Non-negotiable teaching time. Every worldview unit and every Discipline Pass day is CORE. You may condense, you may not skip.
 - **IMPORTANT** — Should cover, but can compress. Usually individual days within a unit (e.g., Day 6 Case Study) rather than whole units.
-- **SYNTHESIS** — Discipline-comparative review at trimester boundaries. Load-bearing for dual-credit alignment; cut last.
+- **SUMMATIVE** — Test administration days. Cannot be compressed without losing dual-credit alignment.
 
 ---
 
@@ -58,26 +58,31 @@ Every standard worldview unit follows the same 9-day rhythm. When compressing, c
 | 3 | Deep Dive Pt 2 (Lecture) | Keep — remaining five lenses |
 | 4 | Socratic Seminar | Keep if possible; combine with Day 5 if cutting |
 | 5 | Pair & Defend | Keep — critical practice |
-| 6 | Case Study | **First to cut** — combinable with Day 7 |
-| 7 | Four-Test + vs. Christianity | Keep — load-bearing for the dual-credit framework |
+| 6 | Case Study + Reading Quiz | **First to cut Case Study portion** — Reading Quiz still administered (5 min); the Case Study can fold into Day 7 |
+| 7 | Four-Test + vs. Christianity + Video Quiz | Keep four-test work — load-bearing for the dual-credit framework. Video Quiz still administered (5 min). |
 | 8 | Gospel Conversation | Keep — the point of the course |
-| 9 | Worldview Brief + Assessment | Keep |
+| 9 | Doug Letter due + Publisher Chapter Test | Keep — Doug Letter is the publisher's writing assignment; chapter test is the publisher's per-unit summative |
 
-**7-day compression pattern:** Days 1, 2, 3, 4+5 combined, 6 cut (or merged into 7), 7, 8, 9.
+**7-day compression pattern:** Days 1, 2, 3, 4+5 combined, 6 (Reading Quiz only — case study merged into 7), 7, 8, 9.
+
+**Cuts that must NOT happen:**
+- The publisher's chapter test on Day 9 (load-bearing for dual credit)
+- The publisher's Reading + Video quizzes (low-cost, high-value formative)
+- The Doug Letter writing assignment (the publisher's per-chapter narrative continuity device)
 
 ---
 
-## Synthesis Review Strategy
+## Discipline Pass Strategy
 
-The synthesis-review periods are intentionally located at trimester boundaries, not spread thin across units. They serve dual-credit alignment first and pacing buffer second. Use them in this order of escalating cost:
+The Discipline Pass periods are Pass 2 instruction (the publisher's Ch 8–17 content reordered to follow our Pass 1 worldview units). Each one teaches discipline-comparative thinking at increasing breadth. They are NOT primarily buffer.
 
-**T1 Synthesis Review (10 days, Oct 27 – Nov 12)** — first discipline-comparative pass (3 worldviews × 10 disciplines) + T1 Capstone presentations + assessment. If running behind in T1: pull from these days only after compressing the unit-internal Day 6 (Case Study).
+**T1 Discipline Pass (10 days, Oct 27 – Nov 12)** — first Pass 2 lessons covering 3 worldviews studied (Christianity, Judaism, Islam) × 10 disciplines + T1 Capstone presentations + locally-built T1 Comprehensive Assessment. **No publisher Ch 8–17 tests administered yet** (insufficient worldview coverage). Available compression: T1 Capstone presentations can be 1 day instead of 2 (saves 1 day); discipline-row walkthroughs can compress from 5 days to 4 (saves 1 day).
 
-**T2 Synthesis Review (22 days, Jan 22 – Feb 25)** — largest period. Second discipline-comparative pass (7 worldviews × 10 disciplines) + T2 Capstone + comprehensive assessment. Absorbs Thanksgiving transition, Christmas transition. If running behind: condense the T2 Capstone presentations to 1 day instead of 2. Do not cut the discipline-row walkthroughs — those are the dual-credit prep.
+**T2 Discipline Pass (22 days, Jan 22 – Feb 25)** — Pass 2 lessons re-walked with 7 worldviews now studied × 10 disciplines + T2 Capstone + locally-built T2 Comprehensive Assessment (written + oral). Absorbs Thanksgiving and Christmas transition pressure. Available compression: T2 Capstone to 1 day (saves 1); review days to 2 instead of 3 (saves 1).
 
-**T3 Finals & Wrap (17 days, Apr 28 – May 21)** — third discipline-comparative pass (8 worldviews × 10 disciplines) + written final + course wrap. Last 2 weeks (May 14–21) are explicitly planned as wrap-up; they can absorb up to 6–7 additional days of overflow content from earlier units. The written final (one specific day) is non-negotiable.
+**T3 Finals & Wrap (17 days, Apr 28 – May 21)** — Pass 2 lessons completed (all 8 worldviews × 10 disciplines) + publisher Ch 8–17 tests as ungraded practice + **publisher Ch 18 Test as dual-credit written final** + course wrap. Last 5 days (May 14–21) are explicitly planned as wrap-up and can absorb up to 4–5 days of overflow content from earlier units. The Ch 18 final on May 10 is non-negotiable.
 
-**Rule of thumb:** If you're on track, use synthesis days for depth — extend a discipline drilldown, add a guest speaker, run a mock dual-credit final. If you're behind, use synthesis days to catch up, but never cut the discipline-row walkthroughs themselves. If you're way ahead, slow down — nobody benefits from rushing.
+**Rule of thumb:** If you're on track, use Discipline Pass days for depth — extend a row walkthrough, add a guest speaker, do a longer mock practice. If you're behind, compress the Capstone-prep portions of T1 or T2 first; only after that touch the row-walkthrough lessons themselves. If you're way ahead, slow down — nobody benefits from rushing.
 
 ---
 
@@ -87,9 +92,9 @@ If you are 3+ days behind, apply these cuts in order. Cuts earlier in the list h
 
 ### First cuts (minimal impact)
 
-1. **Cut Day 6 (Case Study) from any unit after Unit 1.** This is the first per-unit day to drop. Merge the case-study scenario directly into Day 7 (Four-Test + vs. Christianity) as worked examples.
+1. **Cut Day 6 Case Study (the discussion portion) from any unit after Unit 1.** Reading Quiz still administered. Merge the case-study scenario into Day 7 as a worked example.
 2. **Compress Day 4+5 (Socratic + Pair & Defend) into one day.** Run Pair & Defend with abbreviated debrief; let the seminar happen in the debrief.
-3. **Absorb T1/T2/T3 synthesis days into the preceding unit** — but only the *non-walkthrough* days (e.g., the T1 capstone-prep days, not the Ch 8–17 row walkthroughs).
+3. **Compress T1 or T2 Capstone presentations from 2 days to 1 day.** Use a stricter time limit per student, fewer Q&A questions per presentation. The Capstone activity itself is preserved; just less spacious.
 
 ### Second cuts (moderate impact)
 
@@ -112,7 +117,7 @@ If you are 3+ days behind, apply these cuts in order. Cuts earlier in the list h
 - Unit 1 (Christianity) below 10 days — the baseline breaks the course if compressed.
 - Unit 3 (Islam) below 9 days — 1.8B adherents; sets up the revelation pattern that Mormonism reuses.
 - Unit 8 (Secularism) below 9 days — the worldview most students will live inside for the next decade.
-- The discipline-row walkthroughs in T1, T2, and T3 synthesis review — these are the dual-credit alignment work; cutting them shifts the dual-credit risk back onto the worldview units.
+- The discipline-row walkthroughs in T1, T2, and T3 Discipline Pass — these are the dual-credit alignment work; cutting them shifts the dual-credit risk back onto the worldview units.
 - The Capstone presentations in Unit 10 — every student presents; Capstone is the dual-credit oral final.
 - The Gospel Conversation day (Day 8) in any unit — this is what the course is for.
 - The written final (one specific day in T3 finals window) — dual-credit requirement.
@@ -126,12 +131,12 @@ If you are 3+ days behind, apply these cuts in order. Cuts earlier in the list h
 | 0 | Foundations | CORE | 10 | 8 | Days 7+8 (worldview preview, cohort walkthrough) |
 | 1 | Christianity | CORE (baseline) | 13 | 10 | Day 10 (contemporary resource), Day 9 (intra-Christian survey) |
 | 2 | Judaism | CORE | 9 | 7 | Day 6 (Case Study), then combine 4+5 |
-| 3 | Islam | CORE (hard floor) | 9 | 9 | Synthesis review only |
+| 3 | Islam | CORE (hard floor) | 9 | 9 | Capstone-prep day in T1 Discipline Pass only |
 | 4 | Mormonism | CORE | 9 | 7 | Day 6, then combine 4+5 |
 | 5 | Hinduism | CORE | 9 | 7 | Day 6, then combine 4+5 |
 | 6 | Buddhism | CORE | 9 | 7 | Day 6, then combine 4+5 |
 | 7 | New Spirituality | CORE | 5 | 4 | Already compressed; minimal further cuts |
-| 8 | Secularism | CORE (hard floor) | 9 | 9 | Synthesis review only |
+| 8 | Secularism | CORE (hard floor) | 9 | 9 | Capstone-prep day or wrap-week absorption only |
 | 9 | Revolutionary Lineage | CORE | 13 | 10 | Combine Movements 1+2 |
 | 10 | Capstone (Oral Final) | CORE (hard floor) | 8 | 6 | Reduce prep days, never presentation days |
 
@@ -139,7 +144,7 @@ If you are 3+ days behind, apply these cuts in order. Cuts earlier in the list h
 
 ## Decision Checkpoints
 
-- **End of October** (just before T1 ends): Are Units 0–3 complete? If behind by 2+ days, absorb the non-walkthrough portion of T1 synthesis review; if behind 5+ days, apply First Cuts to Units 2 and/or 3.
+- **End of October** (just before T1 ends): Are Units 0–3 complete? If behind by 2+ days, absorb the non-walkthrough portion of T1 Discipline Pass; if behind 5+ days, apply First Cuts to Units 2 and/or 3.
 - **Mid-January** (return from Christmas, start of Unit 6): Are Units 4–5 complete? If behind, cut in Unit 6 or Unit 7 preemptively rather than letting Unit 8 (hard floor) get squeezed.
 - **Mid-February** (T2 end): Are Units 4–7 complete? T2 ends Feb 25. Do NOT carry Unit 7 into T3 — T3 cannot absorb T2 overflow without crowding the Capstone or the written final.
 - **End of March** (just before Spring Break): Is Unit 9 Movement 1 (Marxism) complete? Spring Break falls mid-unit. If behind, use the week after break to compress Movements 2+3.
@@ -153,11 +158,12 @@ The bias of this guide is toward **depth, honesty, preservation of the Gospel-co
 
 A student who leaves this course able to represent 7 worldviews fairly and present the Gospel meaningfully to adherents of each is better prepared for adult life than a student who has been hurried through all 8 and cannot do either well.
 
-For the dual-credit subset of students, the discipline-row walkthroughs in synthesis review are the bridge from worldview-first formation to publisher-aligned recall. Protect them. The Day 7 Four-Test exercise inside each unit is the same bridge at smaller scale. Protect that too.
+For the dual-credit subset of students, the discipline-row walkthroughs in Discipline Pass are the bridge from worldview-first formation to publisher-aligned recall. Protect them. The Day 7 Four-Test exercise inside each unit is the same bridge at smaller scale. Protect that too.
 
 ---
 
 **Generated:** 2026-04-24 (rewrite for 9-worldview structure)
-**Last Revised:** 2026-05-08 (rebuilt for 8-worldview / dual-credit-aligned structure: dropped MTD; reordered Mormonism after Islam; New Spirituality compressed to 5 days; Capstone compressed to 8 days and merged with oral final; Day 6 Case Study identified as first per-unit cut; synthesis review reframed as load-bearing dual-credit prep)
+**Last Revised:** 2026-05-09 (Discipline Pass reframed as Pass 2 instruction not buffer; cut order revised to compress within units and Capstone-prep days first; row-walkthrough lessons protected as load-bearing for dual-credit Ch 18 final)
+**Previous revision:** 2026-05-08 (rebuilt for 8-worldview / dual-credit-aligned structure: dropped MTD; reordered Mormonism after Islam; New Spirituality compressed to 5 days; Capstone compressed to 8 days and merged with oral final; Day 6 Case Study identified as first per-unit cut)
 
 > Review this guide at the end of each trimester. If the course is ahead of schedule, slow down — depth beats breadth. If behind, cut in the order above without guilt. The emergency plan exists so mid-year decisions aren't made in panic.

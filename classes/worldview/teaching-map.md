@@ -15,7 +15,9 @@
 
 This course uses Myers & Noebel's 10-discipline analytical framework as its spine but **restructures the delivery from discipline-first to worldview-first.**
 
-Myers & Noebel organize their book in two passes: Part 1 introduces each worldview in isolation (Ch 1–7); Part 2 compares all worldviews on each of the 10 disciplines (Ch 8–17). That structure works once students have schema to compare across, but it is a poor fit for a high schooler's first pass. A worldview-first delivery lets students build a coherent mental model of *one* worldview through 10 lenses before being asked to compare across worldviews. The discipline-comparative work — which the publisher's dual-credit final will likely test — is preserved as **synthesis review at trimester boundaries**, where the rows of the grid get walked across deliberately, three times, with cumulative breadth.
+Myers & Noebel organize their book in two passes: Part 1 introduces each worldview in isolation (Ch 1–7); Part 2 compares all worldviews on each of the 10 disciplines (Ch 8–17). That two-pass structure is correct, but the publisher's *order* (worldview chapters first, then discipline chapters) is a poor fit for a high schooler's first encounter — discipline-comparative chapters assume schema students don't yet have. This course preserves the two-pass structure but reorders it for cognitive load: **Pass 1** is worldview-first instruction (Units 1–9), letting students build coherent mental models of one worldview at a time through 10 lenses; **Pass 2** is discipline-comparative instruction during three "Discipline Pass" periods at trimester boundaries (T1 Discipline Pass, T2 Discipline Pass, and T3 Finals), where the rows of the grid get walked across deliberately at increasing breadth. Pass 2 is real teaching, not review — the publisher devotes 100 days of their 180-day course to it; we devote 49.
+
+Two assessment commitments anchor the design to the publisher's curriculum: each per-unit chapter test on Day 9 is a **blended test** combining the publisher's matching worldview-comprehensive Ch X test with that worldview's relevant questions extracted from Ch 8–17. And the publisher's **Ch 18 Test functions as the dual-credit written final**, administered in T3 finals.
 
 The worldview-first delivery also enables what is otherwise hard: **a per-worldview Gospel conversation.** Each unit ends with a roleplayed conversation tailored to the language, longings, and objections of that worldview's adherents. The textbook is apologetic; this course is also evangelistic.
 
@@ -31,12 +33,12 @@ The worldview-first delivery also enables what is otherwise hard: **a per-worldv
 | **1 — Christianity** | Myers/Noebel Ch 2 | 13 | What is the Christian answer to each of the 10 disciplines, and why? | T1 |
 | **2 — Judaism** | Primary sources (not in textbook) | 9 | What is Judaism on its own terms — across four stages of reinterpretation — and how does it answer covenant, atonement, and the meaning of history? | T1 |
 | **3 — Islam** | Myers/Noebel Ch 3 | 9 | How does the Muslim understanding of God and prophet-hood differ from the Christian — and how do we talk about Jesus across that difference? | T1 |
-| *T1 Synthesis Review* | Cross-cuts Ch 8–17 | 10 | First pass at discipline-comparative recall (3 worldviews × 10 disciplines) | T1 |
+| *T1 Discipline Pass* | Cross-cuts Ch 8–17 | 10 | First pass at discipline-comparative recall (3 worldviews × 10 disciplines) | T1 |
 | **4 — Mormonism** | Primary sources (not in textbook) | 9 | How do you have a meaningful conversation with someone who uses Christian language but means something categorically different? | T2 |
 | **5 — Hinduism** | Myers/Noebel Ch 6 (partial) + primary sources | 9 | What is the self, and what is it for? | T2 |
 | **6 — Buddhism** | Myers/Noebel Ch 6 (partial) + primary sources | 9 | What is suffering, and what would it mean to be free of it? | T2 |
 | **7 — New Spirituality** | Myers/Noebel Ch 6 (proper scope — Western syncretism) | 5 | What happens when Eastern categories get blender'd into Western self-help? | T2 |
-| *T2 Synthesis Review* | Cross-cuts Ch 8–17 | 22 | Second pass at discipline-comparative recall (7 worldviews × 10 disciplines) + T2 capstone presentations + assessment | T2 |
+| *T2 Discipline Pass* | Cross-cuts Ch 8–17 | 22 | Second pass at discipline-comparative recall (7 worldviews × 10 disciplines) + T2 capstone presentations + assessment | T2 |
 | **8 — Secularism / New Atheism** | Myers/Noebel Ch 4 | 9 | If there is no God, on what basis do human rights exist? | T3 |
 | **9 — Revolutionary Lineage** (Marxism → Progressivism → Postmodernism) | Myers/Noebel Ch 5 + Ch 7 + primary sources on Progressivism | 13 | How did class struggle become identity struggle, and why is "there are no metanarratives" itself a metanarrative? | T3 |
 | **10 — Capstone (Oral Final integrated)** | Year-wide synthesis | 8 | Can you defend the Christian worldview — charitably and intellectually — against the worldview that most challenges you? | T3 |
@@ -95,7 +97,7 @@ The four tests are the apologetic spine of the course's "defend the faith" goal.
 - **New Spirituality (Unit 7) = 5 days.** Hinduism and Buddhism each get their own 9-day unit; the Ch 6 "New Spirituality" content is properly Western syncretism and gets correspondingly scoped.
 - **Revolutionary Lineage (Unit 9) = 13 days.** It traces three movements (Marxism → American Progressivism → Postmodernism), not one.
 
-The trimester synthesis-review periods (10/22/20) are deliberate: they absorb the seven sub days, the breaks that fall mid-unit, the trimester-end capstones and assessments, and — most importantly — the discipline-comparative review work that prepares students for the dual-credit final.
+The trimester Discipline Pass periods (10/22/20) are deliberate: they absorb the seven sub days, the breaks that fall mid-unit, the trimester-end capstones and assessments, and — most importantly — the discipline-comparative review work that prepares students for the dual-credit final.
 
 ---
 
@@ -110,10 +112,10 @@ Every worldview unit (Units 2–8) follows this 9-day rhythm. Unit 1 (Christiani
 | **3** | **Deep Dive Pt 2 (Lecture)** | Remaining five lenses — Sociology, Law, Politics, Economics, History. Complete the column. Students submit 2–3 questions they still have. | Lecture (80%) + structured note-taking |
 | **4** | **Socratic Seminar** | Students drive discussion from their reading and questions. Teacher facilitates only. Cold-call: *"What would you say to that?"* Students must argue the worldview charitably — no easy dismissals. | Cohort (100%) |
 | **5** | **Pair & Defend** | Two-round simultaneous pair debate (see [_shared/cohort-tools.md](../../_shared/cohort-tools.md)). Every student argues both sides. Debrief: *"What was the strongest argument from the side you started disagreeing with?"* | Cohort (100%) |
-| **6** | **Case Study (Inside the Worldview)** | Real scenario: a person who genuinely holds this worldview encounters a life event (suffering, injustice, death, meaning). How does this worldview respond on its own terms? What does it offer? What does it fail to offer? | Cohort with worksheet structure |
-| **7** | **Four-Test + vs. Christianity** | Apply Myers's four tests (reason, outer world, inner world, consequences) against this worldview, comparing to the Christian baseline. Where does the worldview hold up? Where does it crack? Small-group worksheet → whole-class synthesis. | Mixed — short lecture frame, then small-group application |
+| **6** | **Case Study + Supplemental Reading Quiz** | Real scenario: a person who genuinely holds this worldview encounters a life event. How does this worldview respond on its own terms? What does it offer? What does it fail to offer? Administer the publisher's supplemental-reading quiz where one exists for this chapter (5-min, MC + T/F). | Cohort with worksheet structure + short individual quiz |
+| **7** | **Four-Test + vs. Christianity + Supplemental Video Quiz** | Apply Myers's four tests (reason, outer world, inner world, consequences) against this worldview, comparing to the Christian baseline. Small-group worksheet → whole-class synthesis. Administer the publisher's supplemental-video quiz where one exists for this chapter. | Mixed — short lecture frame, small-group application, short individual quiz |
 | **8** | **Gospel Conversation** | The capstone day. How does the Gospel speak specifically to someone who holds this worldview? What is the entry point? What is the offense? Roleplay the conversation in pairs. | Roleplay (100%) |
-| **9** | **Worldview Brief + Assessment** | Students write the Worldview Brief (1 page) at the start of class: charitable summary, most compelling feature, deepest contradiction with Christianity, sketch of the Gospel conversation. Short unit test (10 questions on the 10 lenses) follows. Preview next worldview's framing question. | Independent |
+| **9** | **Doug Letter + Blended Chapter Test** | Students hand in their Doug Letter response (1–2 pages) at the start of class. Then take the **blended chapter test** — the publisher's Ch X test (Christianity = Ch 02, Islam = Ch 03, etc.) augmented with that worldview's relevant questions extracted from Ch 8–17 (the discipline-comparative half). This means each per-unit test covers both the worldview holistically AND that worldview's answer to each of the 10 disciplines explicitly. ~50–60 questions, single class period. For the four supplemental units (Judaism, Mormonism, distinct Hinduism, distinct Buddhism), the locally-built test follows the same blended format. Preview next worldview's framing question. | Independent |
 
 This rhythm is a default, not a cage. Reorder, combine, or extend days as the material requires — the goal is optimal learning, not pattern fidelity. When a unit spans a break (Thanksgiving, Christmas, Spring Break), the natural pause point depends on the unit; see each unit's day-by-day schedule for the specific split.
 
@@ -121,30 +123,38 @@ This rhythm is a default, not a cage. Reorder, combine, or extend days as the ma
 
 ## Standing Commitments Across Every Unit
 
-Three commitments run continuously, independent of the unit rhythm:
+Four commitments run continuously, independent of the unit rhythm:
 
-1. **Per-worldview reading packets** replace cross-chapter textbook navigation. Each unit has a stapled packet (~10–20 pages) containing the worldview's Myers/Noebel chapter or excerpt, the relevant slices of Ch 8–17 in lens order, primary-source readings, and a blank slice of the worldview grid. Students never "find" content in the textbook during a worldview unit. (See [teaching-methodology.md](teaching-methodology.md) for the rationale and prep cost.)
+1. **Per-worldview reading packets** replace cross-chapter textbook navigation. Each unit has a stapled packet (~10–20 pages) containing the worldview's Myers/Noebel chapter or excerpt, the relevant slices of Ch 8–17 in lens order, primary-source readings, and a blank slice of the worldview grid. Each packet also includes a "Publisher Vocabulary" terminology section pulling every defined term from the matching chapter test, so students prep for the dual-credit final's recall format every week. Students never "find" content in the textbook during a worldview unit. (See [teaching-methodology.md](teaching-methodology.md) for the rationale and prep cost.)
 2. **Weekly retrieval quizzes** every Friday starting Week 4: 5 cells from the worldview grid drawn from any unit already covered. Cumulative across the year. By May, the quizzes test the full 8 × 10 grid in random-access fashion — exactly what the dual-credit final demands.
-3. **Charitable representation** is the curricular norm. Every Pair & Defend assigns positions students don't personally hold. Every Day 1 framing presents the worldview in its strongest form. The Capstone rubric weights charity #1.
+3. **Adopt the publisher's assessment infrastructure for chapters it covers.** For Units 0, 1, 3, 5–9 (which map to Myers Ch 1, 2, 3, 6, 4, 5, 7, plus the Ch 8–17 discipline-comparative chapters), use the publisher's chapter tests, writing assignments (Doug Letters), and supplemental quizzes directly. Build only what the publisher doesn't cover: 4 Doug Letters and 4 chapter tests for Units 2 (Judaism), 4 (Mormonism), and the distinct-treatment portions of 5 (Hinduism) and 6 (Buddhism). Built-from-scratch materials use the publisher's format and tone as templates.
+4. **Charitable representation** is the curricular norm. Every Pair & Defend assigns positions students don't personally hold. Every Day 1 framing presents the worldview in its strongest form. The Capstone rubric weights charity #1. *Note:* The publisher's tone is more polemical than ours; charitable framing is *additive*, not *replacement*. Day 7's Four-Test + vs. Christianity exercise is where students learn to switch into the publisher's clarity register for the test.
 
 ---
 
-## Myers/Noebel Reference Map
+## Myers/Noebel Reference Map (with Publisher Assessment Coverage)
 
-| Course Unit | Myers/Noebel Chapter | Notes |
-|-------------|---------------------|-------|
-| Unit 0: Foundations | Ch 1 (Battle of Ideas) | Use as intro text + four-test framework |
-| Unit 1: Christianity | Ch 2 | Baseline |
-| Unit 2: Judaism | **Not covered** | Build from primary sources |
-| Unit 3: Islam | Ch 3 | |
-| Unit 4: Mormonism | **Not covered** | Build from primary sources |
-| Unit 5: Hinduism | Ch 6 (partial) | Distinct from Buddhism; supplement with primary sources |
-| Unit 6: Buddhism | Ch 6 (partial) | Distinct from Hinduism; supplement with primary sources |
-| Unit 7: New Spirituality | Ch 6 (proper scope — Western syncretism) | Tolle, Chopra, Byrne; *not* a stand-in for Hinduism/Buddhism |
-| Unit 8: Secularism / New Atheism | Ch 4 | |
-| Unit 9: Revolutionary Lineage | Ch 5 (Marxism) + Ch 7 (Postmodernism) | Plus supplemental Progressivism content (Wilson, Sanger, Dewey, Frankfurt School) |
-| 10-Discipline Framework | Ch 8–17 | Reference throughout; covered explicitly in T1/T2/T3 synthesis review periods, not as standalone units |
-| Conclusion | Ch 18 | Read in T3 finals window as synthesis text |
+| Course Unit | Myers/Noebel Chapter | Publisher Test? | Publisher Doug Letter? | Publisher Quizzes? |
+|-------------|---------------------|-----------------|------------------------|--------------------|
+| Unit 0: Foundations | Ch 1 (Battle of Ideas) | **Yes** — UTT Ch 01 Test (43 pts) | **Yes** — Doug's Letter Ch 01 | Plato's Cave + An Introduction to Worldviews |
+| Unit 1: Christianity | Ch 2 | **Yes** — UTT Ch 02 Test (40 pts) | **Yes** — Doug's Letter Ch 02 | The Gospel of Mark + The Christian Worldview |
+| Unit 2: Judaism | **Not covered** | Build locally (use Ch 02 as template) | Build locally | Build locally |
+| Unit 3: Islam | Ch 3 | **Yes** — UTT Ch 03 Test | **Yes** — Doug's Letter Ch 03 | Sura 3–4 + A Closer Look at Islam |
+| Unit 4: Mormonism | **Not covered** | Build locally (use Ch 03 as template) | Build locally | Build locally |
+| Unit 5: Hinduism | Ch 6 (partial — Hindu content) | Use Ch 06 (covers as "New Spirituality") + supplement | Use Ch 06 + supplement | Bhagavad Gita + The New Spiritualist Worldview |
+| Unit 6: Buddhism | Ch 6 (partial — Buddhist content) | Use Ch 06 + supplement | Use Ch 06 + supplement | Same Ch 06 quizzes |
+| Unit 7: New Spirituality | Ch 6 (proper — Western syncretism) | **Yes** — UTT Ch 06 Test | **Yes** — Doug's Letter Ch 06 | Same Ch 06 quizzes |
+| Unit 8: Secularism / New Atheism | Ch 4 | **Yes** — UTT Ch 04 Test | **Yes** — Doug's Letter Ch 04 | Humanist Manifesto + The Secular Worldview |
+| Unit 9: Revolutionary Lineage | Ch 5 + Ch 7 | **Yes** — UTT Ch 05 Test + Ch 07 Test (administer both) | Doug's Letters Ch 05 + Ch 07 | Communist Manifesto + Marxist Worldview + Parable of the Madman + Postmodern Worldview |
+| 10-Discipline Framework | Ch 8–17 | **Yes** — Ch 08–17 Tests; administer during T1/T2/T3 Discipline Pass weeks | Doug's Letters Ch 08–17; useful for the synthesis weeks | Per-chapter supplementals where present |
+| Conclusion / De-facto final | Ch 18 | **Yes** — UTT Ch 18 Test (100 questions, 128 pts) — this functions as the dual-credit written final | Doug's Letter Ch 18 if present | — |
+
+**Key insight:** The Ch 18 Test is the dual-credit written final by another name. T3 finals review drills against this specific test as the target. Per-unit reading packets include a "Publisher Vocabulary" section pulling every fill-in-the-blank term from the matching chapter test, so weekly recall practice rolls into the final naturally.
+
+**What we build vs. what we use:**
+
+- **Use directly:** All publisher chapter tests (1, 2, 3, 4, 5, 6, 7, 8–17, 18), all publisher Doug Letters, all publisher supplemental quizzes (~30+).
+- **Build locally:** Doug Letters and chapter tests for the 4 supplemental units (Judaism, Mormonism, distinct Hinduism, distinct Buddhism). For Units 5 and 6 (Hindu, Buddhist), the publisher's Ch 06 materials still apply — augment with locally-built distinct-treatment assessments for the content the publisher skips.
 
 Units 2 and 4 require primary source materials to be sourced separately. See [unit-09-revolutionary-lineage-outline.md](unit-09-revolutionary-lineage-outline.md) for the Unit 9 supplemental outline.
 
@@ -326,7 +336,7 @@ This unit also establishes the **angel-prophet-new-scripture revelation pattern*
 | 6 | Wed Oct 21 | Case Study: A Muslim friend invites you to break fast with her family during Ramadan. She asks you why you're a Christian and not a Muslim. What do you say? How do you honor the hospitality while being honest? |
 | 7 | Thu Oct 22 | Four-Test + vs. Christianity. Apply the four tests to Islam. Particular attention: does the Quran's claim that the Bible was corrupted match the manuscript evidence (outer-world test)? Does *Tawhid* satisfy the inner-world intuition that love requires relationship? |
 | 8 | Fri Oct 23 | Gospel Conversation. Jesus is the entry point — Islam honors Jesus as prophet, so the conversation can start there. The conversation turns on: *who is Jesus actually*, and *what did his death accomplish?* Roleplay. |
-| 9 | Mon Oct 26 | Worldview Brief + Unit 3 Assessment. Bridge: T1 synthesis review begins. (And Mormonism — the same revelation pattern, restaged in 19th-century America — opens T2.) |
+| 9 | Mon Oct 26 | Worldview Brief + Unit 3 Assessment. Bridge: T1 Discipline Pass begins. (And Mormonism — the same revelation pattern, restaged in 19th-century America — opens T2.) |
 
 ### Gospel Conversation Focus
 
@@ -340,27 +350,29 @@ Jesus is the entry point, not the wall. Islam has more positive theology about J
 
 ---
 
-## T1 Synthesis Review (Oct 27 – Nov 12, 2026)
+## T1 Discipline Pass (Oct 27 – Nov 12, 2026)
 
 **Dates:** Oct 27 – Nov 12, 2026 (10 instructional days)
 
 ### Purpose
 
-The first discipline-comparative pass of the year. Students have spent T1 going *deep* into three worldviews (Christianity, Judaism, Islam) — one column at a time. Now they walk *across* the rows of the grid for the first time. This is the dual-credit alignment work: every row of the grid corresponds to one of Myers/Noebel's Ch 8–17 disciplinary chapters, and the first synthesis review is where students see those chapters as their organizing lens.
+The first **Discipline Pass** of the year — Pass 2 instruction, not review. Students have spent T1 going *deep* into three worldviews (Christianity, Judaism, Islam), one column at a time. Now they learn to *think discipline-first*: each day takes one of the 10 disciplines and walks how each studied worldview answers it. This is fresh material at a higher altitude, taught with reference to Myers Ch 8–17 (the publisher's discipline-comparative chapters).
+
+**No publisher Ch 8–17 tests are administered yet** — those chapters cover all 6 publisher worldviews, and students have only studied 3. The T1 Comprehensive Assessment is locally-built, scoped to the worldviews actually taught, but modeled on the publisher's Ch 8–17 question style.
 
 ### Suggested Schedule
 
 | Day | Date | Activity |
 |-----|------|----------|
-| 1 | Tue Oct 27 | Synthesis kickoff. Lay out the partial grid (3 worldviews × 10 disciplines = 30 cells). Students fill in columns 1–3 from memory. Identify weak cells. |
-| 2 | Wed Oct 28 | Discipline-row walkthrough Pt 1: Theology, Philosophy, Ethics. Read the Christianity / Judaism / Islam slices of Myers Ch 8 (Theology), Ch 9 (Philosophy), Ch 10 (Ethics). |
-| 3 | Thu Oct 29 | Discipline-row walkthrough Pt 2: Biology, Psychology, Sociology. Read the Christianity / Judaism / Islam slices of Myers Ch 11, Ch 12, Ch 13. |
-| 4 | Mon Nov 2 | *(Fri Oct 30 = Teacher Work Day.)* Discipline-row walkthrough Pt 3: Law, Politics, Economics, History. Read the slices of Myers Ch 14, Ch 15, Ch 16, Ch 17. |
-| 5 | Tue Nov 3 | Cross-worldview Pair & Defend: pick two columns from Units 1–3 that conflict most sharply on a single discipline; debate. |
-| 6 | Wed Nov 4 | T1 Capstone preparation Pt 1: thesis drafting. Students choose *"Which of Units 1–3 most challenged your thinking, and why?"* and draft a 5-minute presentation. |
+| 1 | Tue Oct 27 | Pass 2 kickoff. Why we now look at the same material from a different altitude. Read Myers Ch 8 (Theology) §1–4 to see how the publisher does discipline-first writing. Walk the **Theology row** across Christianity / Judaism / Islam as a fresh lesson. |
+| 2 | Wed Oct 28 | Walk the **Philosophy row**. Read Ch 9 §1–4 + the 3 worldview slices. |
+| 3 | Thu Oct 29 | Walk the **Ethics row**. Read Ch 10 §1–4 + the 3 worldview slices. |
+| 4 | Mon Nov 2 | *(Fri Oct 30 = Teacher Work Day.)* Walk the **Biology row**. Read Ch 11 with the 3 worldview slices. |
+| 5 | Tue Nov 3 | Walk **Psychology + Sociology + Law + Politics + Economics + History rows** (combined, accelerated — students now have the rhythm). Read remaining Ch 12–17 slices. |
+| 6 | Wed Nov 4 | T1 Capstone preparation: thesis drafting. Students choose *"Which of Units 1–3 most challenged your thinking, and why?"* and draft a 5-minute presentation. |
 | 7 | Thu Nov 5 | T1 Capstone presentations (first half of class). |
 | 8 | Fri Nov 6 | T1 Capstone presentations (second half) + debrief. |
-| 9 | Mon Nov 9 | T1 Comprehensive Assessment — written. Tests both worldview-holistic recall (one column at a time) and discipline-comparative recall (one row at a time, across 3 worldviews). |
+| 9 | Mon Nov 9 | **T1 Comprehensive Assessment** — locally-built, scoped to 3 worldviews. Tests both column format (Christianity/Judaism/Islam holistic) and row format (Theology/Philosophy/Ethics/Biology across the 3). Modeled on Ch 8–17 question style. |
 | 10 | Tue Nov 10 | Assessment debrief. Bridge to T2 — preview Unit 4 (Mormonism). The angel-prophet-new-scripture pattern from Unit 3 returns. *(Wed–Thu Nov 11–12 = Teacher Work Days; T1 ends Nov 12.)* |
 
 ---
@@ -565,7 +577,7 @@ This is not a 9-day unit because the heavy lifting was done in Units 5–6. Five
 | 2 | Thu Jan 14 | Deep Dive (compressed — all 10 lenses in one day). Treat New Spirituality through the grid quickly. The wellness industry, manifestation culture, "spiritual but not religious" demographics. Why this is the *operative* spirituality of much of contemporary American culture. |
 | 3 | Tue Jan 19 | *(Fri Jan 15 = Teacher Work Day; Mon Jan 18 = MLK Day.)* Combined Pair & Defend + Case Study. Pair & Defend: *"New Spirituality is just Buddhism for Westerners"* vs. *"New Spirituality is its own worldview that borrows Buddhist vocabulary."* Case study: a friend tells you she's "manifesting" a romantic partner. What's actually going on? |
 | 4 | Wed Jan 20 | Four-Test + vs. Christianity + Gospel Conversation (combined). Apply the four tests to New Spirituality (the consequences test is particularly devastating — manifestation theology is pastorally cruel when manifestation fails). The Gospel response: God is *personal*, not the universe; suffering has meaning, not just bad-vibration causes; we are loved without performance, not divine. Roleplay. |
-| 5 | Thu Jan 21 | Worldview Brief + Unit 7 Assessment. Bridge: T2 synthesis review begins. Then T3 opens with the dominant secular alternative — Secularism / New Atheism. |
+| 5 | Thu Jan 21 | Worldview Brief + Unit 7 Assessment. Bridge: T2 Discipline Pass begins. Then T3 opens with the dominant secular alternative — Secularism / New Atheism. |
 
 ### Gospel Conversation Focus
 
@@ -579,28 +591,30 @@ Personal love vs. impersonal universe. New Spirituality offers a friendly but ul
 
 ---
 
-## T2 Synthesis Review (Jan 22 – Feb 25, 2027)
+## T2 Discipline Pass (Jan 22 – Feb 25, 2027)
 
 **Dates:** Jan 22 – Feb 25, 2027 (22 instructional days)
 
 ### Purpose
 
-The second discipline-comparative pass. The grid is now wider — 7 worldviews × 10 disciplines = 70 cells — and the row-walking gets correspondingly harder and more interesting. T2 also includes mid-year capstone presentations (smaller-scale than the final Capstone) and the T2 comprehensive assessment.
+The second **Discipline Pass** of the year — Pass 2 instruction continued. The grid is now wider — 7 worldviews × 10 disciplines = 70 cells — and the row-walking gets correspondingly harder and more interesting. Each row is re-taught with the broader worldview coverage now available, then drilled. T2 also includes mid-year capstone presentations (smaller-scale than the final Capstone) and the T2 Comprehensive Assessment.
+
+**Still no publisher Ch 8–17 tests administered as graded summatives** — Secularism (Unit 8) and Revolutionary Lineage (Unit 9) are not yet taught, so Marxism / Postmodernism / Secularism content on those tests would be unfair. The T2 Comprehensive Assessment is locally-built, scoped to the 7 worldviews studied, and modeled on Ch 8–17 style.
 
 ### Suggested Schedule
 
 | Day | Date | Activity |
 |-----|------|----------|
-| 1 | Fri Jan 22 | T2 synthesis kickoff: Units 4–7 grid review (one column per worldview). Students fill in columns 4–7 from memory. |
-| 2–4 | Mon–Wed Jan 25–27 | Discipline-row walkthrough Pt 1 (Theology, Philosophy, Ethics, Biology). Read corresponding Myers Ch 8–11 slices for all 7 worldviews. |
+| 1 | Fri Jan 22 | T2 Discipline Pass kickoff: 7 columns now live. Students fill in columns 4–7 from memory; review the prior 3. |
+| 2–4 | Mon–Wed Jan 25–27 | Re-walk **Theology, Philosophy, Ethics, Biology rows** with all 7 worldviews. Read full Myers Ch 8–11 with all 7 slices. |
 | 5 | Thu Jan 28 | Cross-row Pair & Defend: pick the discipline where the worldviews diverge most sharply; debate. |
-| 6–8 | Mon–Wed Feb 1–3 | *(Fri Jan 29 = Teacher Work Day.)* Discipline-row walkthrough Pt 2 (Psychology, Sociology, Law). Read corresponding Myers Ch 12–14 slices. |
-| 9–10 | Thu–Fri Feb 4–5 | Discipline-row walkthrough Pt 3 (Politics, Economics, History). Read corresponding Myers Ch 15–17 slices. |
+| 6–8 | Mon–Wed Feb 1–3 | *(Fri Jan 29 = Teacher Work Day.)* Re-walk **Psychology, Sociology, Law rows**. Read Myers Ch 12–14. |
+| 9–10 | Thu–Fri Feb 4–5 | Re-walk **Politics, Economics, History rows**. Read Myers Ch 15–17. |
 | 11–12 | Mon–Tue Feb 8–9 | T2 Capstone preparation. Thesis drafting and evidence gathering: *"Which Unit 1–7 worldview most challenged your thinking, and how did you respond?"* |
 | 13–14 | Wed–Thu Feb 10–11 | T2 Capstone presentations (split across two days). |
 | 15 | Tue Feb 16 | *(Fri Feb 12 = Teacher Work Day; Mon Feb 15 = President's Day.)* Capstone debrief + flex / catch-up. |
 | 16–18 | Wed–Fri Feb 17–19 | T2 Comprehensive Assessment review and drilldowns. |
-| 19 | Mon Feb 22 | T2 Comprehensive Assessment Pt 1 (written: 25 multiple choice + 2 short essays — both worldview-holistic and discipline-comparative). |
+| 19 | Mon Feb 22 | **T2 Comprehensive Assessment Pt 1** (locally-built written: 25 MC + 2 short essays — both column and row format, scoped to 7 worldviews). |
 | 20 | Tue Feb 23 | T2 Comprehensive Assessment Pt 2 (oral: 2-minute Gospel conversation drawn randomly from Units 1–7). |
 | 21 | Wed Feb 24 | Assessment debrief; return graded Capstones. Bridge to T3 — preview Unit 8 (Secularism). |
 | 22 | Thu Feb 25 | T2 closeout / mid-year reflection. *(Last day of T2; Fri Feb 26 = Teacher Work Day.)* |
@@ -801,21 +815,21 @@ Integrate the full year. Students present a sustained defense of the Christian w
 
 ### Purpose
 
-The third and final discipline-comparative pass — the full 8 × 10 grid in random-access fashion. The dual-credit **written final** lands in this window (the oral component already happened during the Capstone). After the written final, the year closes with course reflection, end-of-year letters, and last-day farewells.
+The **third and final Discipline Pass** — Pass 2 instruction completed at full breadth (all 8 worldviews × 10 disciplines). All 6 publisher worldviews are now studied, so the publisher's Ch 8–17 chapter tests are administered here as ungraded practice runs in the publisher's exact format. The high-stakes summative is the publisher's **Ch 18 Test as the dual-credit written final** (100 questions, 128 points; the publisher's de-facto final exam). The oral component already happened during the Capstone. After the final, the year closes with course reflection, end-of-year letters, and last-day farewells.
 
 ### Suggested Schedule
 
 | Day | Date | Activity |
 |-----|------|----------|
-| 1 | Wed Apr 28 | Capstone debrief. Return Final Briefs with comments. Course reflection discussion begins. |
-| 2 | Thu Apr 29 | T3 synthesis kickoff: full 8 × 10 grid review. Students fill in all 8 columns from memory. Identify weak cells. |
-| 3 | Fri Apr 30 | Discipline-row drilldown Pt 1: Theology, Philosophy, Ethics across all 8 worldviews. |
-| 4 | Mon May 3 (SUB) | **SUB DAY.** Independent: written final study guide work — students draft sample answers to discipline-comparative essay prompts. |
-| 5 | Tue May 4 | Discipline-row drilldown Pt 2: Biology, Psychology, Sociology. |
-| 6 | Wed May 5 | Discipline-row drilldown Pt 3: Law, Politics, Economics, History. |
-| 7 | Thu May 6 | Comprehensive review: 4-tests applied to the worldview that most divided the class on the Capstone. *(Fri May 7 = Teacher Work Day.)* |
-| 8 | Mon May 10 | **Written Final (dual-credit).** Comprehensive — both worldview-holistic recall and discipline-comparative recall, with at least one prompt requiring four-test application. |
-| 9 | Tue May 11 | Final exam debrief. Read Myers Ch 18 (Conclusion) together as a class capstone. |
+| 1 | Wed Apr 28 | Capstone debrief. Return Final Briefs with comments. Begin Pass 2 final teaching: walk the **Theology row** across all 8 worldviews. Read Myers Ch 8 in full as the discipline-comparative reference. |
+| 2 | Thu Apr 29 | Walk **Philosophy + Ethics rows**. Read Ch 9 + 10. **In-class practice: UTT Ch 8 Test (Theology).** Ungraded; results discussed. |
+| 3 | Fri Apr 30 | Walk **Biology + Psychology rows**. Read Ch 11 + 12. **In-class practice: UTT Ch 9 + Ch 10 Tests.** Ungraded. |
+| 4 | Mon May 3 (SUB) | **SUB DAY.** Independent at-home practice: students take UTT Ch 11 + Ch 12 Tests (Student PDFs) as practice. |
+| 5 | Tue May 4 | Walk **Sociology + Law rows**. Discuss Ch 11/12 practice results. **In-class practice: UTT Ch 13 + Ch 14 Tests.** Ungraded. |
+| 6 | Wed May 5 | Walk **Politics + Economics rows**. **In-class practice: UTT Ch 15 + Ch 16 Tests.** Ungraded. |
+| 7 | Thu May 6 | Walk **History row**. **In-class practice: UTT Ch 17 Test.** Begin reading Myers Ch 18 (Conclusion) — the textbook's synthesis chapter and source of the final exam. *(Fri May 7 = Teacher Work Day.)* |
+| 8 | Mon May 10 | **DUAL-CREDIT WRITTEN FINAL — UTT Ch 18 Test administered.** 100 questions, 128 points, ~75 min. This is the high-stakes summative; the Ch 8–17 practice runs all year fed into this moment. |
+| 9 | Tue May 11 | Final exam debrief. Walk the most-missed questions. |
 | 10–11 | Wed–Thu May 12–13 | Course wrap-up: review of personal Worldview Briefs (Unit 0 vs. Capstone — how have you changed?). |
 | 12–13 | Fri–Mon May 14–17 | Flex days / student-selected enrichment. |
 | 14–15 | Tue–Wed May 18–19 | End-of-year letters. Students write a letter to themselves to be opened in 4 years (end of college). |
@@ -851,22 +865,28 @@ This course uses four cohort tools throughout. Full specifications are in [_shar
 
 7. **Breaks fall mid-unit.** Thanksgiving falls inside Unit 4 (Mormonism) — six days before, three days after. Christmas Break falls inside Unit 6 (Buddhism) — three days before, six days after. Spring Break falls inside Unit 9 (Revolutionary Lineage) — five days before (Marxism complete), eight days after (Progressivism + Postmodernism + integration). Each pre-break stretch reaches a natural pause point.
 
-8. **The dual-credit alignment is built into the synthesis review periods.** T1 (10 days), T2 (22 days), and T3 finals (17 days) include explicit discipline-row walkthroughs through Myers Ch 8–17. This is where Ch 8–17 content lives. The publisher's chapter tests for Ch 8–17 can be administered during these review windows.
+8. **The Discipline Pass weeks are real instruction, not buffer.** T1 Discipline Pass (10 days), T2 Discipline Pass (22 days), and T3 Finals (17 days) constitute Pass 2 — the discipline-comparative teaching the publisher devotes 100 days to in their Ch 8–17 sequence. Each Pass 2 lesson re-teaches the same material at higher altitude (discipline as the unit of analysis instead of worldview). Publisher Ch 8–17 chapter tests are administered as **ungraded practice** during T3 finals window, after all 8 worldviews are taught. The high-stakes Pass 2 summative is the **Ch 18 Test as dual-credit written final** on May 10. Per-unit Day 9 tests are **blended tests** that combine the publisher's matching worldview-comprehensive test (Ch 2/3/4/5/6/7) with that worldview's relevant questions extracted from Ch 8–17, so each per-unit assessment covers both holistic and discipline-by-discipline mastery.
 
 9. **The Capstone is the oral final.** Build this into student understanding from Day 1 of Unit 0. The Capstone is not a course assessment that happens to also count for dual credit — it is the dual-credit oral final, run in classroom format. Students should understand the stakes from the start.
 
-10. **The Gospel conversation rehearsals accumulate.** By Unit 10, each student has done 8 Gospel-conversation roleplays (one per worldview). The Capstone tests their ability to do one well under pressure. Hold the bar high.
+10. **The publisher's Ch 18 Test is the written dual-credit final.** Build this into student understanding from Day 1 of Unit 0 as well. Students see Ch 18 Test sample questions in the per-unit reading packets' Publisher Vocabulary sections all year so that the May exam holds no format surprises.
 
-11. **Review dates once per trimester.** Re-verify against [_shared/school-calendar-2026-27.md](../../_shared/school-calendar-2026-27.md) at the start of each trimester.
+11. **The publisher's CD lives at `_source-text/_cd/`.** Don't reinvent what's already there. For each of Units 0, 1, 3, 5–9, the publisher provides a chapter test (Student + Teacher PDF/docx), a Doug Letter writing assignment, and supplemental quizzes — administer these directly. For Units 2, 4 (and the distinct-treatment portions of 5 and 6), build local versions using the publisher's format and vocabulary as templates. See [`build-doug-letter`](.claude/commands/build-doug-letter.md) and [`build-reading-packet`](.claude/commands/build-reading-packet.md) skills.
 
-12. **Assessment philosophy.** Grade on clarity of thought, quality of evidence, and charitable engagement — not polish or rhetoric. The Worldview Briefs are often more revealing than the tests; read them carefully.
+12. **The Gospel conversation rehearsals accumulate.** By Unit 10, each student has done 8 Gospel-conversation roleplays (one per worldview). The Capstone tests their ability to do one well under pressure. Hold the bar high.
 
-13. **Resource flag — Ravi Zacharias.** Zacharias is cited in Unit 5 (Hinduism) and Unit 6 (Buddhism) as a contemporary resource. His work remains substantive but the 2020–21 RZIM disclosures are a live issue for many Christian schools. Revisit before the academic year and decide: keep, replace, or pair with a contextual note.
+13. **Review dates once per trimester.** Re-verify against [_shared/school-calendar-2026-27.md](../../_shared/school-calendar-2026-27.md) at the start of each trimester.
 
-14. **Next build step.** Unit 0 lesson plans are the logical first deliverable; the course cannot begin without them. Use `/generate-lesson-plans 1` referencing this teaching-map.md and [worldview-grid.md](worldview-grid.md). The per-worldview reading packets ([teaching-methodology.md](teaching-methodology.md)) are the major summer prep item — start them after Unit 0 lesson plans are done.
+14. **Assessment philosophy.** Grade on clarity of thought, quality of evidence, and charitable engagement — not polish or rhetoric. The Doug Letters are often more revealing than the tests; read them carefully.
+
+15. **Resource flag — Ravi Zacharias.** Zacharias is cited in Unit 5 (Hinduism) and Unit 6 (Buddhism) as a contemporary resource. His work remains substantive but the 2020–21 RZIM disclosures are a live issue for many Christian schools. Revisit before the academic year and decide: keep, replace, or pair with a contextual note.
+
+16. **Next build step.** Unit 0 lesson plans are the logical first deliverable; the course cannot begin without them. Use `/generate-lesson-plans 1` referencing this teaching-map.md and [worldview-grid.md](worldview-grid.md). The per-worldview reading packets ([teaching-methodology.md](teaching-methodology.md)) are the major summer prep item — start them after Unit 0 lesson plans are done.
 
 ---
 
 **Generated:** 2026-04-24
-**Last Revised:** 2026-05-08 (rebuilt around publisher-aligned dual-credit structure: dropped MTD; added New Spirituality as Western syncretism; reordered Mormonism after Islam to leverage revelation-pattern parallel; swapped Day 7 from Contemporary Resource to Four-Test + vs. Christianity; reframed trimester buffers as discipline-comparative synthesis review; merged Capstone with oral final; added per-worldview reading packets and weekly retrieval quizzes as standing commitments)
-**Design:** Worldview-first delivery of Myers & Noebel's 10-discipline framework + four-test framework; 8 worldviews; 9-day cohort rhythm with three exceptions (Christianity baseline 13d, New Spirituality 5d, Revolutionary Lineage 13d); charitable engagement as curricular commitment; dual-credit alignment via three explicit discipline-comparative synthesis review periods.
+**Last Revised:** 2026-05-09 (Discipline Pass + blended chapter tests model: renamed trimester "synthesis review" → "Discipline Pass" and reframed as Pass 2 instruction not buffer; per-unit Day 9 tests are now blended — publisher Ch X test + worldview-relevant questions extracted from Ch 8–17; publisher Ch 8–17 tests administered as ungraded practice in T3 finals; Ch 18 Test confirmed as dual-credit written final on May 10)
+**Previous revision (2026-05-09 earlier):** Adopted publisher's assessment infrastructure after CD audit: per-unit Doug Letter writing assignment + publisher chapter test on Day 9; supplemental quizzes administered Days 6–7; UTT Ch 18 Test designated as the dual-credit written final.
+**Previous revision (2026-05-08):** Rebuilt around publisher-aligned dual-credit structure: dropped MTD; added New Spirituality as Western syncretism; reordered Mormonism after Islam; swapped Day 7 from Contemporary Resource to Four-Test + vs. Christianity; merged Capstone with oral final.
+**Design:** Worldview-first delivery (Pass 1) + discipline-comparative Discipline Pass (Pass 2) — same two-pass structure as Myers & Noebel, reordered for cognitive load. 8 worldviews; 9-day cohort rhythm with three exceptions (Christianity baseline 13d, New Spirituality 5d, Revolutionary Lineage 13d); blended publisher chapter tests; charitable engagement as curricular commitment; dual-credit alignment via Ch 18 Test as written final.

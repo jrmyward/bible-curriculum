@@ -28,6 +28,9 @@ Read in this order:
 2. `classes/worldview/teaching-methodology.md` — section "The Capital Investment That Makes This Work" defines packet anatomy
 3. `classes/worldview/worldview-grid.md` — find this unit's column; you'll embed a blank slice
 4. `classes/worldview/syllabus/syllabus.md` — note the publisher's prescribed supplemental reading for the matching Myers/Noebel chapter
+5. **The publisher's matching chapter test** at `classes/worldview/_source-text/_cd/UTT Unit <NN> Files/<NN> Test Questions/UTT Chapter <NN> Test-Teacher.pdf` — this is the dual-credit alignment standard for the unit. Read every fill-in-the-blank, multiple-choice, and short-answer question; extract every defined term and Scripture reference. The packet's Publisher Vocabulary section (see structure below) must include all of these.
+6. **The worldview's slices of Ch 8–17 publisher tests.** The Day-9 blended test combines the publisher Ch X test (above) with each worldview's relevant questions from Ch 8 (Theology) through Ch 17 (History). The reading packet must prepare students for both halves of that blended test, so the Publisher Vocabulary section must also include defined terms from each Ch 8–17 test that pertain to this worldview. Look up `_source-text/_cd/UTT Unit 08 Files/`, `09`, `10`, ..., `17` and extract worldview-relevant vocabulary.
+7. **The publisher's Doug Letter** at `classes/worldview/_source-text/_cd/UTT Unit <NN> Files/<NN> Writing Assignment/UTT Chapter <NN> Assignment-Teacher.pdf` — read the four embedded questions and the model answers. The packet's Doug Letter Preview (see structure below) introduces students to the format before they write their own response.
 
 ### 2. Map sources
 
@@ -109,6 +112,18 @@ Pull this unit's column from worldview-grid.md. Render as a blank fill-in
 table (discipline | blank cell). On the back: one row of the grid filled
 in for an adjacent worldview, so students see what a complete cell looks
 like.
+
+## Part 5 — Publisher Vocabulary (for the blended Day-9 test)
+Every defined term and Scripture reference students will see on the Day-9
+blended chapter test, in flashcard format (term | definition).
+Compiled from:
+- The publisher's matching Ch X test (fill-in-the-blank section)
+- The worldview's relevant questions extracted from each Ch 8–17 test
+
+For Hindu / Buddhist / New Spirituality units: include a clear note that
+the publisher tests Hindu/Buddhist content under "New Spirituality"
+labels, with mapping ("When the publisher's test says 'New Spirituality
+holds X,' our Hinduism/Buddhism unit teaches that X derives from...").
 
 ## Sources to Acquire (if any)
 List anything the packet needs that wasn't in the repo. Do NOT fabricate
