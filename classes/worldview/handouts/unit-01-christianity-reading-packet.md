@@ -21,11 +21,11 @@ This packet replaces cross-chapter textbook navigation for Unit 1. Read it in or
 | 6 | Pair & Defend (both sides) | Open mind |
 | 7 | Case Study — a 22-year-old who lost her father | Part 1 reread |
 | 8 | Four-Test self-application | The four tests memorized |
-| 9 | Christianity vs. itself (Catholic/Protestant/Orthodox) | Curiosity |
+| 9 | Christianity vs. itself (Catholic / Protestant / Orthodox) | Curiosity |
 | 10 | Contemporary resource (teacher-selected) | Notes |
 | 11 | Gospel-conversation practice | This packet |
 | 12 | Worldview Brief writing | A pen |
-| 13 | Unit assessment | Yourself |
+| 13 | Doug Letter due + Unit assessment | Yourself, prepared |
 
 ---
 
@@ -85,69 +85,75 @@ Each section answers the discipline's central question, then flags where this wo
 
 Christianity is *theistic*: God exists independent of the universe, is personal, and has revealed himself. From the very first sentence of the Bible — "In the beginning God created the heavens and the earth" (Gen. 1:1) — Christianity proclaims a God who is active in and yet separate from his creation, a designed universe, and an intentional life-sustaining earth.
 
-Christianity is also *trinitarian*: one God in three coexistent, coeternal persons (Father, Son, Holy Spirit). This is not polytheism, and it is not modalism (one God appearing in three modes). It is the affirmation that relationship is not something God *does* but something God *is* (Myers Ch 8, §7).
+Christianity is also *trinitarian*: one God eternally existing as three coexistent, coeternal persons (Father, Son, Holy Spirit). This is not polytheism, and it is not modalism (one God appearing in three modes). It is the affirmation that relationship is not something God *does* but something God *is* (Myers Ch 8, §7).
 
-Christians see evidence of God everywhere: history, theology, philosophy, science, mathematics, and logic all point to the existence of a creator. To the atheistic question, *"Can you show me where God is?"* the Christian responds, *"Can you show me where God is not?"* (Myers Ch 8, §7).
+Christians see evidence of God everywhere: history, theology, philosophy, science, mathematics, and logic all point to the existence of a creator. To the atheistic question, *"Can you show me where God is?"* the Christian responds, *"Can you show me where God is not?"* The publisher's textbook calls Christianity's central theological claim *Trinitarian monotheism* — "the belief in one God recognized as three separate and distinct persons: Father, Son, and Spirit" (Myers Ch 8, §6).
 
 *Where this view will be tested:* Secularism (Unit 8) and Revolutionary Lineage (Unit 9) deny God's existence. Hinduism (Unit 5) affirms an impersonal divinity. Islam (Unit 3) rejects the Trinity as *shirk*. Mormonism (Unit 4) reframes God as a once-mortal exalted man.
 
 ### 2. Philosophy — What is real, and how do we know?
 
-Christianity holds that reality actually exists for us to know — what philosophers call *realism* — and that we can train ourselves to know things because they are actually there (Myers Ch 9, §7). Reality is not the projection of our minds; it is given to us.
+Christianity holds that reality actually exists for us to know — what philosophers call *realism* — and that we can train ourselves to know things because they are actually there (Myers Ch 9, §7). Reality is not the projection of our minds; it is given to us. The publisher defines realism as "the belief that an objective reality exists independently from human perception or language" (Myers Ch 9, §7).
 
-The Christian view also holds that human beings are *dualists* — we have a material nature (physics, chemistry, biology) and an immaterial nature (mind, soul, will) that interacts with but transcends material states. Our minds are not just the chemical firings of synapses. If we understand, it is because we were *meant* to.
+The Christian view also holds that human beings are *dualists* — we have a material nature (physics, chemistry, biology) and an immaterial nature (mind, soul, will) that interacts with but transcends material states (Myers Ch 9, §7c). The textbook calls this *mind/body dualism* — "the belief that human beings are composed of immaterial minds and material bodies." Our minds are not just the chemical firings of synapses. If we understand, it is because we were *meant* to.
 
-Faith is not the opposite of reason. As philosopher W. Q. Neidhardt put it, "Faith correctly viewed is that illumination by which true rationality begins." Every worldview begins with assumptions about the nature of reality that cannot themselves be proven by science or logic. Christianity owns its starting points and asks the same of others (Myers Ch 9, §7).
+Christians believe knowledge can come from many sources: science, history, experience, and God himself (Myers Ch 9, §7a). Faith is not the opposite of reason. As philosopher W. Q. Neidhardt put it, "Faith correctly viewed is that illumination by which true rationality begins." Every worldview begins with assumptions about the nature of reality that cannot themselves be proven by science or logic. Christianity owns its starting points and asks the same of others. The textbook lifts up the Muslim philosopher Al-Ghazali's *Kalam* cosmological argument — that whatever begins to exist has a cause — as one classical argument shared by Muslim and Christian theists (Myers Ch 9, §6a).
 
 *Where this view will be tested:* Buddhism (Unit 6) denies an enduring self. Postmodernism (Unit 9, Movement 3) denies stable meaning. Secularism (Unit 8) reduces mind to brain.
 
 ### 3. Ethics — What is good, on what basis?
 
-Christian ethics flows from the character of God himself. Francis Schaeffer wrote: "He exists; He has a character; and not all things are the same to Him. Some things conform to His character, and some are opposed to His character" (Myers Ch 10, §8).
+Christian ethics flows from the character of God himself. Francis Schaeffer wrote: "He exists; He has a character; and not all things are the same to Him. Some things conform to His character, and some are opposed to His character." The publisher's textbook puts the rule plainly: "the task of Christian ethics is to determine what conforms to God's character and what does not" (Myers Ch 10, §8).
 
-The summary command is found in Jesus's quotation of the Torah: *"Love the Lord your God with all your heart, soul, mind, and strength, and love your neighbor as yourself"* (Luke 10:27). The Greek word for this love is *agape* — self-giving love, modeled on God's own giving of himself for us. The Sermon on the Mount (Matt. 5–7) is its most concentrated expression.
+The summary command is found in Jesus's quotation of the Torah: *"Love the Lord your God with all your heart, soul, mind, and strength, and love your neighbor as yourself"* (Luke 10:27). The Greek word for this love is *agape* — self-giving love, modeled on God's own giving of himself for us. The publisher defines *agape* as "the belief that morality is built upon two foundational moral absolutes: love of God and love of neighbor" (Myers Ch 10, §8). The Sermon on the Mount (Matt. 5–7) is its most concentrated expression. And Romans 12:9 sets the everyday tone: *"Let love be genuine. Abhor what is evil; hold fast to what is good"* (Myers Ch 10, §8).
 
-Christian ethics is *not relativistic*: right and wrong are objective and based on the nature and character of a personal, loving God. Yet it is also *not legalistic*: the goal is not merely to perform a duty but to love God with every aspect of our being. The Bible doesn't list every moral situation; it gives clear principles (the Decalogue, the Sermon on the Mount, the New Testament epistles) so we can figure out what is right in the circumstances we face (Myers Ch 10, §8).
+Christian ethics is *not relativistic*: right and wrong are objective and grounded in the nature and character of a personal, loving God. Yet it is also *not legalistic*: the goal is not merely to perform a duty but to love God with every aspect of our being. The Bible doesn't list every moral situation; it gives clear principles (the Decalogue, the Sermon on the Mount, the New Testament epistles) so we can figure out what is right in the circumstances we face. Christians also see the common moral claims found in nearly every culture — that murder, adultery, and lying are wrong — as evidence of a *universal lawgiver* (Myers Ch 10, §1).
 
-The German philosopher Jürgen Habermas — himself not a believer — wrote: "Egalitarian universalism, from which sprang the ideas of freedom and social solidarity… of human rights and democracy, is the direct heir of the Judaic ethic of justice and the Christian ethic of love. To this day, there is no alternative to it" (Myers Ch 10, §8).
+The German philosopher Jürgen Habermas — himself not a believer — wrote: "Egalitarian universalism, from which sprang the ideas of freedom and social solidarity… of human rights and democracy, is the direct heir of the Judaic ethic of justice and the Christian ethic of love. To this day, there is no alternative to it."
 
 *Where this view will be tested:* Secularism (Unit 8) attempts to ground ethics without God. Postmodernism (Unit 9) denies any universal moral standard. Hinduism (Unit 5) replaces sin with karma; Buddhism (Unit 6) replaces sin with attachment.
 
 ### 4. Biology — What is life, and where did it come from?
 
-Christianity affirms *special creation*: at some point and at some level, life resulted from a creative act of God, not from purely natural processes (Myers Ch 11, §8). Human beings are not cosmic accidents. They are made in God's image (Gen. 1:27).
+Christianity affirms *special creation*: the cosmos and all life were brought into existence by the creative act of God, not by purely natural processes (Myers Ch 11, §8). Human beings are not cosmic accidents. They are made in God's image (Gen. 1:27).
 
-Christians disagree among themselves about the *timing* and *mechanism* of creation — the textbook lays out Young Age Creationism, Progressive Creationism, and Theistic Evolution as three positions held by serious Christians. What unites all three is the conviction that the universe and especially life on Earth bear the marks of a designer, and that humans are categorically different from the rest of creation because they are image-bearers (Myers Ch 11, §8).
+Christians disagree among themselves about the *timing* and *mechanism* of creation. The textbook lays out three positions held by serious Christians (Myers Ch 11, §8):
+
+- **Young-age creationism** — God created the cosmos and all life in six literal days, around six thousand years ago.
+- **Progressive creationism** — God created the cosmos and all life in progressive stages, over a long period of time.
+- **Theistic evolution** — God created the cosmos and all life billions of years ago and then guided the process of evolution.
+
+What unites all three is the conviction that the universe and especially life on Earth bear the marks of a designer, and that humans are categorically different from the rest of creation because they are image-bearers. Christians point to the *intelligent design movement* — a scientific argument that the information, design, and complexity in life best fit a designer hypothesis — and to *irreducible complexity* — the argument that complex biological systems cannot function without all components in place, making gradual evolution implausible (Myers Ch 11, §7–8).
 
 The biological question matters because if naturalism is right — if life arose from non-life through random processes — then human beings are nothing but physics and chemistry, and human dignity has no foundation. The Christian claim is that we are more than chemicals: we are creatures, made on purpose, by a Creator who knows our names.
 
-*Where this view will be tested:* Secularism (Unit 8) and the Revolutionary Lineage (Unit 9) hold neo-Darwinian materialism. New Spirituality (Unit 7) blurs the line between human and divine. Hinduism (Unit 5) and Buddhism (Unit 6) hold cyclical-rebirth views.
+*Where this view will be tested:* Secularism (Unit 8) and the Revolutionary Lineage (Unit 9) hold neo-Darwinian materialism. New Spirituality (Unit 7) blurs the line between human and divine through *spiritual evolution*. Hinduism (Unit 5) and Buddhism (Unit 6) hold cyclical-rebirth views.
 
 ### 5. Psychology — What is the self?
 
 Christian psychology begins with *personhood*. God is a person, and our personhood is somehow related to his. As Alvin Plantinga put it, "In the Christian scheme of things, God is the premier person, the first and chief exemplar of personhood, and the properties most important for an understanding of our personhood are properties God has." J. P. Moreland and Scott Rae summarize: "There is something about the way God is that is like the way we are" (Myers Ch 12, §8).
 
-Christianity teaches *mind/body dualism*: human beings are composed of an immaterial mind (soul, spirit, heart) and a material body. We are not just bodies; we are not just minds. We are both. Our physical substance changes over decades, but our identity persists — something more than the physical brain must exist to account for that (Myers Ch 12, §8).
+Christianity teaches *mind/body dualism*: human beings are composed of an immaterial mind (soul, spirit, heart) and a material body. We are not just bodies; we are not just minds. We are both. Our physical substance changes over decades, but our identity persists — something more than the physical brain must exist to account for that. The Christian view of the soul accounts for *identity*, *free will*, and our *proclivity to do wrong* (Myers Ch 12, §8). Jesus himself draws the line between body and soul: *"Do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell"* (Matt. 10:28).
 
-Christianity also teaches that the self is *fallen* but not worthless. We are bent inward (Augustine's *incurvatus in se*) and need rescue. But we are not by nature evil — we are good creatures who have done bad things and need redemption, not replacement.
+Christianity also teaches that the self is *fallen* but not worthless. The source of our psychological problems is our rebellion against God and against our fellow man, not society alone (Myers Ch 12, §8). Ephesians 2:1–3 names the three sources of temptation: the world, the flesh, and the devil. We are bent inward (Augustine's *incurvatus in se*) and need rescue. But we are not by nature evil — we are good creatures who have done bad things and need redemption, not replacement. The publisher commends *positive psychology* — the branch of psychology that focuses on promoting mental health and happiness rather than only treating illness — as compatible with Christian anthropology (Myers Ch 12, §8).
 
-*Where this view will be tested:* Buddhism (Unit 6) teaches *anatta* — no self at all. Hinduism (Unit 5) teaches that the self is ultimately identical with Brahman. Secularism (Unit 8) reduces the self to brain activity. New Spirituality (Unit 7) divinizes the self.
+*Where this view will be tested:* Buddhism (Unit 6) teaches *anatta* — no self at all. Hinduism (Unit 5) teaches that the self is ultimately identical with Brahman. Secularism (Unit 8) reduces the self to brain activity. New Spirituality (Unit 7) divinizes the self. Islam (Unit 3) holds the self is unfallen — created in the *fitrah* (innate predisposition to submit to Allah).
 
 ### 6. Sociology — How should people live together?
 
 The Christian sociological claim is straightforward: *society functions best when organized around the family — father, mother, children — and the institutions naturally flowing from it.* This is not nostalgia; it is foundational anthropology. Genesis 1 begins human society with a marriage and a charge to fill the earth. Genesis 4 introduces worship, government, urbanization, agriculture, music, and metallurgy. The basic institutions of society were there from the start (Myers Ch 13, §8).
 
-Building on this, the Reformed theologian Abraham Kuyper articulated *sphere sovereignty*: God ordained three primary spheres of society — family, church, and state — each with its own God-given authority that the others may not invade. Kuyper called this balance "three balloons in a box just big enough to fit them all." When one sphere expands, the others get squeezed (Myers Ch 13, §8).
+Building on this, the Reformed theologian Abraham Kuyper articulated *sphere sovereignty*: "the belief that God ordained certain spheres of society, such as family, church, and state, and that society functions best when each sphere is properly managing its own area of responsibility" (Myers Ch 13, §8). When one sphere expands, the others get squeezed. Decisions, in turn, are best made at the lowest competent level — what the textbook calls *subsidiarity* (Myers Ch 13, §8).
 
-Christianity also affirms a Lordship that crosses all spheres. Kuyper's most famous line: *"There is not one square inch of the entire creation about which Jesus Christ does not cry out, 'This is mine! This belongs to me!'"*
+Christianity also affirms a Lordship that crosses all spheres. Kuyper's most famous line: *"There is not one square inch of the entire creation about which Jesus Christ does not cry out, 'This is mine! This belongs to me!'"* The publisher's textbook summarizes the Christian sociological diagnosis bluntly: *"rebellion against God's design is the best explanation for the failures we see in contemporary society"* (Myers Ch 13, §8). Government's job is to *secure* rights, not *create* them. The church's primary responsibility is to model community by loving one's neighbor.
 
-*Where this view will be tested:* Islam (Unit 3) sees the *umma* as corporate identity above the family. Marxism (Unit 9) replaces family with class. Secularism (Unit 8) elevates personal autonomy. Mormonism (Unit 4) extends family into eternal hierarchy.
+*Where this view will be tested:* Islam (Unit 3) sees the *umma* as corporate identity above the family. Marxism (Unit 9) replaces family with class. Secularism (Unit 8) elevates personal autonomy. Mormonism (Unit 4) extends family into eternal hierarchy. New Spirituality (Unit 7) replaces social institutions with the curated tribe of affirmation.
 
 ### 7. Law — What is justice, and where does authority come from?
 
-Carl Henry: "God is the only Legislator. Earthly rulers and legislative bodies are alike accountable to Him from whom stems all obligation — religious, ethical and civil" (Myers Ch 14, §9).
+Carl Henry: "God is the only Legislator. Earthly rulers and legislative bodies are alike accountable to Him from whom stems all obligation — religious, ethical and civil." The publisher anchors the Christian view of law in two claims: "the source of divine law is the character and nature of God," and "Christianity assumes that all human beings have a general concept of right and wrong" (Myers Ch 14, §9).
 
-Christian law rests on six basic precepts:
+Christian law rests on several basic precepts (Myers Ch 14, §9):
 
 1. The source of all divine law is the character and nature of God.
 2. The moral order proceeds from and reflects God's character — his holiness, justice, truth, love, mercy.
@@ -156,41 +162,43 @@ Christian law rests on six basic precepts:
 5. God the Creator became God the Redeemer in Jesus Christ.
 6. God will judge all humanity through Christ (Acts 17:31).
 
-These precepts produce a system of justice that, while imperfect, has provided greater order and justice than any other system in history. William Blackstone, the most influential figure in Anglo-American legal thought, wrote: "Man, considered as a creature, must necessarily be subject to the laws of his creator… This will of his maker is called the law of nature" (Myers Ch 14, §9).
+These precepts produce *natural law* — "the belief that laws are rules based upon an internal code of morality possessed by all people" (Myers Ch 14, §3). To understand law, Christians turn to *both* general and special revelation (Myers Ch 14, §9). William Blackstone, the most influential figure in Anglo-American legal thought, wrote: "Man, considered as a creature, must necessarily be subject to the laws of his creator… This will of his maker is called the law of nature."
 
-*Where this view will be tested:* Islam (Unit 3) holds Sharia as direct divine command. Secularism (Unit 8) holds legal positivism — law is what authorities decide. Postmodernism (Unit 9) holds Critical Legal Studies — law as a power instrument.
+*Where this view will be tested:* Islam (Unit 3) holds Sharia as direct divine command. Secularism (Unit 8) holds *legal positivism* — "the belief that laws are rules created by human authorities and that there is no inherent or necessary connection between law and morality" (Myers Ch 14, §3). Postmodernism (Unit 9) holds *Critical Legal Studies* — law as a power instrument.
 
 ### 8. Politics — What is the role of the state?
 
 The essential Christian political conviction: *citizens of the kingdom of heaven should be the best citizens in the kingdom of the world because their allegiance is to something higher than the state* (Myers Ch 15, §8).
 
-In a fallen world, government's primary mission is to preserve justice, punish evil, and create conditions in which humans may flourish (Rom. 13). But government's role is *not* to be the primary agent of human flourishing — that work belongs to families, churches, and individuals exercising their God-given gifts. Christianity therefore favors *limited* government and *subsidiarity* (decisions made at the lowest competent level).
+In a fallen world, government's primary mission is to *preserve justice and punish evil* (Myers Ch 15, §8). Romans 13:1–7 names government as a sacred institution whose rulers are God's ministers of good. 1 Peter 2:13–14 commands Christians to submit to governing authorities. But Acts 5:27–29 sets the limit: *"We must obey God rather than men."*
 
-The textbook walks through five Christian positions on political involvement that have problems — full retreat from politics, "society isn't worth redeeming," "politics can't change hearts," two-kingdoms theology, and partisan capture — before settling on a sixth view: *Christians should be involved, with humility, knowing politics is real but penultimate* (Myers Ch 15, §8–9).
+Government's role is *not* to be the primary agent of human flourishing — that work belongs to families, churches, and individuals exercising their God-given gifts. Christianity therefore favors *limited* government and *subsidiarity* — "the belief that decisions are best handled at the organizational or societal level closest to the issues or persons affected" (Myers Ch 15, §9b). Government was instituted by God to *protect* rights, not create them (Myers Ch 15, §9b). And *sphere sovereignty* — the family/church/state distinction from sociology — applies here too: each sphere has its own God-given authority that the others may not invade.
 
-*Where this view will be tested:* Islam (Unit 3) integrates religion and state in caliphate models. Marxism (Unit 9) sees the state as the agent of class liberation. Secularism (Unit 8) holds progressivism — the state as the engine of social progress.
+The textbook walks through five Christian positions on political involvement that have problems — full retreat from politics, "society isn't worth redeeming," "politics can't change hearts," two-kingdoms theology, and partisan capture — before settling on a sixth view: *Christians should be involved, with humility, knowing politics is real but penultimate* (Myers Ch 15, §9b).
+
+*Where this view will be tested:* Islam (Unit 3) integrates religion and state in caliphate models. Marxism (Unit 9) sees the state as the agent of class liberation; *statism* and *political pessimism* both grow from materialist soil. Secularism (Unit 8) holds *progressivism* — "the belief that political systems can be used to create economic prosperity, minimize risk, and advance society."
 
 ### 9. Economics — What is wealth, and how should it be stewarded?
 
-Christians disagree about which economic system best reflects biblical teaching. What unites them is *biblical stewardship*: God owns it all, and we are responsible for how we use it (Ps. 24:1; Gen. 1:26–30, 2:15) (Myers Ch 16, §10).
+Christians disagree about which economic system best reflects biblical teaching. What unites them is *biblical stewardship* — "the act of managing and caring for resources that ultimately belong to God" (Myers Ch 16, §10). According to the publisher, our right to own property stems from our duty to work, and we are accountable *to God* — not to no one — for how we use what we steward (Ps. 24:1; Gen. 1:26–30, 2:15).
 
-The Bible affirms several specific economic principles: private property is real and protected (the commandments against stealing and coveting assume it); honest work is dignified, not cursed (Prov. 10:4; 2 Thess. 3:10); trust and truth-telling are economic goods (the prohibition against false witness); and giving and sharing are virtues that flow from gratitude (Matt. 25; 2 Cor. 9). The early Christians "had all things in common" (Acts 2:44–45), but this is described as voluntary generosity, not state coercion (Acts 5:1–4 assumes Christians could keep their property if they wished).
+The Bible affirms several specific economic principles. Private property is real and protected (the commandments against stealing and coveting assume it; Myers Ch 16, §10). Honest work is dignified, not cursed: *"A slack hand causes poverty, but the hand of the diligent makes rich"* (Prov. 10:4). *"In all toil there is profit, but mere talk tends only to poverty"* (Prov. 14:23). Trust and truth-telling are economic goods (the prohibition against false witness). Generosity is a virtue: *"Better is a little with righteousness than great revenues with injustice"* (Prov. 16:8). The early Christians "had all things in common" (Acts 2:44–45), but this is described as voluntary generosity, not state coercion (Acts 5:1–4 assumes Christians could keep their property if they wished).
 
-The Christian conviction is that economic systems should be evaluated by their *justice* (do they respect persons made in God's image?) and *compassion* (do they actually produce the goods that feed, clothe, and shelter real people?). Centralized planning has, historically, failed both tests (Myers Ch 16, §10).
+The Christian conviction is that economic systems should be evaluated by their *justice* (do they respect persons made in God's image?) and *compassion* (do they actually produce the goods that feed, clothe, and shelter real people?). Centralized planning has, historically, failed both tests.
 
-*Where this view will be tested:* Marxism (Unit 9) holds that private property is the root of injustice. Secularism (Unit 8) endorses interventionist redistribution. Islam (Unit 3) prohibits *riba* (interest).
+*Where this view will be tested:* Marxism (Unit 9) holds that private property is the root of injustice and pursues *communism* — "the Marxist ideal of a classless and stateless utopian society in which all property is commonly owned" (Myers Ch 16, §3). Secularism (Unit 8) endorses *economic interventionism* — government influence over a market economy in pursuit of the public good. Islam (Unit 3) prohibits *riba* (interest) and requires *zakat* (almsgiving).
 
 ### 10. History — Where is history going? What is its meaning?
 
-For Christianity, history is not a circle, not a random walk, and not the project of human self-improvement. It is *the unfolding of God's story in real time* — a redemptive narrative whose author has appeared inside the story (Myers Ch 17, §9).
+For Christianity, history is not a circle, not a random walk, and not the project of human self-improvement. It is *the unfolding of God's story in real time* — a *redemptive narrative*: "the Christian metanarrative that describes the course of history unfolding according to the biblical chronicle of God's creative act, humanity's rebellion, Christ's redemptive sacrifice, and God's eventual restoration of his creation" (Myers Ch 17, §9).
 
 The four-act structure: **Creation** (very good) → **Fall** (broken but not destroyed) → **Redemption** (Christ has come, has died, has risen) → **Restoration** (Christ will come again, and all things will be made new). Galatians 4:4 says "When the fullness of time had come, God sent forth his Son" — the language is of a pregnancy and a birth. God's plan has a center, and that center is a person.
 
-This means history is rooted in fact, not myth. Christianity makes specific historical claims about specific events that happened in specific places. As 1 Corinthians 15:14 says, if Christ has not been raised, the Christian faith is bankrupt. Christianity invites scrutiny because its truth depends on what actually happened (Myers Ch 17, §9).
+Christianity holds the *linear conception of history* — "the belief that history follows a chronological pattern of cause and effect" — over against the *cyclical conception of history* held by Hinduism and Buddhism (Myers Ch 17, §9b). This means history is rooted in fact, not myth. Christianity makes specific historical claims about specific events that happened in specific places. As 1 Corinthians 15:14 says, if Christ has not been raised, the Christian faith is bankrupt. Christianity invites scrutiny because its truth depends on what actually happened (Myers Ch 17, §9a). And — unlike Islam, which views Allah as ultimately unknowable — the Christian God works *through* our actions to direct history toward his ultimate end (Myers Ch 17, §9b).
 
-It also means Christians have *hope without naivety*. We expect persecution and trials in this age while expecting the triumph of righteousness, peace, and joy in the end (Myers Ch 17, §9). We are realistic about evil and confident about its final defeat.
+It also means Christians have *hope without naivety*. We expect persecution and trials in this age while expecting the triumph of righteousness, peace, and joy in the end. We are realistic about evil and confident about its final defeat.
 
-*Where this view will be tested:* Marxism (Unit 9) holds that history is the dialectic of class struggle ending in workers' paradise. Postmodernism (Unit 9) denies that history has a meaningful direction at all. Hinduism (Unit 5) and Buddhism (Unit 6) hold cyclical views.
+*Where this view will be tested:* Marxism (Unit 9) holds *historical materialism* — that history is the dialectic of class struggle ending in a workers' paradise. Postmodernism (Unit 9) practices *historical revisionism* — reinterpreting the past to serve an ideological purpose, and ultimately denies history has meaningful direction. Secularism (Unit 8) holds *social progress* — that society will continually improve through human initiative. Hinduism (Unit 5) and Buddhism (Unit 6) hold cyclical views.
 
 ---
 
@@ -293,10 +301,10 @@ You'll have nothing to compare your column to yet — Christianity is the first 
 | Discipline | Christianity (sample summary) |
 |---|---|
 | 1. Theology | Trinitarian Monotheism — one God in three eternal persons (Father, Son, Holy Spirit), personal, transcendent and immanent, who has revealed himself in Jesus Christ. |
-| 2. Philosophy | Realism with mind-body dualism — reality exists independent of our minds, knowable through both reason and revelation, and human beings have both a material body and an immaterial soul. |
+| 2. Philosophy | Realism with mind/body dualism — reality exists independent of our minds, knowable through both reason and revelation, and human beings have both a material body and an immaterial soul. |
 | 3. Ethics | Agape love + natural law — moral truth is rooted in God's character; the summary command is to love God and neighbor (Luke 10:27). |
 | 4. Biology | Special Creation in the image of God — life is the deliberate work of a Creator, and human beings are uniquely made in God's image (Gen. 1:27). |
-| 5. Psychology | Mind-body dualism, fallen but redeemable — the self is real, image-bearing, bent inward by sin, and capable of being healed by grace. |
+| 5. Psychology | Mind/body dualism, fallen but redeemable — the self is real, image-bearing, bent inward by sin, and capable of being healed by grace. |
 | 6. Sociology | Sphere Sovereignty — society organized around family, with church and state as distinct God-ordained spheres, each with its own proper authority. |
 | 7. Law | Natural law grounded in God's character — divine moral order knowable through conscience and revealed clearly in Scripture. |
 | 8. Politics | Subsidiarity / limited government — the state preserves justice and punishes evil, but is not the primary agent of human flourishing. |
@@ -307,50 +315,189 @@ You will use this column for the rest of the year. Every other worldview will be
 
 ---
 
-## Part 5 — Publisher Vocabulary (for the Day-9 Blended Chapter Test)
+## Part 5 — Doug Letter Preview
 
-The Day-9 chapter test combines the publisher's UTT Chapter 02 Test (Christianity-comprehensive) with Christianity-relevant questions extracted from Ch 8–17 (the discipline-comparative half). Every defined term and Scripture reference below appears as a fill-in-the-blank or short-answer item somewhere on that blended test. Memorize them as flashcards.
+On Day 13, you will hand in a 1–2 page response to a letter from "Doug." Doug is a fictional college freshman whose questions you will answer in every unit of this course. The publisher provides his Unit 1 letter; you will receive the printed copy in class and have Days 11–12 to draft and revise your response.
 
-### From Ch 02 (Christianity)
+**The setup:** Doug has met a fellow student named Sarah, a biochemistry major who doesn't believe in God. She challenges him: *"If God existed, why hasn't he made himself known?"* Doug tries to answer — clumsily — and ends up telling her that "blind faith" is the heart of Christianity. He writes home asking for help articulating what he actually believes.
+
+**The four questions Doug asks you:**
+
+1. **In what ways has God made himself known?** (You'll draw on general and special revelation — see Part 1 §"How Christians Know What They Know," and Lens 1 in Part 2.)
+2. **What's wrong with humanity?** (Sin, the fall, *incurvatus in se* — see Part 1 §"The Christian Story in Four Acts" and Lens 5.)
+3. **What is God's plan for redeeming humanity?** (Incarnation, atonement, resurrection — see Part 1 and Source 2 (Nicene Creed).)
+4. **Is biblical faith really blind?** (No — faith and reason in Scripture: 1 Pet. 3:15, Acts 17, 2 Cor. 10:5, Col. 2:8 — see Lens 2 and the Publisher Vocabulary section.)
+
+**Format expectations** (matching the publisher's rubric):
+
+- 1–2 pages, double-spaced
+- Address Doug directly (it's a letter back to a friend, not an essay)
+- Each of the four questions gets a clearly-named section
+- Quote at least one Scripture per question
+- Use the publisher's vocabulary (general revelation, special revelation, sin, incarnation, redemption, etc.) — this is dual-credit alignment practice
+- Conclude with a sentence Doug could actually use in his next conversation with Sarah
+
+Doug's letter is the moment the unit's content turns into your voice. Bring care to it.
+
+---
+
+## Part 6 — Publisher Vocabulary (for the Day-13 Blended Chapter Test)
+
+The Day-13 chapter test combines the publisher's UTT Chapter 02 Test (Christianity-comprehensive) with Christianity-relevant questions extracted from each of Ch 8–17 (the discipline-comparative half). Every defined term and Scripture reference below appears as a fill-in-the-blank, true/false, or short-answer item somewhere on that blended test. Memorize them as flashcards.
+
+### From Ch 02 (Christianity Worldview Chapter Test)
 
 | Term / Reference | Definition / Context | Code |
 |---|---|---|
-| **General revelation** | God's revelation of himself to all people through creation (Ps. 19:1–6; Rom. 1:18–20) | [2.4] |
-| **Special revelation** | God's revelation of himself through the Bible, miraculous events, and Jesus Christ (Ps. 19:7–11; 2 Tim. 3:14–17; John 1:1–18) | [2.4] |
+| **Christianity** | A theistic worldview centered on the person of Jesus Christ that derives its understanding of the world through the teachings of the Holy Bible. | [2.2] |
+| **General revelation** | God's revelation of himself to all people through creation (Ps. 19:1–6; Rom. 1:18–20). | [2.4] |
+| **Special revelation** | God's revelation of himself through the Bible, miraculous events, and Jesus Christ (Ps. 19:7–11; 2 Tim. 3:14–17; John 1:1–18). | [2.4] |
+| **Personal God** | God possesses the characteristics of a person: self-aware, creative, volitional, rational, relational, communicative. Not a force to be used, but a person to be known. | [2.3a] |
+| **Transcendent + immanent** | God is beyond and separate from the world (transcendent) and yet present in the world (immanent). | [2.3b] |
+| **Image of God** | Humans still bear God's image after the fall — distorted, but not destroyed. | [2.3d] |
+| **Eternity** | Eternity is the *redemption* of the physical world, not the *escape* from it. | [2.3e] |
 | **Colossians 2:8** | "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ." | [2.9] |
 | **Acts 17** | Paul confronted the professional philosophers of his day: the atheistic Epicureans and the pantheistic Stoics. | [2.9] |
 | **Second Corinthians 10:5** | "We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ." | [2.9] |
 | **First Peter 3:15** | "But in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect." | [2.9] |
 
-### From Ch 8 (Theology) — Christianity slice
+### From Ch 8 — Theology
 
 | Term / Reference | Definition / Context | Code |
 |---|---|---|
+| **Theology** | The study of God. | [8.1] |
 | **Theism** | The belief in the existence of a God or gods. | [8.1] |
+| **Monotheism** | The belief in the existence of one God. | [8.6] |
 | **Trinitarian Monotheism** | The belief in one God recognized as three separate and distinct persons: Father, Son, and Spirit. | [8.6] |
+| **Holy** | Sacred / set apart / consecrated. | [8.9c] |
+| **Order in nature** | Christians expect to find order — not chaos — in nature, because they believe God created it. | [8.8] |
 | **Second law of thermodynamics** | The physical law that leads scientists to believe that the universe had a beginning. | [8.8a] |
-| **Spontaneous generation** | The belief that non-living matter produced living matter through purely natural processes. (Christianity rejects this.) | [8.8b] |
-| **Panspermia** | The belief that life arrived on earth from outer space. (Christianity rejects this.) | [8.8b] |
-| **Genetic information theory** | States that complexity and information within DNA molecules reveal evidence for design. (A Christian apologetic claim.) | [8.8c] |
-| **Anthropic principle** | States that the universe was designed for human beings. (A Christian apologetic claim.) | [8.8d] |
+| **Spontaneous generation** | The belief that non-living matter produced living matter through purely natural processes. (Christianity rejects.) | [8.8b] |
+| **Panspermia** | The belief that life arrived on earth from outer space. (Christianity rejects.) | [8.8b] |
+| **Genetic information theory** | The information and complexity in DNA molecules reveal evidence for design. (A Christian apologetic claim.) | [8.8c] |
+| **Anthropic principle** | The universe was designed for human beings. (A Christian apologetic claim.) | [8.8d] |
 | **Isaiah 44:6** | "I am the first, and I am the last; besides me there is no god." | [8.9] |
+| **God of love is also the God of wrath** | The Christian God's love does not cancel his wrath. Both proceed from his character. | [8.9b] |
 
-### From Ch 9–17 (Philosophy through History) — Christianity slices
+### From Ch 9 — Philosophy
 
-A complete vocabulary list from these chapters lives in the per-unit blended test. Key terms students should know in advance:
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Philosophy** | The study of knowledge, truth, and the nature of ultimate reality. | [9.1] |
+| **Metaphysics** | The study of ultimate reality. | [9.1] |
+| **Epistemology** | The study of knowledge. | [9.1] |
+| **Luke 10:27** | "Love the Lord your God with all your heart, soul, strength, and mind … and your neighbor as yourself." (Quoted in Ch 9 and Ch 10.) | [9.1] |
+| **Realism** | The belief that an objective reality exists independently from human perception or language. (Christianity's epistemology.) | [9.7] |
+| **Dualism** | The belief that reality is ultimately composed of two essential substances. | [9.7] |
+| **Mind/body dualism** | The belief that human beings are composed of immaterial minds and material bodies. (Christianity's view of the human person.) | [9.7c] |
+| **Knowledge** | Justified true belief. | [9.4a] |
+| **Christian sources of knowledge** | Christians believe knowledge can come from science, history, experience, and God. | [9.7a] |
+| **Mind before matter** | According to the Christian view of metaphysics, mind came *before* matter — not the reverse. | [9.7b] |
+| **John 1:1** | "In the beginning was the Word, and the Word was with God, and the Word was God." | [9.7b] |
+| **Al-Ghazali** | Muslim philosopher known for developing an early version of the *Kalam* cosmological argument — used by Christians and Muslims alike. | [9.6a] |
 
-- **Realism** — Christianity's epistemology: reality exists independent of human perception (Ch 9)
-- **Substance dualism / Mind-body dualism** — Christianity's view of human persons (Ch 9, Ch 12)
-- **Agape** — Christianity's ethic: love of God and love of neighbor as the moral foundation (Ch 10)
-- **Special creation** — Christianity's biology: life as the deliberate work of a Creator (Ch 11)
-- **Imago Dei** — Christianity's psychology: every person made in God's image (Ch 12)
-- **Sphere sovereignty** — Christianity's sociology: family/church/state as God-ordained spheres (Ch 13)
-- **Natural law** — Christianity's law: moral order grounded in God's character, knowable by reason (Ch 14)
-- **Subsidiarity / Limited government** — Christianity's politics: the state's role is to preserve justice, not to be the primary agent of human flourishing (Ch 15)
-- **Biblical stewardship** — Christianity's economics: God owns all; we are responsible stewards (Ch 16)
-- **Redemptive narrative** — Christianity's history: Creation → Fall → Redemption → Restoration (Ch 17)
+### From Ch 10 — Ethics
 
-*Note: This Publisher Vocabulary section was added 2026-05-09 as part of the blended-chapter-test reform. A future regeneration of the packet via `/build-reading-packet 1` will pull the complete vocabulary from all 10 discipline tests.*
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Ethics** | The study of moral conduct, values, duties, and goodness. | [10.2] |
+| **Universal lawgiver** | Christians see common ethical norms across vastly different cultures as evidence of a universal law and thus a universal lawgiver. | [10.1] |
+| **Agape** | The belief that morality is built upon two foundational moral absolutes: love of God and love of neighbor. | [10.8] |
+| **Greatest commandment** | "Love the Lord your God with all your heart … and love your neighbor as yourself" (Luke 10:27). | [10.8] |
+| **Sermon on the Mount** | The apex of Christ's ethical teaching (Matthew 5–7). | [10.8] |
+| **Romans 12:9** | "Let love be genuine. Abhor what is evil; hold fast to what is good." | [10.8] |
+| **Christian ethics task** | To determine what conforms to God's character and what does not. Moral norms proceed from God's *nature*, not arbitrary decree. | [10.8] |
+| **Loving God means…** | Serving others both spiritually *and* physically. | [10.8] |
+
+### From Ch 11 — Biology
+
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Biology** | The study of life and living organisms. | [11.2] |
+| **Special creation** | The belief that the cosmos and all life were brought into existence by the creative act of God. | [11.8] |
+| **Young-age creationism** | God created the cosmos and all life in its present forms, in six literal days, around six thousand years ago. | [11.8] |
+| **Progressive creationism** | God created the cosmos and all life in its present forms, in progressive stages, over a long period of time. | [11.8] |
+| **Theistic evolution** | God created the cosmos and all life billions of years ago and then guided the process of evolution. | [11.8] |
+| **Intelligent design movement** | Scientific movement positing that an intelligent designer best accounts for the information, design, and complexity in life and the cosmos. | [11.7] |
+| **Irreducible complexity** | Argument that complex biological systems could not have gradually evolved because without all components in place, complex systems don't function. | [11.8] |
+| **Microevolution** | The belief that small adaptive changes are capable of producing variations within the gene pool of a species. (A fact of science.) | [11.3] |
+| **Macroevolution** | The belief that small adaptive changes accumulate to produce entirely new species. (Disputed by many Christians.) | [11.3] |
+| **Judeo-Christian origins** | Tells the story of morally culpable human beings made in God's image for companionship — and affirms free will, the intrinsic value of human life, and traditional marriage. | [11.2] |
+
+### From Ch 12 — Psychology
+
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Psychology** | The study of the human soul. | [12.1] |
+| **Mind/body dualism** | The belief that human beings are composed of immaterial minds and material bodies. | [12.8] |
+| **The soul accounts for…** | Identity, free will, and our proclivity to do wrong. | [12.8] |
+| **Source of psychological problems** | Our rebellion against God and against our fellow man — not society alone. | [12.8] |
+| **Matthew 10:28** | "Do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell." | [12.8] |
+| **Three sources of temptation** | The world, the flesh (Eph. 2:1–3), and the devil. | [12.8] |
+| **Positive psychology** | The branch of psychology that focuses on promoting mental health and happiness rather than only treating mental illness. | [12.8] |
+| **Mind as consciousness** | According to Christianity, the mind is consciousness — not reducible to brain. | [12.8] |
+
+### From Ch 13 — Sociology
+
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Sociology** | The study of human societies and institutions. | [13.1] |
+| **Sphere sovereignty** | The belief that God ordained certain spheres of society — family, church, state — and that society functions best when each sphere properly manages its own area of responsibility. | [13.8] |
+| **Subsidiarity** | The belief that decisions are best handled at the organizational or societal level closest to the issues or persons affected. | [13.8] |
+| **Family** | According to Christianity, the family is what holds society together. | [13.8] |
+| **Source of social problems** | According to Christianity, sin (rebellion against God's design) is the best explanation for the failures we see in contemporary society. | [13.8] |
+| **Government's responsibility** | To *secure* human rights — not to create them. | [13.8] |
+| **Church's primary responsibility** | To model community by loving one's neighbor. | [13.8] |
+
+### From Ch 14 — Law
+
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Law** | The study of ordinances designed to help citizens coexist peacefully. | [14.3] |
+| **Natural law** | The belief that laws are rules based upon an internal code of morality possessed by all people. | [14.3] |
+| **Source of divine law** | The character and nature of God. | [14.9] |
+| **Christian assumption** | All human beings have a general concept of right and wrong. | [14.9] |
+| **Christian foundations of law** | Humanity is inherently sinful; humans are created in God's image; government is an institution created by God. | [14.9] |
+| **Christian sources of law** | To understand law, Christians turn to *both* general and special revelation. | [14.9] |
+| **Order** | The administrative aspect of law that focuses on ensuring safety and efficiency. | [14.3] |
+| **Justice** | The enforcement aspect of law that focuses on reasonable, proper, fair, and equal rules. | [14.3] |
+
+### From Ch 15 — Politics
+
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Politics** | The study of community governance. | [15.1] |
+| **Subsidiarity** | The belief that decisions are best handled at the organizational or societal level closest to the issues or persons affected. | [15.9b] |
+| **Sphere sovereignty** | The belief that God ordained three institutions of society — family, church, state — and that society functions best when each sphere is properly managing its own area of responsibility. | [15.9b] |
+| **Government's primary mission** | In a fallen world, to preserve justice and punish evil. | [15.8] |
+| **Romans 13:1–7** | God ordained government as a sacred institution; rulers are supposed to be his ministers of good. | [15.8] |
+| **1 Peter 2:13–14** | Christians are commanded to submit to governing authorities. | [15.8] |
+| **Acts 5:27** | "We must obey God rather than men." (The limit on civil submission.) | [15.9b] |
+| **Government's purpose** | Government was instituted by God to *protect* — not create — human rights. | [15.9b] |
+
+### From Ch 16 — Economics
+
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **Economics** | The study of the management of resources. | [16.1] |
+| **Biblical stewardship** | The act of managing and caring for resources that ultimately belong to God. | [16.10] |
+| **Right to property** | According to Christian economics, our right to own property stems from our duty to work. | [16.10] |
+| **Accountability** | We are accountable to *God* — not to no one — for how we use and steward our property. | [16.10] |
+| **Proverbs 16:8** | "Better is a little with righteousness than great revenues with injustice." | [16.10] |
+| **Proverbs 10:4** | "A slack hand causes poverty, but the hand of the diligent makes rich." | [16.10] |
+| **Proverbs 14:23** | "In all toil there is profit, but mere talk tends only to poverty." | [16.10] |
+| **Private property** | The commandments against stealing and coveting presuppose the legitimacy of private property. | [16.10] |
+
+### From Ch 17 — History
+
+| Term / Reference | Definition / Context | Code |
+|---|---|---|
+| **History** | The study of past places, persons, and events. | [17.1] |
+| **Redemptive narrative** | The Christian metanarrative that describes the course of history unfolding according to the biblical chronicle of God's creative act, humanity's rebellion, Christ's redemptive sacrifice, and God's eventual restoration of his creation. | [17.9] |
+| **Linear conception of history** | The belief that history follows a chronological pattern of cause and effect. (Christianity's view.) | [17.9b] |
+| **Cyclical conception of history** | The belief that history follows a repeating pattern of recurring ages. (Hindu / Buddhist view; rejected by Christianity.) | [17.9b] |
+| **Christianity is rooted in history** | Christianity makes specific claims about specific past events. If those events did not happen, the faith collapses (1 Cor. 15:14). | [17.9a] |
+| **God works through our actions** | According to the Christian worldview, God works *through* our actions to direct history toward his ultimate end. | [17.9b] |
 
 ---
 
@@ -365,4 +512,4 @@ Before printing this packet, the teacher may wish to add or substitute the follo
 
 ---
 
-*Reading-packet built 2026-05-09. For the unit's day-by-day teaching plan, see [teaching-map.md](../teaching-map.md) §Unit 1. For the four-test framework applied in Day 8, see Unit 0 materials.*
+*Reading-packet regenerated 2026-05-09 with full Ch 8–17 vocabulary. For the unit's day-by-day teaching plan, see [teaching-map.md](../teaching-map.md) §Unit 1. For the four-test framework applied in Day 8, see Unit 0 materials.*
