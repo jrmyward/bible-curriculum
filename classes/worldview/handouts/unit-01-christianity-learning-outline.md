@@ -188,4 +188,4 @@ Plus: hand in your **Doug Letter** (1–2 pages) at the start of class.
 
 ---
 
-*The reading packet ([unit-01-christianity-reading-packet.md](unit-01-christianity-reading-packet.md)) is the long-form content. This outline is the spine. The Day-13 test ([unit-01-christianity-test-student.md](../assessments/unit-01-christianity-test-student.md)) is the demonstration.*
+*The reading packet ([reading-packet.md](unit-01-christianity-reading-packet.md)) is the long-form content. This outline is the spine. The [lecture companion](../lectures/unit-01-christianity-lecture-companion.md) (teacher-only) provides the at-the-podium choreography for Days 1, 2, 3, 4, 8, 9, 10. The [facilitation guide](unit-01-christianity-facilitation-guide.md) covers the discussion/activity days (5, 6, 7, 11, 12, 13). The Day-13 test ([test-student.md](../assessments/unit-01-christianity-test-student.md)) is the demonstration.*

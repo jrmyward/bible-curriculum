@@ -277,7 +277,7 @@ Question types follow the publisher's exact format: MC (1pt) → T/F with correc
 
 ---
 
-*Test built 2026-05-09; revised 2026-05-09 to remove unstudied-worldview presuppositions. Source breakdown: 28 items from publisher Ch 02 Test (24 verbatim + 4 adapted to remove references to worldviews students have not yet studied); 22 items from publisher Ch 8–17 Tests (discipline-comparative, Christianity-relevant); 1 locally-built essay drawn from Day 8 Four-Test exercise. Coordinates with [unit-01-christianity-reading-packet.md](../handouts/unit-01-christianity-reading-packet.md) and [unit-01-christianity-lecture-notes-teacher.md](../lectures/unit-01-christianity-lecture-notes-teacher.md).*
+*Test built 2026-05-09; revised 2026-05-09 to remove unstudied-worldview presuppositions. Source breakdown: 28 items from publisher Ch 02 Test (24 verbatim + 4 adapted to remove references to worldviews students have not yet studied); 22 items from publisher Ch 8–17 Tests (discipline-comparative, Christianity-relevant); 1 locally-built essay drawn from Day 8 Four-Test exercise. Coordinates with [reading-packet.md](../handouts/unit-01-christianity-reading-packet.md), [learning-outline.md](../handouts/unit-01-christianity-learning-outline.md), [lecture-companion.md](../lectures/unit-01-christianity-lecture-companion.md), and [facilitation-guide.md](../handouts/unit-01-christianity-facilitation-guide.md).*
 
 **Items adapted from publisher original** (worldview-first ordering means students have not yet studied Islam, New Spirituality, or Postmodernism at end of Unit 1):
 

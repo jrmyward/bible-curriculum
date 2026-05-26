@@ -1,6 +1,21 @@
 # Pilot Prompt: End-to-End Unit 1 (Christianity) Production
 
-Copy-paste the section below into a fresh Claude Code session in this repo. The pilot produces the three remaining Unit 1 artifacts (reading packet regeneration, lecture notes, blended chapter test) and surfaces any skill-spec issues before scaling to other units.
+> **⚠ Superseded — historical record only. Do not copy-paste as-is for other units.**
+>
+> This prompt was executed for Unit 1 in commits `b946f09` → `7280864` → `d4157d2`. The final commit pivoted the unit's artifact architecture: the two `lecture-notes-*.md` files that this prompt's Step 2 produced were **deleted** and replaced by `learning-outline.md` + `learning-outline-student.md` (in `handouts/`, organized by lens rather than by lecture day). See the pivot commit message for the design rationale.
+>
+> **Consequence:** re-running this prompt for any other unit will reintroduce the deleted lecture-notes architecture, because `/build-blended-lecture-notes` (Step 2) has not been updated to match the post-pivot model. Before scaling to Units 2–9, decide one of:
+>
+> 1. **Update the skill spec** (`.claude/commands/build-blended-lecture-notes.md`) to output the learning-outline pair instead of the lecture-notes pair. Then a revised version of this prompt becomes safe to reuse.
+> 2. **Replace it** with a new `/build-learning-outline` skill modeled on the Unit 1 outline structure.
+> 3. **Hand-build** subsequent units' outlines following the Unit 1 pattern without a skill.
+>
+> Two questions the pivot commit explicitly deferred and that should be settled before a second-unit pilot:
+>
+> - Whether the learning outline should follow the reading packet's flow (the packet has Christian Story narrative + primary sources the outline currently doesn't cover).
+> - What a "lecture companion" artifact should look like — i.e., the teacher-only depth-and-character layer described in the lecture-philosophy memory but not currently committed as a file. Until this is settled the per-unit architecture remains five files (reading packet + learning outline ×2 + test ×2), not six.
+>
+> The original prompt text follows below for the historical record.
 
 ---
 
