@@ -63,5 +63,8 @@ This file is the teacher-facing summary. For the sub's day-of materials, see the
 
 ## Links
 
-- Full sub plan: [substitute-plan-friday.md](substitute-plan-friday.md)
+- **Full sub plan:** [substitute-plan-friday.md](substitute-plan-friday.md)
+- [Unit 0 facilitation guide §Day 5](../../handouts/unit-00-foundations-facilitation-guide.md) — unit-level sub-day pointer
+- [Reflection journal handout](handouts/reflection-journal-aug28.md) — what students complete
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 5
+- School calendar (source of truth for sub days): [_shared/school-calendar-2026-27.md](../../../../_shared/school-calendar-2026-27.md)

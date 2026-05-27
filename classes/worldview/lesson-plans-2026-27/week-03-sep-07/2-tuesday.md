@@ -105,5 +105,17 @@ Students work silently for 15 minutes. No textbooks, no notes.
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 reading packet §Part 8 (Doug Letter Preview) + §Part 9 (Publisher Vocabulary)](../../handouts/unit-00-foundations-reading-packet.md)
+- [Unit 0 learning outline §Section 9](../../handouts/unit-00-foundations-learning-outline.md)
+- [Unit 0 lecture companion §Day 10](../../lectures/unit-00-foundations-lecture-companion.md) — verbal review + test admin script
+- [Unit 0 facilitation guide §Day 10](../../handouts/unit-00-foundations-facilitation-guide.md) — full test administration logistics
+- **[Unit 0 blended test (teacher key)](../../assessments/unit-00-foundations-test-teacher.md) — what you administer today**
+- [Unit 0 blended test (student copy)](../../assessments/unit-00-foundations-test-student.md) — print one per student
+- [Local unit-00-quiz](handouts/unit-00-quiz.md) — superseded by the blended test above; retained for reference
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 10 + § Unit 1
 - Worldview grid: [../../worldview-grid.md](../../worldview-grid.md) — Christianity column is the Unit 1 target

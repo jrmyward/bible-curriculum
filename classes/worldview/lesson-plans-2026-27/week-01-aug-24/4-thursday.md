@@ -89,6 +89,15 @@ None today.
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 reading packet §Part 5 (The Four Tests)](../../handouts/unit-00-foundations-reading-packet.md)
+- [Unit 0 learning outline §Section 5](../../handouts/unit-00-foundations-learning-outline.md)
+- [Unit 0 lecture companion §Day 4](../../lectures/unit-00-foundations-lecture-companion.md) — 5 min per test, worked examples
+- [Unit 0 facilitation guide §Day 4](../../handouts/unit-00-foundations-facilitation-guide.md) — 12-min small-group worksheet template
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 4
 - Worldview grid: [../../worldview-grid.md](../../worldview-grid.md) — print as poster for the classroom wall
 - Tomorrow's sub plan: [substitute-plan-friday.md](substitute-plan-friday.md)

@@ -93,5 +93,15 @@ None today — journals returned.
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 reading packet §Part 6 (Steel-Manning)](../../handouts/unit-00-foundations-reading-packet.md)
+- [Unit 0 learning outline §Section 6](../../handouts/unit-00-foundations-learning-outline.md)
+- [Unit 0 lecture companion §Day 6](../../lectures/unit-00-foundations-lecture-companion.md) — straw/steel teaching with examples
+- [Unit 0 facilitation guide §Day 6](../../handouts/unit-00-foundations-facilitation-guide.md) — 10-min pair practice protocol
+- [steel-manning-vs-straw-manning handout](handouts/steel-manning-vs-straw-manning.md) — printable
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 6
 - Cohort tools reference: [_shared/cohort-tools.md](../../../../_shared/cohort-tools.md)

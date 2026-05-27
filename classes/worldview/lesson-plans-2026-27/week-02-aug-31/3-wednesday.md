@@ -107,6 +107,13 @@ None today. Practice Pair & Defend is ungraded.
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 lecture companion §Day 8](../../lectures/unit-00-foundations-lecture-companion.md) — 5 min per cohort tool walk-through
+- [Unit 0 facilitation guide §Day 8](../../handouts/unit-00-foundations-facilitation-guide.md) — 17-min mini Pair & Defend protocol
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 8
 - Cohort tools: [_shared/cohort-tools.md](../../../../_shared/cohort-tools.md)
 - Full Pair & Defend rubric: [_shared/cohort-tools.md](../../../../_shared/cohort-tools.md) § B

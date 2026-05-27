@@ -87,5 +87,14 @@ Possible pushbacks students may raise — prepare for these:
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 reading packet §Part 2 (Why Study Worldviews?)](../../handouts/unit-00-foundations-reading-packet.md)
+- [Unit 0 lecture companion §Day 3](../../lectures/unit-00-foundations-lecture-companion.md) — guided-reading chunking strategy
+- [myers-ch01-excerpts handout](handouts/myers-ch01-excerpts.md) — backup if textbooks aren't in students' hands
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 3
 - Myers: *Understanding the Times* Ch 1 "Battle of Ideas"
+- Source markdown: [../../_source-text/textbook/ch01.md](../../_source-text/textbook/ch01.md)

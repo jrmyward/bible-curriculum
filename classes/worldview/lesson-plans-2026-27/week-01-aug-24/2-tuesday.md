@@ -86,5 +86,15 @@ After presenting all 10, clarify: *"These are the 10 lenses we'll use on every w
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 reading packet §Part 3 (The 10 Disciplines)](../../handouts/unit-00-foundations-reading-packet.md)
+- [Unit 0 learning outline §Section 3](../../handouts/unit-00-foundations-learning-outline.md)
+- [Unit 0 lecture companion §Day 2](../../lectures/unit-00-foundations-lecture-companion.md) — at-the-podium choreography
+- [Unit 0 facilitation guide §Day 2](../../handouts/unit-00-foundations-facilitation-guide.md) — 20-min independent-writing block
+- [10-worldview-questions handout](handouts/10-worldview-questions.md) — printable for students
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 2
 - Worldview grid: [../../worldview-grid.md](../../worldview-grid.md) (the 10 disciplines are the rows)

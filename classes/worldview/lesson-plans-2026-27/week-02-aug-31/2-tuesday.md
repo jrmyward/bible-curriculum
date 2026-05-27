@@ -113,5 +113,14 @@ You'll practice each one. The final exam has an oral Gospel-conversation compone
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 reading packet §Part 4 (The Worldviews We Will Study)](../../handouts/unit-00-foundations-reading-packet.md)
+- [Unit 0 learning outline §Section 4](../../handouts/unit-00-foundations-learning-outline.md)
+- [Unit 0 lecture companion §Day 7](../../lectures/unit-00-foundations-lecture-companion.md) — 3 min per worldview column
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0 Day 7
+- Worldview grid: [../../worldview-grid.md](../../worldview-grid.md) — print as wall poster if not already
 - Cohort tools: [_shared/cohort-tools.md](../../../../_shared/cohort-tools.md)

@@ -90,5 +90,16 @@ None today.
 
 ## Links
 
+**Unit-level artifacts** (source of truth — see for content depth):
+
+- [Unit 0 reading packet](../../handouts/unit-00-foundations-reading-packet.md) — student-facing content (hand out today)
+- [Unit 0 learning outline (teacher)](../../handouts/unit-00-foundations-learning-outline.md)
+- [Unit 0 learning outline (student fill-in)](../../handouts/unit-00-foundations-learning-outline-student.md) — hand out today
+- [Unit 0 lecture companion §Day 1](../../lectures/unit-00-foundations-lecture-companion.md) — at-the-podium choreography for today
+- [Unit 0 facilitation guide §Day 1](../../handouts/unit-00-foundations-facilitation-guide.md) — full 15-min structure for the opening question
+- [Unit 0 blended test (Day-10 demonstration)](../../assessments/unit-00-foundations-test-teacher.md) — what we're building toward
+
+**Other references:**
+
 - Teaching map: [../../teaching-map.md](../../teaching-map.md) § Unit 0
 - Worldview grid: [../../worldview-grid.md](../../worldview-grid.md)
