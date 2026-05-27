@@ -3,7 +3,7 @@
 **Course:** Understanding the Times — A Survey of Competing Worldviews
 **Unit:** 1 — Christianity (the baseline)
 **Dates:** Sep 9 – Sep 28, 2026 (13 instructional days)
-**Lecture-bearing days covered:** 1 (Framing) · 2 (Deep Dive Pt 1) · 3 (Deep Dive Pt 2) · 4 (Deep Dive Pt 3) · 8 (Four-Test) · 9 (Christian Family) · 10 (Contemporary Resource)
+**Lecture-bearing days covered:** 1 (Framing) · 2 (Deep Dive Pt 1) · 3 (Deep Dive Pt 2) · 4 (Deep Dive Pt 3) · 8 (Contemporary Resource — **SUB DAY**) · 9 (Christian Family) · 10 (Four-Test self-application)
 
 ---
 
@@ -428,11 +428,13 @@ Hand back any prep questions students submitted; remind them to bring written qu
 
 ---
 
-## Day 8 — Four-Test Self-Application [10 min lecture frame, then small-group facilitation]
+## Day 10 — Four-Test Self-Application [10 min lecture frame, then small-group facilitation]
+
+*(Originally scheduled for Day 8 Mon Sep 21; swapped with the Contemporary Resource day so the Four-Test exercise lands on a teacher day rather than the Sep 21 sub day. The model-exercise framing this day carries — "every later unit's Day 7 follows this template" — depends on the teacher of record delivering it. Hence the swap.)*
 
 **Goal:** Equip students to apply Myers's four tests (Reason, Outer World, Inner World, Real-World Consequences) to *Christianity itself*. This is the **model exercise** for the entire course — every Day 7 of every later unit follows this template. Get the rhythm right here.
 
-**Lecture frame (10 min) — small group structure is in [facilitation-guide.md](../handouts/unit-01-christianity-facilitation-guide.md) Day 8.**
+**Lecture frame (10 min) — small group structure is in [facilitation-guide.md](../handouts/unit-01-christianity-facilitation-guide.md) Day 10.**
 
 ### Opening [3 min]
 
@@ -462,7 +464,7 @@ Walk through Test 1 (Reason) as the example:
 
 "That's the shape. Apply it to two of the four tests. Now go to your groups."
 
-→ Hand off to small-group activity. See [facilitation-guide.md](../handouts/unit-01-christianity-facilitation-guide.md) Day 8 for the worksheet, group structure, and debrief.
+→ Hand off to small-group activity. See [facilitation-guide.md](../handouts/unit-01-christianity-facilitation-guide.md) Day 10 for the worksheet, group structure, and debrief.
 
 ---
 
@@ -547,11 +549,13 @@ Mormonism uses Christian vocabulary — "Jesus," "God," "salvation" — but mean
 
 ### Bridge [2 min]
 
-"Day 10 is the contemporary resource. Day 11 we practice the Gospel conversation. Read whatever the teacher posts tonight. Bring questions tomorrow."
+"Day 10 is the Four-Test self-application. Day 11 we practice the Gospel conversation. Read whatever the teacher posts tonight. Bring questions tomorrow." *(Tue Sep 22 is Day 9; Wed Sep 23 is Day 10.)*
 
 ---
 
-## Day 10 — Contemporary Resource [50 min]
+## Day 8 — Contemporary Resource (SUB DAY — Mon Sep 21) [50 min]
+
+*(Originally scheduled for Day 10 Wed Sep 23; swapped with the Four-Test exercise so that Sep 21 — a planned sub day — lands on the most sub-friendly day of the unit. The Contemporary Resource day is a video-based day with a structured debrief; a substitute can run it cleanly with the materials below.)*
 
 **Goal:** Show students *how a thoughtful Christian articulates the worldview today.* This is the only day of the unit where the material is teacher-curated and content varies. Not a content day so much as a *demonstration* day — students should leave thinking "Christians who are smart, honest, and contemporary exist."
 
@@ -563,7 +567,7 @@ Mormonism uses Christian vocabulary — "Jesus," "God," "salvation" — but mean
 
 3. **Rebecca McLaughlin — a video from her *Confronting Christianity* series** (typically 10–15 min apiece on YouTube; pick the one on "Is Christianity homophobic?" or "Hasn't science disproven Christianity?" depending on what your students are wrestling with). McLaughlin is a Cambridge-trained theologian who specializes in the questions teenagers and young adults actually ask.
 
-**Sub-friendliness note:** If you're handing this day to a sub, queue up the video in advance, leave the link in your sub plan, and use the facilitation-guide.md Day 10 prompts.
+**Sub-friendliness note:** Mon Sep 21 IS a planned sub day. Before leaving on Friday: queue up the video; print the 3×5 cards or paper for the debrief; leave the video link, this companion section, and the rubric on the desk. The structure below is self-contained — a sub follows it as written. The full sub plan is at `week-05-sep-21/substitute-plan-monday.md`.
 
 ### Structure [50 min]
 
@@ -606,18 +610,18 @@ Mormonism uses Christian vocabulary — "Jesus," "God," "salvation" — but mean
 | 4 | 25–35 | Lens 9 — Economics |
 | 4 | 35–45 | Lens 10 — History |
 | 4 | 45–50 | Synthesis + bridge |
-| 8 | 0–10 | Four-Test lecture frame |
-| 8 | 10–45 | Small-group worksheet (see facilitation guide) |
-| 8 | 45–50 | Whole-class synthesis |
+| **8 (SUB)** | 0–5 | Frame the resource |
+| **8 (SUB)** | 5–40 | Watch (length varies) |
+| **8 (SUB)** | 40–48 | Debrief |
+| **8 (SUB)** | 48–50 | Bridge |
 | 9 | 0–5 | Opening |
 | 9 | 5–15 | What all three share (Nicene minimum) |
 | 9 | 15–40 | Where they diverge (Catholic 8, Orthodox 8, Protestant 8) |
 | 9 | 40–48 | Where the line ends — Mormonism/JW boundary |
 | 9 | 48–50 | Bridge |
-| 10 | 0–5 | Frame the resource |
-| 10 | 5–40 | Watch (length varies) |
-| 10 | 40–48 | Debrief |
-| 10 | 48–50 | Bridge |
+| 10 | 0–10 | Four-Test lecture frame |
+| 10 | 10–45 | Small-group worksheet (see facilitation guide) |
+| 10 | 45–50 | Whole-class synthesis |
 
 ---
 
@@ -635,7 +639,7 @@ Welcome. This unit's design is dense but workable.
 
 **If you don't know an answer to a student question:** *"That's a question for Mr. Ward when he's back. Hold onto it and let's keep moving."* That is a complete answer. Don't improvise theology.
 
-**What to collect at end of class:** Day 1 — nothing. Days 2/3/4 — nothing (students keep their outlines). Day 8 — small-group worksheets (graded for completion, not correctness). Day 9 — nothing. Day 10 — a 3×5 card from each student with their one "thing that struck me" and one question.
+**What to collect at end of class:** Day 1 — nothing. Days 2/3/4 — nothing (students keep their outlines). Day 8 (Contemporary Resource, SUB) — a 3×5 card from each student with their one "thing that struck me" and one question. Day 9 — nothing. Day 10 (Four-Test) — small-group worksheets (graded for completion, not correctness).
 
 ---
 

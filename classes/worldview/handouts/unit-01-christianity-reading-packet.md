@@ -507,9 +507,9 @@ Before printing this packet, the teacher may wish to add or substitute the follo
 
 - **A second Bible translation alongside the ESV/KJV used by students** for Mark passages — useful for Pair & Defend on translation choices.
 - **Tim Keller's *The Reason for God* — chapter 9** ("The Knowledge of God") — would make a strong third primary source if the teacher has the print rights or a fair-use excerpt available; not included here because it is under copyright.
-- **A sermon or video clip from a contemporary thoughtful Christian** — Tim Keller's "Skeptics Welcome" sermon and Francis Collins's *The Language of God* interview are both referenced in the unit's Day 10. Linkable resources are not embedded here; teacher to select for class.
+- **A sermon or video clip from a contemporary thoughtful Christian** — Tim Keller's "Skeptics Welcome" sermon and Francis Collins's *The Language of God* interview are both referenced in the unit's Day 8 (Contemporary Resource — Mon Sep 21, a sub day). Linkable resources are not embedded here; teacher to select for class.
 - **Apostles' Creed (the older and shorter sister of the Nicene Creed)** — could replace the Nicene Creed if the teacher prefers; both are public-domain. The Nicene was chosen here because it is more explicit about the Trinity and the resurrection, which are key for later units.
 
 ---
 
-*Reading-packet regenerated 2026-05-09 with full Ch 8–17 vocabulary. For the unit's day-by-day teaching plan, see [teaching-map.md](../teaching-map.md) §Unit 1. For the four-test framework applied in Day 8, see Unit 0 materials.*
+*Reading-packet regenerated 2026-05-09 with full Ch 8–17 vocabulary; Day 8 ↔ Day 10 cross-references updated 2026-05-26. For the unit's day-by-day teaching plan, see [teaching-map.md](../teaching-map.md) §Unit 1. For the four-test framework applied in Day 10 (Wed Sep 23 — the Four-Test self-application moved from Day 8 to land on a teacher day after the Sep 21 sub day), see the Unit 0 reading packet and learning outline for the framework's introduction.*

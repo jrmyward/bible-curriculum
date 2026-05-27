@@ -15,7 +15,7 @@ This is a *blended* test in two halves:
 
 - **Worldview-comprehensive items** — drawn verbatim from the publisher's UTT Chapter 02 Test (the dual-credit alignment standard for Christianity). These test holistic mastery of the Christian worldview as a whole. Reference codes like `[2.5]` point to the publisher's Ch 02 chapter test, Section 5.
 - **Discipline-comparative items** — drawn from the publisher's Ch 8–17 chapter tests, filtered for items that specifically test Christianity's view of theology, philosophy, ethics, biology, psychology, sociology, law, politics, economics, and history. Reference codes like `[8.6]` point to Ch 8 Theology, Section 6. Items originally cross-comparative ("Which worldviews deny X?") have been adapted to per-worldview phrasing where needed.
-- **One locally-built essay item** at the end. Reference code: `[U1.Day8]` — built from the Day 8 Four-Test exercise.
+- **One locally-built essay item** at the end. Reference code: `[U1.Day10]` — built from the Day 10 Four-Test exercise. *(Originally `[U1.Day8]` before the Day 8 ↔ Day 10 swap that moved the Four-Test exercise to Wed Sep 23 so it lands on a teacher day rather than the Sep 21 sub day.)*
 
 Question types follow the publisher's exact format: MC (1pt) → T/F with correction (1pt) → Fill-in-blank (2pt) → Short answer (3pt) → Essay (4pt). No matching section, since the publisher's Ch 02 test does not include one.
 
@@ -277,7 +277,7 @@ Question types follow the publisher's exact format: MC (1pt) → T/F with correc
 
 ---
 
-*Test built 2026-05-09; revised 2026-05-09 to remove unstudied-worldview presuppositions. Source breakdown: 28 items from publisher Ch 02 Test (24 verbatim + 4 adapted to remove references to worldviews students have not yet studied); 22 items from publisher Ch 8–17 Tests (discipline-comparative, Christianity-relevant); 1 locally-built essay drawn from Day 8 Four-Test exercise. Coordinates with [reading-packet.md](../handouts/unit-01-christianity-reading-packet.md), [learning-outline.md](../handouts/unit-01-christianity-learning-outline.md), [lecture-companion.md](../lectures/unit-01-christianity-lecture-companion.md), and [facilitation-guide.md](../handouts/unit-01-christianity-facilitation-guide.md).*
+*Test built 2026-05-09; revised 2026-05-09 to remove unstudied-worldview presuppositions; updated 2026-05-26 to reflect Day 8 ↔ Day 10 swap (Four-Test exercise now on Wed Sep 23, Day 10). Source breakdown: 28 items from publisher Ch 02 Test (24 verbatim + 4 adapted to remove references to worldviews students have not yet studied); 22 items from publisher Ch 8–17 Tests (discipline-comparative, Christianity-relevant); 1 locally-built essay drawn from Day 10 Four-Test exercise. Coordinates with [reading-packet.md](../handouts/unit-01-christianity-reading-packet.md), [learning-outline.md](../handouts/unit-01-christianity-learning-outline.md), [lecture-companion.md](../lectures/unit-01-christianity-lecture-companion.md), and [facilitation-guide.md](../handouts/unit-01-christianity-facilitation-guide.md).*
 
 **Items adapted from publisher original** (worldview-first ordering means students have not yet studied Islam, New Spirituality, or Postmodernism at end of Unit 1):
 

@@ -420,7 +420,7 @@ ____________________________________________________________
 
 ---
 
-## The Four Tests (Day 8)
+## The Four Tests (Day 10)
 
 1. **Reason** — what does this test ask?
 
@@ -501,7 +501,7 @@ Plus: hand in your **Doug Letter** (1–2 pages) at the start of class.
 1. **After Day 1:** Fill in *By the end of Unit 1…* outcomes 1–3 and the Eight Anchors table.
 2. **During Days 2–4 (Deep Dive):** As each lens is taught, fill in that lens completely.
 3. **Before Day 5 (Socratic Seminar):** Draft 2–3 questions you still have. Bring them.
-4. **Before Day 8 (Four-Test):** Make sure the Four Tests section is filled in *for Christianity itself*.
+4. **Before Day 10 (Four-Test):** Make sure the Four Tests section is filled in *for Christianity itself*. *(Mon Sep 21 = Day 8 = sub day. Wed Sep 23 = Day 10 = Four-Test.)*
 5. **Before Day 9 (intra-Christian survey):** Re-read what you've filled in so far so you can see what stays constant across Catholic / Orthodox / Protestant.
 6. **Before Day 11 (Gospel-conversation practice):** Re-read the *Doug Letter Preview* in the reading packet. Sketch your responses to all four of Doug's questions.
 7. **Before Day 12 (Worldview Brief writing):** Make sure you can fill the Christianity column of the grid from memory.

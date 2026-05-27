@@ -83,7 +83,7 @@ The four tests are the apologetic spine of the course's "defend the faith" goal.
 ## Academic Year at a Glance
 
 **Total Instructional Days:** 155 (T1: 51 • T2: 54 • T3: 50)
-**Teacher Absence / Sub Days:** 7 (Aug 28, Sep 3, Apr 5, Apr 12, Apr 19, Apr 26, May 3)
+**Teacher Absence / Sub Days:** 8 (Aug 28, Sep 3, Sep 21, Apr 5, Apr 12, Apr 19, Apr 26, May 3)
 
 | Trimester | Dates | Days | Units | Synthesis |
 |-----------|-------|------|-------|-----------|
@@ -241,9 +241,9 @@ This unit is the longest (13 days instead of 9) because students need to know th
 | 5 | Tue Sep 15 | Socratic Seminar. Students drive discussion from their reading. Questions submitted in advance shape the conversation. |
 | 6 | Wed Sep 16 | Pair & Defend (two-round both-sides): *"Christianity's claim to be the one true worldview is reasonable"* vs. *"Christianity's claim to be the one true worldview is arrogant."* |
 | 7 | Thu Sep 17 | Case Study: a 22-year-old Christian who just lost her father to cancer. How does the Christian worldview answer her at each of the 10 lenses? Where does it comfort? Where does it demand hard truth? |
-| 8 | Mon Sep 21 | *(Fri Sep 18 = Teacher Work Day.)* Four-Test self-application. Apply the four tests to Christianity itself: where does it pass cleanly? Where does it raise hard questions students need to be ready to answer? This is the model exercise — every later unit's Day 7 follows this template. |
+| 8 | **Mon Sep 21 (SUB)** | *(Fri Sep 18 = Teacher Work Day.)* **SUB DAY.** Contemporary Resource: Tim Keller sermon or Francis Collins interview (teacher-selected). How is a thoughtful Christian articulating the worldview today? Video + reflection structure makes this day naturally sub-friendly; the Four-Test self-application (originally Day 8) is moved to Day 10 so it lands on a teacher day. |
 | 9 | Tue Sep 22 | The Christian worldview vs. itself: what do we do with the differences inside Christianity (Catholic, Protestant, Orthodox)? Brief survey. Why do these differences matter or not matter at the worldview level? |
-| 10 | Wed Sep 23 | Contemporary Resource (held this unit only): Tim Keller sermon or Francis Collins interview (teacher-selected). How is a thoughtful Christian articulating the worldview today? |
+| 10 | Wed Sep 23 | Four-Test self-application. Apply the four tests to Christianity itself: where does it pass cleanly? Where does it raise hard questions students need to be ready to answer? This is the model exercise — every later unit's Day 7 follows this template. *(Originally scheduled for Day 8; swapped with the Contemporary Resource day so it lands on a teacher day after the Sep 21 sub day.)* |
 | 11 | Thu Sep 24 | The Gospel in one conversation. How would you articulate the Gospel to someone who has no Christian background? Practice in pairs. This is the foundational exercise we will return to for every subsequent unit. |
 | 12 | Fri Sep 25 | Worldview Brief — students write the Christianity brief. This becomes their reference document for the rest of the year. |
 | 13 | Mon Sep 28 | Unit 1 Assessment. Short test (20 questions + 1 short essay). Bridge to Unit 2: what does Christianity claim about its own origins? That leads us to Judaism. |
@@ -855,7 +855,7 @@ This course uses four cohort tools throughout. Full specifications are in [_shar
 
 2. **The reading packets are load-bearing.** See [teaching-methodology.md](teaching-methodology.md). One per worldview unit, 10–20 pages, built once over the summer. Without them, class time gets consumed doing what packets should have done, and the course quietly drifts toward the textbook's discipline-first structure. Plan the summer prep work in.
 
-3. **SUB days are instructional.** There are 7 sub days in the year (Aug 28, Sep 3, Apr 5, Apr 12, Apr 19, Apr 26, May 3). Each is marked **SUB DAY** in the day-by-day schedules above with a specific activity suitable for a substitute to facilitate. Generate detailed substitute plans via `/generate-substitute-plan <week> <day>` when needed.
+3. **SUB days are instructional.** There are 8 sub days in the year (Aug 28, Sep 3, Sep 21, Apr 5, Apr 12, Apr 19, Apr 26, May 3). Each is marked **SUB DAY** in the day-by-day schedules above with a specific activity suitable for a substitute to facilitate. Generate detailed substitute plans via `/generate-substitute-plan <week> <day>` when needed.
 
 4. **Units 2 and 4 require primary source sourcing.** Judaism and Mormonism are not covered in Myers/Noebel. Budget prep time to assemble primary source excerpts before each unit begins. Unit 9 (Revolutionary Lineage) has [unit-09-revolutionary-lineage-outline.md](unit-09-revolutionary-lineage-outline.md) as a draft resource for the Progressivism bridge.
 

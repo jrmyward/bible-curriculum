@@ -137,16 +137,16 @@ Each lens is structured the same way:
 
 ---
 
-## The Four Tests (Day 8)
+## The Four Tests (Day 10)
 
-Myers's four-test framework lets us evaluate any worldview, including our own. On Day 8 you will apply these to Christianity itself. By the unit's end, you should be able to apply two of the four to Christianity and articulate one strength and one pressure point for each.
+Myers's four-test framework lets us evaluate any worldview, including our own. On Day 10 (Wed Sep 23) you will apply these to Christianity itself in a small-group exercise. By the unit's end, you should be able to apply two of the four to Christianity and articulate one strength and one pressure point for each.
 
 1. **Reason** — Is the worldview internally coherent? Does it contradict itself?
 2. **Outer World** — Does the worldview match what we observe in nature, history, and human experience?
 3. **Inner World** — Does the worldview match our deepest moral, aesthetic, and relational intuitions?
 4. **Real-World Consequences** — When the worldview is lived at scale, what fruit does it bear?
 
-You will use this framework against every other worldview in the course. Day 8 is the model exercise.
+You will use this framework against every other worldview in the course. Day 10 is the model exercise.
 
 ---
 
@@ -181,7 +181,7 @@ Plus: hand in your **Doug Letter** (1–2 pages) at the start of class.
 1. **After Day 1:** Read the framing and the eight anchors. Understand the unit's shape.
 2. **During Days 2–4 (Deep Dive):** As each lens is taught, return to that section here and confirm you can articulate Christianity's answer + Scripture anchor + key terms in your own words.
 3. **Before Day 5 (Socratic Seminar):** Draft 2–3 questions you still have. Bring them to class.
-4. **Before Day 8 (Four-Test):** Re-read the Four Tests section. Pick two tests you're most confident applying.
+4. **Before Day 10 (Four-Test):** Re-read the Four Tests section. Pick two tests you're most confident applying. *(Mon Sep 21 = Day 8 = sub day, Contemporary Resource. Tue Sep 22 = Day 9 = Christian Family. Wed Sep 23 = Day 10 = Four-Test.)*
 5. **Before Day 11 (Gospel conversation practice):** Re-read the Doug Letter Preview in the reading packet. Sketch your responses to all four of Doug's questions.
 6. **Before Day 12 (Worldview Brief writing):** Make sure you can fill the Christianity column of the grid from memory.
 7. **Before Day 13 (assessment):** Quiz yourself on every term in the *Publisher Vocabulary* lists above. If you can define each in your own words AND match it to the publisher's exact phrase, you're ready.

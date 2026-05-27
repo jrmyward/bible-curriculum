@@ -3,7 +3,7 @@
 **Course:** Understanding the Times — A Survey of Competing Worldviews
 **Unit:** 1 — Christianity (the baseline)
 **Dates:** Sep 9 – Sep 28, 2026 (13 instructional days)
-**Days covered:** 5 (Socratic) · 6 (Pair & Defend) · 7 (Case Study) · 8 (Four-Test small-group worksheet) · 11 (Gospel Conversation roleplay) · 12 (Worldview Brief writing) · 13 (Doug Letter due + Test logistics)
+**Days covered:** 5 (Socratic) · 6 (Pair & Defend) · 7 (Case Study) · 10 (Four-Test small-group worksheet — swapped from Day 8 to land on a teacher day, since Sep 21 is a planned sub day) · 11 (Gospel Conversation roleplay) · 12 (Worldview Brief writing) · 13 (Doug Letter due + Test logistics)
 
 ---
 
@@ -274,7 +274,7 @@ Land the closing point: *"You are going to have a version of this conversation i
 
 ### Final 2 min
 
-Bridge: "Tomorrow is Day 8 — Four-Test self-application. We will apply Myers's four tests to Christianity itself. Re-read Part 1 of the reading packet tonight, especially the Eight Anchors. Tomorrow's small-group work assumes you have it cold."
+Bridge: "Tomorrow is no school. Monday is a sub day — Day 8 will be a contemporary-resource video (a thoughtful Christian voice from today). We pick up Tuesday with Day 9 (Catholic / Orthodox / Protestant) and Wednesday is Day 10 — Four-Test self-application, where we apply Myers's four tests to Christianity itself. Re-read Part 1 of the reading packet over the weekend, especially the Eight Anchors; the small-group work on Day 10 assumes you have them cold."
 
 ### What to collect
 
@@ -294,11 +294,13 @@ A sub can run this — the case is printed, the worksheet is printed, the struct
 
 ---
 
-## Day 8 — Four-Test Self-Application: Small-Group Worksheet [35 min after 10-min lecture frame]
+## Day 10 — Four-Test Self-Application: Small-Group Worksheet [35 min after 10-min lecture frame]
+
+*(Originally scheduled for Day 8 Mon Sep 21; swapped with the Contemporary Resource day so the Four-Test exercise — the model exercise of the year — lands on a teacher day rather than the Sep 21 sub day.)*
 
 **Goal:** Every student practices applying *two* of the four tests to Christianity itself, in a small group, with a worksheet, with a whole-class synthesis at the end. This is the **model exercise** for the rest of the course — every later unit's Day 7 follows this template. Take it seriously.
 
-**The lecture frame (first 10 min) is in [lecture-companion.md](../lectures/unit-01-christianity-lecture-companion.md) §Day 8.** This file covers the small-group work that follows.
+**The lecture frame (first 10 min) is in [lecture-companion.md](../lectures/unit-01-christianity-lecture-companion.md) §Day 10.** This file covers the small-group work that follows.
 
 **Materials needed:**
 - Worksheet (one per group — template below)
@@ -631,9 +633,9 @@ A sub absolutely can administer this day. The Doug Letter rubric is the publishe
 | 5 | Socratic Seminar | **this file** §Day 5 |
 | 6 | Pair & Defend | **this file** §Day 6 |
 | 7 | Case Study (Hannah/Sarah) | **this file** §Day 7 |
-| 8 | Four-Test (10-min frame + 35-min group work) | lecture-companion.md §Day 8 + **this file** §Day 8 |
+| **8 (SUB)** | Contemporary Resource (video + debrief) | lecture-companion.md §Day 8 + week-05/substitute-plan-monday.md |
 | 9 | Lecture (Christian Family) | lecture-companion.md §Day 9 |
-| 10 | Contemporary Resource | lecture-companion.md §Day 10 |
+| 10 | Four-Test (10-min frame + 35-min group work) | lecture-companion.md §Day 10 + **this file** §Day 10 |
 | 11 | Gospel Conversation roleplay | **this file** §Day 11 |
 | 12 | Worldview Brief writing | **this file** §Day 12 |
 | 13 | Doug Letter due + Test | **this file** §Day 13 |
