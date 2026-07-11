@@ -20,10 +20,13 @@ For now the scope is **just the class shell.**
   - Name **Bible 9 Foundations** · Section **Grade 9**
   - Course id `ODU1NTEwMzM0MDA3` · class code `kegl4xsb`
   - Link: <https://classroom.google.com/c/ODU1NTEwMzM0MDA3>
+- **18 unit Topics created** in Classwork (via `create_topics.py`, path A), named to match the
+  Atlas units exactly (`01: Introduction` … `18: Conclusion`), one each, ordered 01→18. Empty
+  topics stay hidden from students until coursework is attached to them.
 - **Path B (API):** scripts scaffolded; awaiting the one-time Google Cloud setup below. When run,
   `create_class_api.py` will find this existing class (same name) and not duplicate it.
-- **Next:** topics per Atlas unit, then coursework from the daily lessons (after those are authored
-  and after dates unlock on Aug 1, 2026).
+- **Next:** attach a student-facing material (unit Essential Questions + objectives) per topic, then
+  coursework from the daily lessons (after those are authored and after dates unlock Aug 1, 2026).
 
 ---
 
