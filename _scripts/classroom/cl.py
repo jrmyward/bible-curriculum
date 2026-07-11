@@ -33,6 +33,27 @@ def topics(svc, cid):
             break
     return out
 
+def teacher_folder(svc, cid):
+    """Drive id of the Classroom-created course folder (Classroom/<Course Name>/)."""
+    return svc.courses().get(id=cid).execute().get("teacherFolder", {}).get("id")
+
+def ensure_folder(drive, name, parent):
+    """Find (or create) a subfolder `name` under `parent`; return its id. Idempotent."""
+    esc = name.replace("'", "\\'")
+    q = ("mimeType='application/vnd.google-apps.folder' and trashed=false "
+         f"and name='{esc}' and '{parent}' in parents")
+    hit = drive.files().list(q=q, fields="files(id)").execute().get("files", [])
+    if hit:
+        return hit[0]["id"]
+    return drive.files().create(
+        body={"name": name, "mimeType": "application/vnd.google-apps.folder", "parents": [parent]},
+        fields="id").execute()["id"]
+
+def move_file(drive, file_id, new_parent):
+    prev = ",".join(drive.files().get(fileId=file_id, fields="parents").execute().get("parents", []))
+    drive.files().update(fileId=file_id, addParents=new_parent,
+                         removeParents=prev, fields="id").execute()
+
 def existing_titles(svc, cid):
     """Titles of all courseWork + courseWorkMaterials (incl. drafts), to skip duplicates."""
     titles = set()

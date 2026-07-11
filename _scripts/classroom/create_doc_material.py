@@ -16,13 +16,15 @@ import cl
 def arg(flag, default=None):
     return sys.argv[sys.argv.index(flag) + 1] if flag in sys.argv else default
 
-def make_doc(drive, name, md_text):
+def make_doc(drive, name, md_text, parent=None):
     html = md_lib.markdown(md_text, extensions=["extra", "sane_lists"])
     html = f"<html><body>{html}</body></html>"
     media = MediaInMemoryUpload(html.encode("utf-8"), mimetype="text/html", resumable=False)
+    body = {"name": name, "mimeType": "application/vnd.google-apps.document"}
+    if parent:
+        body["parents"] = [parent]
     f = drive.files().create(
-        body={"name": name, "mimeType": "application/vnd.google-apps.document"},
-        media_body=media, fields="id,webViewLink").execute()
+        body=body, media_body=media, fields="id,webViewLink").execute()
     return f["id"], f.get("webViewLink")
 
 def main():
@@ -36,8 +38,9 @@ def main():
         print(f"skip (exists): {title}"); return
 
     drive = cl.drive_service()
-    file_id, link = make_doc(drive, title, pathlib.Path(md_path).read_text())
-    print(f"created Google Doc: {title}  ({link})")
+    unit_folder = cl.ensure_folder(drive, topic, cl.teacher_folder(svc, cid))  # Classroom/<course>/<unit>/
+    file_id, link = make_doc(drive, title, pathlib.Path(md_path).read_text(), parent=unit_folder)
+    print(f"created Google Doc in unit folder: {title}  ({link})")
 
     body = {
         "title": title, "description": desc,
