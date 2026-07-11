@@ -40,3 +40,24 @@ Desktop.ini
 **/_source-text/**/*.png
 **/_source-text/**/*.heic
 **/_source-text/**/*.HEIC
+
+# Exception: publisher portal resources (tests, quizzes, study guides, charts) ARE
+# committed, even when they're image-format. These are downloaded teaching materials,
+# not raw scans.
+!**/_source-text/portal/**/*.jpg
+!**/_source-text/portal/**/*.jpeg
+!**/_source-text/portal/**/*.png
+!**/_source-text/portal/**/*.heic
+!**/_source-text/portal/**/*.HEIC
+
+# ...but publisher slide decks are large presentation files — kept local, not committed.
+**/_source-text/portal/**/*slides*.pdf
+**/_source-text/portal/**/*.pptx
+**/_source-text/portal/**/*.key
+
+# Downloaded lesson videos are large media — kept local, not committed.
+**/_source-text/portal/**/*.mp4
+**/_source-text/portal/**/*.mov
+**/_source-text/portal/**/*.mkv
+**/_source-text/portal/**/*.m4v
+**/_source-text/portal/**/*.webm

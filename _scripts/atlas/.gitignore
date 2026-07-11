@@ -1,0 +1,6 @@
+# Never commit: authenticated session (live Atlas cookies), venv, probe dumps, caches
+.venv/
+.auth/
+probe-output/
+__pycache__/
+*.pyc

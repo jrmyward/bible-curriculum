@@ -28,6 +28,17 @@
 | Apr 26, 2027 | HS Golf | Yes |
 | May 3, 2027 | HS Golf | Yes |
 
+## Light / No-Instruction Weeks (planning guidance)
+
+Per instructor guidance, do **not** schedule new instruction (or keep it very light —
+review, catch-up, community, celebration) during these weeks. Build slack here; do not
+place new chapters, major assessments, or capstones in them.
+
+| Week | Dates | Reason |
+|---|---|---|
+| Week before Christmas break | Dec 14–18, 2026 | Wind-down before break (break is Dec 21–Jan 1) |
+| Last week of school | May 17–21, 2027 | Year-end wind-down (May 21 last day, half-day) |
+
 ## No-School Dates
 
 | Date | Event | Notes |

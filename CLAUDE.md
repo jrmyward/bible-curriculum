@@ -27,9 +27,21 @@ This is a personal curriculum repository for a high school Bible teacher at Wate
 
 ## Current Classes
 
-| Class | Status | Grade |
-|---|---|---|
-| `understanding-the-faith` | Active. Teaching map complete. | 11–12 |
-| `old-testament-survey` | Stub only. | — |
-| `new-testament-survey` | Stub only. | — |
-| `worldview` | Stub only. | — |
+The school updated the curriculum for 2026–27. Four new classes replace the prior
+lineup; the old classes are retained for reference during the transition.
+
+**New curriculum (2026–27):**
+
+| Class | Grade | Status |
+| --- | --- | --- |
+| `to-the-ends-of-the-earth` | 8 | Not started. |
+| `foundations` | 9 | Being built. Source text transcription in progress (18 chapters). |
+| `apologetics` | 10–11 | Not started. |
+| `worldviews` | 12 | Not started. |
+
+**Deprecated (retained for reference):**
+
+| Class | Grade | Status |
+| --- | --- | --- |
+| `understanding-the-faith` | 11–12 | Deprecated. Teaching map + lesson plans complete. |
+| `worldview` | 11–12 | Deprecated. Superseded by 12th-grade `worldviews`. |
