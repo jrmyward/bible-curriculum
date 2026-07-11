@@ -1,0 +1,114 @@
+{
+  "_comment": "Machine-readable build spec for build_form.py. Source of truth for the Chapter 1 Test Google Form quiz. Human-readable transcription: classes/foundations/_source-text/portal/ch01/test.md. Keep in sync.",
+  "title": "Chapter 1 Test — Foundations (Bible 9)",
+  "documentTitle": "Foundations · Chapter 1 Test (TR 1.10A)",
+  "description": "Chapter 1 covers what a worldview is, what it means (and doesn't mean) to be a Christian, why Christians trust the Bible, and the Bible's story in six acts. Total: 87 points.",
+  "topic": "01: Introduction",
+  "assignmentTitle": "Chapter 1 Test",
+  "totalPoints": 87,
+  "matchingOptions": [
+    "Creation",
+    "The Fall",
+    "Redemption Initiated",
+    "The Second Temple Period",
+    "Redemption Accomplished",
+    "Restoration Initiated",
+    "Restoration Accomplished"
+  ],
+  "sections": [
+    {
+      "heading": "Matching",
+      "instructions": "Match each item to the correct name. 1 point each.",
+      "questions": [
+        {"id": "q1", "type": "dropdown", "points": 1, "required": true, "text": "1. Act 1", "useMatchingOptions": true, "correct": ["Creation"]},
+        {"id": "q2", "type": "dropdown", "points": 1, "required": true, "text": "2. Act 2", "useMatchingOptions": true, "correct": ["The Fall"]},
+        {"id": "q3", "type": "dropdown", "points": 1, "required": true, "text": "3. Act 3", "useMatchingOptions": true, "correct": ["Redemption Initiated"]},
+        {"id": "q4", "type": "dropdown", "points": 1, "required": true, "text": "4. Interlude", "useMatchingOptions": true, "correct": ["The Second Temple Period"]},
+        {"id": "q5", "type": "dropdown", "points": 1, "required": true, "text": "5. Act 4", "useMatchingOptions": true, "correct": ["Redemption Accomplished"]},
+        {"id": "q6", "type": "dropdown", "points": 1, "required": true, "text": "6. Act 5", "useMatchingOptions": true, "correct": ["Restoration Initiated"]},
+        {"id": "q7", "type": "dropdown", "points": 1, "required": true, "text": "7. Act 6", "useMatchingOptions": true, "correct": ["Restoration Accomplished"]}
+      ]
+    },
+    {
+      "heading": "Multiple Choice",
+      "instructions": "Select ALL correct answers. Some questions have more than one. (Auto-scored as all-or-nothing; the teacher awards partial credit in the Forms grading view where needed.)",
+      "questions": [
+        {"id": "q8", "type": "checkbox", "points": 4, "required": true, "text": "8. Which of the following are worldviews?",
+          "options": ["Christianity", "secularism and postmodernism", "discipleship and bibliolatry", "Islam and Marxism", "new spirituality"],
+          "correct": ["Christianity", "secularism and postmodernism", "Islam and Marxism", "new spirituality"]},
+        {"id": "q9", "type": "checkbox", "points": 1, "required": true, "text": "9. What conditions do you have to meet to become a Christian?",
+          "options": ["You have to eat meat and drink alcohol.", "You have to be born into a Christian family.", "You have to follow Christ.", "You have to obey every command in Scripture.", "You have to go to church."],
+          "correct": ["You have to follow Christ."]},
+        {"id": "q10", "type": "checkbox", "points": 3, "required": true, "text": "10. Which of the following describe Jesus?",
+          "options": ["He was a teacher and a healer.", "He discovered the Bible.", "He was a political leader.", "He was a human being.", "He was God."],
+          "correct": ["He was a teacher and a healer.", "He was a human being.", "He was God."]},
+        {"id": "q11", "type": "checkbox", "points": 2, "required": true, "text": "11. Why do Christians care about the Bible?",
+          "options": ["because it is an ancient book", "because God reveals himself through it", "because it is a sacred object we should worship", "because it tells us how to live to please God", "because it is a collection of 66 books"],
+          "correct": ["because God reveals himself through it", "because it tells us how to live to please God"]},
+        {"id": "q12", "type": "checkbox", "points": 3, "required": true, "text": "12. Which of the following happen in the grand story of the Bible?",
+          "options": ["Abraham comes to judge the earth.", "Jesus dies.", "Humans eat some fruit.", "The nation of Israel waits for a savior.", "God tells people to destroy the earth."],
+          "correct": ["Jesus dies.", "Humans eat some fruit.", "The nation of Israel waits for a savior."]},
+        {"id": "q13", "type": "checkbox", "points": 3, "required": true, "text": "13. Which of the following are spiritual disciplines?",
+          "options": ["praying", "Bible reading", "kneeling", "giving", "singing"],
+          "correct": ["praying", "Bible reading", "giving"]},
+        {"id": "q14", "type": "checkbox", "points": 1, "required": true, "text": "14. What is a Christian's primary calling?",
+          "options": ["proof texting", "baptism", "winning arguments", "love", "judgment"],
+          "correct": ["love"]},
+        {"id": "q15", "type": "checkbox", "points": 2, "required": true, "text": "15. Which of the following describe Christian love?",
+          "options": ["loving the world as much as you love your family", "giving of ourselves for others", "accepting anything a person does as right and good for them", "honoring people as God's image-bearers", "something that only happens between you and God"],
+          "correct": ["giving of ourselves for others", "honoring people as God's image-bearers"]}
+      ]
+    },
+    {
+      "heading": "True / False",
+      "instructions": "Indicate whether each statement is true or false. 1 point each.",
+      "questions": [
+        {"id": "q16", "type": "radio", "points": 1, "required": true, "text": "16. ALL worldviews accurately explain the world and help us find direction and purpose for our lives.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q17", "type": "radio", "points": 1, "required": true, "text": "17. Being a Christian MEANS being judgmental and never having fun.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q18", "type": "radio", "points": 1, "required": true, "text": "18. All Christians should be concerned about earthly problems like poverty and injustice.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q19", "type": "radio", "points": 1, "required": true, "text": "19. People who are not Christians can be devout followers of another religion.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q20", "type": "radio", "points": 1, "required": true, "text": "20. You ARE automatically a Christian if Christianity is part of your cultural heritage.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q21", "type": "radio", "points": 1, "required": true, "text": "21. Jesus' followers were first called Christians in Antioch during the first century.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q22", "type": "radio", "points": 1, "required": true, "text": "22. The word Christ IS Jesus' surname.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q23", "type": "radio", "points": 1, "required": true, "text": "23. Messiah is one of the titles of Jesus.", "options": ["True", "False"], "correct": ["True"]}
+      ]
+    },
+    {
+      "heading": "Fill in the Blank",
+      "instructions": "Type the missing word. 2 points each. (Spelling matters; the teacher can accept variants in the grading view.)",
+      "questions": [
+        {"id": "q24", "type": "short_text", "points": 2, "required": true, "text": "24. For Christians, the ______ plays a central role in informing our thoughts, values, decisions, and actions.", "correct": ["Bible", "the Bible"]},
+        {"id": "q25", "type": "short_text", "points": 2, "required": true, "text": "25. Christians place themselves under the Bible's ______ because they believe it is God's Word.", "correct": ["authority"]},
+        {"id": "q26", "type": "short_text", "points": 2, "required": true, "text": "26. Each book of the Bible is divided into chapters and then into portions called ______.", "correct": ["verses", "verse"]},
+        {"id": "q27", "type": "short_text", "points": 2, "required": true, "text": "27. C. S. Lewis argued that it is a ______ to assume that we today are necessarily smarter or more enlightened than our ancestors.", "correct": ["mistake"]},
+        {"id": "q28", "type": "short_text", "points": 2, "required": true, "text": "28. The Tree of ______ of Good and Evil is found in the account of the fall, which is the second act of the biblical story.", "correct": ["Knowledge"]},
+        {"id": "q29", "type": "short_text", "points": 2, "required": true, "text": "29. The nation of Israel comes from the descendants of ______ family.", "correct": ["Abraham's", "Abrahams", "Abraham"]},
+        {"id": "q30", "type": "short_text", "points": 2, "required": true, "text": "30. The church was formed by people who listened to Jesus' ______, who proclaimed the good news of God's kingdom.", "correct": ["disciples", "disciple"]},
+        {"id": "q31", "type": "short_text", "points": 2, "required": true, "text": "31. Anthropology is the study of people and ______ is the study of God.", "correct": ["theology"]},
+        {"id": "q32", "type": "short_text", "points": 2, "required": true, "text": "32. Spiritual ______ help us to practice and grow in our faith.", "correct": ["disciplines", "discipline"]},
+        {"id": "q33", "type": "short_text", "points": 2, "required": true, "text": "33. Because the kingdom of God has begun but is not fully realized, the church lives in a time described as ______ and not yet.", "correct": ["already"]}
+      ]
+    },
+    {
+      "heading": "Short Answer",
+      "instructions": "Answer in complete sentences. 3 points each. (Graded by the teacher.)",
+      "questions": [
+        {"id": "q34", "type": "paragraph", "points": 3, "required": true, "text": "34. What is a worldview? Explain how it can be compared to a map.", "modelAnswer": "A worldview is a pattern of ideas and beliefs that helps us make sense of the world and guides our decisions and actions. Like a map, it is only useful if it corresponds with reality."},
+        {"id": "q35", "type": "paragraph", "points": 3, "required": true, "text": "35. What happens in the first act of the grand story of the Bible?", "modelAnswer": "God creates the universe and all that is in it, including human beings, and tells them to fill and rule the earth."},
+        {"id": "q36", "type": "paragraph", "points": 3, "required": true, "text": "36. What happens in the third act of the grand story of the Bible?", "modelAnswer": "God chooses Abraham, through whom he will bless the earth; some of Abraham's descendants become the nation of Israel."},
+        {"id": "q37", "type": "paragraph", "points": 3, "required": true, "text": "37. What were God's people hoping for during the interlude?", "modelAnswer": "More revelation from God (after ~400 years of silence) and a savior who would defeat their conquerors."},
+        {"id": "q38", "type": "paragraph", "points": 3, "required": true, "text": "38. What happens in the fourth act of the grand story of the Bible?", "modelAnswer": "The story of Jesus' life, death, and resurrection."},
+        {"id": "q39", "type": "paragraph", "points": 3, "required": true, "text": "39. What happens in the last act of the grand story of the Bible?", "modelAnswer": "Jesus returns to judge everyone; sin, death, and evil are destroyed; God makes a new heaven and earth and reigns forever."}
+      ]
+    },
+    {
+      "heading": "Essay",
+      "instructions": "Answer each with at least one paragraph. 5 points each. (Graded by the teacher.)",
+      "questions": [
+        {"id": "q40", "type": "paragraph", "points": 5, "required": true, "text": "40. Define the term Christian and describe three common misconceptions about what it means to be a Christian.", "modelAnswer": "A Christian is someone who follows Jesus. Three misconceptions: that it means following lots of rules; that you must be born into a Christian family or country; that it is only about heaven."},
+        {"id": "q41", "type": "paragraph", "points": 5, "required": true, "text": "41. Summarize what Christians believe about Jesus, according to your textbook.", "modelAnswer": "Jesus is God (part of the Trinity) who became human and lived a sinless life; he taught and healed, died for our sins, rose again, returned to heaven, and will come back to judge everyone. He is the Messiah; we must trust him for forgiveness, and his followers seek to imitate him."},
+        {"id": "q42", "type": "paragraph", "points": 5, "required": true, "text": "42. Describe what the main characters of the fifth act of the grand story of the Bible are supposed to do and how long it will take to do it.", "modelAnswer": "The main characters are Jesus' followers, the church. They are to love God and others, imitate Christ, and proclaim God's kingdom — for their whole lives, until Jesus returns."}
+      ]
+    }
+  ]
+}

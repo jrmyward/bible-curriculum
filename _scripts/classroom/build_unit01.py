@@ -12,11 +12,14 @@ import cl
 HERE = pathlib.Path(__file__).parent
 TOPIC = "01: Introduction"
 # (kind, title, description-file, points)
+# Only the two text materials live here. The graded work is built by dedicated scripts so it
+# carries the right attachments:
+#   - "Video Questions & Reflection — Chapter 1"  → build_doc_assignment.py (per-student Doc copy)
+#   - "Chapter 1 Test"                            → build_form.py (Google Form quiz)
+# The "Six Acts" reference is a Doc material, added via create_doc_material.py (see README recipes).
 ITEMS = [
     ("material",   "Unit 1 · Start Here: Finding Direction", "content/unit01/start-here.txt",      None),
     ("material",   "Unit 1 · Readings",                       "content/unit01/readings.txt",        None),
-    ("assignment", "Video Reflection — Chapter 1",            "content/unit01/video-reflection.txt", 20),
-    ("assignment", "Chapter 1 Test",                          "content/unit01/chapter-test.txt",     87),
 ]
 
 def desc(rel):

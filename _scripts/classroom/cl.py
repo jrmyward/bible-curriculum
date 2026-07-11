@@ -15,6 +15,11 @@ def service():
 def drive_service():
     return build("drive", "v3", credentials=_creds())
 
+def forms_service():
+    # static_discovery=False: the Forms API isn't in the client library's baked-in
+    # discovery cache, so fetch it at runtime.
+    return build("forms", "v1", credentials=_creds(), static_discovery=False)
+
 def course_id(svc, name=COURSE_NAME):
     for c in svc.courses().list(teacherId="me").execute().get("courses", []):
         if c.get("name") == name:

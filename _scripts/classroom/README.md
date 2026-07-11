@@ -36,9 +36,10 @@ Doc; substantive/bulk changes happen in the repo markdown and are re-generated.
   class code `kegl4xsb` · <https://classroom.google.com/c/ODU1NTEwMzM0MDA3>
 - **Topics:** 18, named exactly like the Atlas units (`01: Introduction` … `18: Conclusion`).
 - **Unit 01 built** (all **drafts**, hidden from students until posted):
-  - Materials: *Unit 1 · Start Here: Finding Direction*, *Unit 1 · Readings*, *Unit 1 · Study Guide*
-    (an editable Google Doc, test-aligned to `TR 1.10A`)
-  - Assignments: *Video Reflection — Chapter 1* (20 pts), *Chapter 1 Test* (87 pts)
+  - Materials: *Unit 1 · Start Here: Finding Direction*, *Unit 1 · Readings* (aligned to the 8-day
+    schedule), *Unit 1 · Study Guide* + *Six Acts of the Bible* (editable Google Docs)
+  - Assignments: *Video Reflection — Chapter 1* (20 pts), *Chapter 1 Test* (87 pts — a **Google Form
+    quiz**; 54 auto-graded, 33 hand-graded; built by `build_form.py`)
 - **Drive:** `Classroom/Bible 9 Foundations/` (Google-created course folder) now holds an
   `01: Introduction/` … `18: Conclusion/` subfolder each; the Ch 1 study-guide Doc lives in
   `01: Introduction/`. New handout Docs auto-file into their unit folder.
@@ -70,6 +71,9 @@ Re-run `auth_api.py` whenever the scope list changes (it re-consents and overwri
 - `drive` (full) — organize Drive into the Classroom-created course folder (the folder was made by
   Classroom, not this app, so `drive.file` can't reach it — full `drive` is required to add the
   unit subfolders and move Docs in)
+- `forms.body` — create/edit the Google Form chapter-test quizzes (`build_form.py`). **Added after
+  the initial setup** — enable the **Google Forms API** in the Cloud project, then re-run
+  `auth_api.py` to re-consent.
 
 ## Scripts
 
@@ -80,8 +84,10 @@ Run everything with the venv: `_scripts/classroom/.venv/bin/python _scripts/clas
 | `auth_api.py` | One-time OAuth consent (`credentials.json` → `token.json`). |
 | `cl.py` | Shared helpers: `service()` / `drive_service()`, `course_id()`, `topics()`, `existing_titles()`, `teacher_folder()`, `ensure_folder()`, `move_file()`. |
 | `create_class_api.py` | Create (or find) the course. Idempotent by name. |
-| `build_unit01.py` | Create Unit 01's materials + assignments as drafts under `01: Introduction`. Idempotent (skips existing titles). The item list + points live at the top; `content/unit01/*.txt` holds the copy. |
+| `build_unit01.py` | Create Unit 01's text materials + the Video Reflection assignment as drafts under `01: Introduction`. Idempotent (skips existing titles). (The test is built by `build_form.py`, not here.) |
+| `build_form.py` | `--spec <form.json> [--desc <txt>] [--force]`. Builds a chapter test as a **Google Form quiz** (point values + correct answers), files it in the unit's Drive folder, and attaches it to the matching Classroom assignment as a link (Classroom then offers grade import). Needs the `forms.body` scope. |
 | `create_doc_material.py` | `--md <file> --topic "<unit>" --title "<name>" [--desc …] [--post]`. Renders markdown → a **Google Doc** in the unit's Drive folder → attaches it to the topic as a material (draft by default). Reusable for any handout. |
+| `build_doc_assignment.py` | `--md <file> --topic "<unit>" --title "<name>" --points N [--desc …] [--replace "<old title>"] [--force]`. Renders markdown → a **Google Doc** worksheet → attaches it to a new **assignment** as a **per-student copy** (`STUDENT_COPY`). Used for written worksheets students fill in and submit (e.g. the video questions). |
 | `organize_drive.py` | Create the per-unit Drive subfolders inside the course folder and move listed Docs into their unit folder. Idempotent. |
 
 ### Recipes
@@ -95,9 +101,55 @@ _scripts/classroom/.venv/bin/python _scripts/classroom/create_doc_material.py \
   --desc "Downloadable study guide for the Chapter 1 Test."
 ```
 
+Add the Six Acts reference (a Doc material):
+
+```bash
+_scripts/classroom/.venv/bin/python _scripts/classroom/create_doc_material.py \
+  --md classes/foundations/handouts/ch01-six-acts.md \
+  --topic "01: Introduction" --title "Unit 1 · Six Acts of the Bible" \
+  --desc "The spine of the whole course — learn the six acts in order."
+```
+
 Build a unit's coursework — copy `build_unit01.py`, edit the `ITEMS` list + `content/<unit>/`
 copy, run it. (Generalizing this into one `build_unit.py` that reads a per-unit manifest is the
 next step for the 02–18 rollout.)
+
+## Chapter tests → Google Form quizzes (`build_form.py`)
+
+A chapter test is authored once as a JSON **build spec** and turned into a Google Form quiz.
+Source of truth: the human-readable transcription lives at `classes/foundations/_source-text/
+portal/chNN/test.md`; the machine spec lives at `content/unitNN/chapter-N-test.form.json`. Keep
+the two in sync.
+
+The spec marks each question's type, points, and correct answer(s). Auto-graded types: matching
+(dropdowns), multiple choice (checkboxes), true/false (radio), fill-in-the-blank (short text).
+Hand-graded: short answer + essay (paragraphs — point value only, graded in the Form).
+
+**Multi-answer MC is all-or-nothing** in Forms (full points only for an exact match). The publisher
+awards 1 pt per correct answer, so for partial-credit cases the teacher bumps the score in the
+Forms grading view. (See the `simplify`/decision note in the repo history.)
+
+### One-time enablement (interactive — cannot be done headless)
+
+1. In the Cloud project **Watersprings Teaching**, enable the **Google Forms API**.
+2. Re-consent to the new scope (opens a browser):
+
+   ```bash
+   _scripts/classroom/.venv/bin/python _scripts/classroom/auth_api.py
+   ```
+
+### Build the Chapter 1 test
+
+```bash
+_scripts/classroom/.venv/bin/python _scripts/classroom/build_form.py \
+  --spec _scripts/classroom/content/unit01/chapter-1-test.form.json \
+  --desc _scripts/classroom/content/unit01/chapter-test.txt
+```
+
+This creates the Form, files it in `01: Introduction/` in Drive, and (re)creates the *Chapter 1
+Test* assignment (draft, /87) with the Form attached. **Verify in the UI on first run:** open the
+Form (question rendering, points, correct answers) and the Classroom assignment (that "Import
+grades" appears). Re-run with `--force` to rebuild.
 
 ## Legacy (browser automation)
 

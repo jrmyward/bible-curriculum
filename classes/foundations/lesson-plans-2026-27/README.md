@@ -18,31 +18,39 @@ Day-by-day lesson plans for the 18-chapter Foundations course, paced per the
   group activities, a video day, mapmaking, and review-games. Sub days use the self-contained
   activities (e.g., the Ch 1 video day lands on the Aug 28 sub day).
 
-## Current format (interim)
+## Formats (two coexist during the transition)
 
-One file per chapter: `chNN-lesson-plan.md`, containing all ~8 days of that chapter's block.
-Easy to review and print as a chapter packet.
+- **Week style (final format).** One folder per calendar week (`week-NN-mon-DD/`) with a file per
+  day (`1-monday.md` … `5-friday.md`), a `substitute-plan-*.md`, a `README.md`, and a `handouts/`
+  folder. **Chapter 1 is converted** — it lives in [`week-01-aug-24/`](week-01-aug-24) and
+  [`week-02-aug-31/`](week-02-aug-31). This is the format everything moves to.
+- **Chapter-file (interim).** `chNN-lesson-plan.md`, all ~8 days of a chapter in one file. **Ch 2–18
+  still live here** and will be converted week-by-week (or in a pass) using Ch 1 as the model.
 
-## Planned reformat → week style (TODO)
+### The daily file template (Ch 1 is the exemplar)
 
-The intended final format is the **worldview class's week style**
-([`worldview/lesson-plans-2026-27/week-01-aug-24/`](../../worldview/lesson-plans-2026-27/week-01-aug-24)):
-one folder per week (`week-NN-mon-DD/`) with a file per day (`1-monday.md` … `5-friday.md`),
-a `substitute-plan-*.md`, and a `handouts/` folder.
+The Foundations week-style day file is **richer than the worldview class's** — it's built to teach
+from *and* to spin up a Google Slides deck. Each day (see [`week-01-aug-24/1-monday.md`](week-01-aug-24/1-monday.md)) has:
 
-**Decided:** draft all 18 chapters as chapter-files first (faster to write and review), then
-**convert the whole set to week style in one pass** once the content is settled. Do not convert
-piecemeal.
+- **🟦 Start Slide** — the projectable "today is…" slide: **Do Now · Objective · Agenda · Reminders**
+  (Reminders carries what's due + what's assigned).
+- **Supplies & Prep** · **Learning Objectives** (tied to publisher §§) · **Teaching Outline** (time-cued)
+- **Slide-Deck Outline** — slide-by-slide, paste-into-Slides (Slide 1 = the Start Slide)
+- **Board Plan · Key Terms & Verses** · **Announcements & Assignments** · **Exit Ticket**
+- **Teacher Notes & Flex** · **Links** (source text, teacher manual pages, study guide)
+
+When converting Ch 2–18, follow this template — not the plainer worldview one. Chapters spanning two
+calendar weeks (most do — 8-day blocks) split across two week folders, as Ch 1 does.
 
 ## Status
 
-All 18 chapter plans are drafted in the chapter-file format. Ch 1 is approved; Ch 2 was written
-as a second calibration exemplar; Ch 3–18 were generated against both exemplars and the per-chapter
-source (teacher manual + textbook + the actual `TR NN.10A` test) and await review.
+Ch 1 is **converted to week style** (approved exemplar). Ch 2–18 remain in the chapter-file format:
+Ch 2 was written as a second calibration exemplar; Ch 3–18 were generated against both exemplars and
+the per-chapter source (teacher manual + textbook + the actual `TR NN.10A` test) and await review.
 
 | Chapter | Days | Test | Plan |
 | --- | --- | --- | --- |
-| Ch 1 — Introduction: Finding Direction | 8 | Wed Sep 2 | ✅ Approved (exemplar) |
+| Ch 1 — Introduction: Finding Direction | 8 | Wed Sep 2 | ✅ Week style ([`week-01`](week-01-aug-24) · [`week-02`](week-02-aug-31)) |
 | Ch 2 — What the Bible Is and Isn't | 8 | Wed Sep 16 | ✅ Draft (exemplar) |
 | Ch 3 — Does the Bible Have Authority? | 8 | Tue Sep 29 | ✅ Draft — awaiting review |
 | Ch 4 — How to Read the Bible | 9 | Tue Oct 13 | ✅ Draft — awaiting review |
