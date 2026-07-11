@@ -7,9 +7,10 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 
 HERE = pathlib.Path(__file__).parent
 SCOPES = [
-    "https://www.googleapis.com/auth/classroom.courses",            # create/manage the class
-    "https://www.googleapis.com/auth/classroom.topics",             # unit topics (later)
-    "https://www.googleapis.com/auth/classroom.coursework.students",# assignments (later)
+    "https://www.googleapis.com/auth/classroom.courses",             # create/manage the class
+    "https://www.googleapis.com/auth/classroom.topics",              # unit topics
+    "https://www.googleapis.com/auth/classroom.courseworkmaterials", # materials (Start Here, Readings)
+    "https://www.googleapis.com/auth/classroom.coursework.students", # assignments (reflection, test)
 ]
 
 def main():

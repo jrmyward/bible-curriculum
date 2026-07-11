@@ -23,10 +23,15 @@ For now the scope is **just the class shell.**
 - **18 unit Topics created** in Classwork (via `create_topics.py`, path A), named to match the
   Atlas units exactly (`01: Introduction` … `18: Conclusion`), one each, ordered 01→18. Empty
   topics stay hidden from students until coursework is attached to them.
-- **Path B (API):** scripts scaffolded; awaiting the one-time Google Cloud setup below. When run,
-  `create_class_api.py` will find this existing class (same name) and not duplicate it.
-- **Next:** attach a student-facing material (unit Essential Questions + objectives) per topic, then
-  coursework from the daily lessons (after those are authored and after dates unlock Aug 1, 2026).
+- **Path B (API) is now the working path.** Google Cloud project **Watersprings Teaching** set up;
+  `credentials.json` + `token.json` in place (gitignored). Course id `855510334007`.
+- **Unit 01 built via the API** as DRAFTS under `01: Introduction`: 2 materials (Start Here,
+  Readings) + 2 assignments (Video Reflection = 20 pts, Chapter 1 Test = 87 pts). See
+  `build_unit01.py` (item list) + `content/unit01/*.txt` (the copy) + `cl.py` (API helpers).
+- **The flaky browser material/probe scripts were removed** — coursework goes through the API now.
+  `create_class.py` / `create_topics.py` remain (they did their job; kept as reference/fallback).
+- **Next:** generalize `build_unit01.py` into a per-unit builder and roll out units 02–18 (author
+  each unit's material/assignment copy, then create as drafts). Dates stay unset until Aug 1, 2026.
 
 ---
 
@@ -76,9 +81,9 @@ Run with the Atlas venv (Playwright is already installed there):
    on the same `service` (see `create_class_api.py`).
 
 ### Scopes requested
-`classroom.courses` (create/manage the class) · `classroom.topics` (unit topics later) ·
-`classroom.coursework.students` (assignments later). Trim in `auth_api.py` if you want least
-privilege for just the shell (`classroom.courses` alone is enough to create the class).
+`classroom.courses` (the class) · `classroom.topics` (unit topics) ·
+`classroom.courseworkmaterials` (materials: Start Here, Readings) ·
+`classroom.coursework.students` (assignments: reflection, test).
 
 ## Files
 - `open_signin.py` — point the watchable Chrome at Google sign-in (path A).
