@@ -6,9 +6,14 @@ from googleapiclient.discovery import build
 HERE = pathlib.Path(__file__).parent
 COURSE_NAME = "Bible 9 Foundations"
 
+def _creds():
+    return Credentials.from_authorized_user_file(str(HERE / "token.json"))
+
 def service():
-    return build("classroom", "v1",
-                 credentials=Credentials.from_authorized_user_file(str(HERE / "token.json")))
+    return build("classroom", "v1", credentials=_creds())
+
+def drive_service():
+    return build("drive", "v3", credentials=_creds())
 
 def course_id(svc, name=COURSE_NAME):
     for c in svc.courses().list(teacherId="me").execute().get("courses", []):

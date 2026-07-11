@@ -11,6 +11,7 @@ SCOPES = [
     "https://www.googleapis.com/auth/classroom.topics",              # unit topics
     "https://www.googleapis.com/auth/classroom.courseworkmaterials", # materials (Start Here, Readings)
     "https://www.googleapis.com/auth/classroom.coursework.students", # assignments (reflection, test)
+    "https://www.googleapis.com/auth/drive.file",                    # create handout Docs in Drive + attach
 ]
 
 def main():
