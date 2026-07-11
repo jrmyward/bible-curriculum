@@ -13,6 +13,7 @@ SCOPES = [
     "https://www.googleapis.com/auth/classroom.coursework.students", # assignments (reflection, test)
     "https://www.googleapis.com/auth/drive",                         # organize Drive to mirror Classroom (rename/move the Classroom-made folder)
     "https://www.googleapis.com/auth/forms.body",                    # create/edit Google Form quizzes (chapter tests) — see build_form.py
+    "https://www.googleapis.com/auth/presentations",                 # create/edit Google Slides decks (daily lesson decks) — see build_slides.py
 ]
 
 def main():

@@ -88,6 +88,7 @@ Run everything with the venv: `_scripts/classroom/.venv/bin/python _scripts/clas
 | `build_form.py` | `--spec <form.json> [--desc <txt>] [--force]`. Builds a chapter test as a **Google Form quiz** (point values + correct answers), files it in the unit's Drive folder, and attaches it to the matching Classroom assignment as a link (Classroom then offers grade import). Needs the `forms.body` scope. |
 | `create_doc_material.py` | `--md <file> --topic "<unit>" --title "<name>" [--desc …] [--post]`. Renders markdown → a **Google Doc** in the unit's Drive folder → attaches it to the topic as a material (draft by default). Reusable for any handout. |
 | `build_doc_assignment.py` | `--md <file> --topic "<unit>" --title "<name>" --points N [--desc …] [--replace "<old title>"] [--force]`. Renders markdown → a **Google Doc** worksheet → attaches it to a new **assignment** as a **per-student copy** (`STUDENT_COPY`). Used for written worksheets students fill in and submit (e.g. the video questions). |
+| `build_slides.py` | `<day.md> [<day.md> …]`. Generates a **Google Slides** deck per day: slide 1 is a styled Start Slide (Do Now / Objective / Agenda / Reminders + "today is …" header) mimicking the classroom template; the rest are one slide per item in that day's *Slide-Deck Outline*. The day `.md` is the source of truth. Files decks into `<unit>/Slides/` in Drive. Needs the `presentations` scope. Teacher decks — not attached to Classroom. |
 | `organize_drive.py` | Create the per-unit Drive subfolders inside the course folder and move listed Docs into their unit folder. Idempotent. |
 
 ### Recipes
@@ -150,6 +151,25 @@ This creates the Form, files it in `01: Introduction/` in Drive, and (re)creates
 Test* assignment (draft, /87) with the Form attached. **Verify in the UI on first run:** open the
 Form (question rendering, points, correct answers) and the Classroom assignment (that "Import
 grades" appears). Re-run with `--force` to rebuild.
+
+## Daily slide decks (`build_slides.py`)
+
+One Google Slides deck per teaching day, generated from the day's lesson-plan `.md` (the source of
+truth). Slide 1 is a styled **Start Slide** (Do Now / Objective / Agenda / Reminders + a "today is
+…" header) that mimics the classroom start-slide template; the rest are one slide per item in that
+day's *Slide-Deck Outline*. Decks land in `01: Introduction/Slides/` in Drive — teacher decks, not
+Classroom materials. Layout + accent colors approximate the template, not its hand-lettered fonts.
+
+One-time: enable the **Google Slides API** in the Cloud project and re-run `auth_api.py` (adds the
+`presentations` scope). Then, for Chapter 1's eight days:
+
+```bash
+_scripts/classroom/.venv/bin/python _scripts/classroom/build_slides.py \
+  classes/foundations/lesson-plans-2026-27/week-01-aug-24/{1-monday,2-tuesday,3-wednesday,4-thursday,5-friday}.md \
+  classes/foundations/lesson-plans-2026-27/week-02-aug-31/{1-monday,2-tuesday,3-wednesday}.md
+```
+
+Re-running creates fresh decks (it does not update in place) — trash the old ones if you rebuild.
 
 ## Legacy (browser automation)
 

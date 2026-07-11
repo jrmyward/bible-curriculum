@@ -20,6 +20,9 @@ def forms_service():
     # discovery cache, so fetch it at runtime.
     return build("forms", "v1", credentials=_creds(), static_discovery=False)
 
+def slides_service():
+    return build("slides", "v1", credentials=_creds(), static_discovery=False)
+
 def course_id(svc, name=COURSE_NAME):
     for c in svc.courses().list(teacherId="me").execute().get("courses", []):
         if c.get("name") == name:
