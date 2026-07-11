@@ -84,8 +84,14 @@ For each chapter NN:
 | `launch-browser.sh` | Persistent watchable Chrome on CDP :9222 |
 | `session.py` | `attach(p)` → (browser, context, page) over CDP |
 | `probe.py` | Dump a page's DOM + screenshot + control cheat-sheet (for new selectors) |
-| `fill_unit.py` | Fill a unit's 4 free-text Froala fields from `unit-NN-*.md` |
+| `create_unit.py` | Create a new Unit (Add New Unit form) + fill its 4 free-text fields from `unit-NN-*.md`; prints the new unit_id |
+| `fill_unit.py` | Fill a unit's 4 free-text Froala fields from `unit-NN-*.md` (browser must be on the unit planner) |
 | `lesson_fill.py` | Create + fill a chapter's daily lessons from `chNN-lessons.md` |
+
+`create_unit.py` clicks "Add New Unit" from an anchor unit's planner, fills `#unit-form-input-name`
+with the file's `Unit NN: Title`, leaves dates at the placeholder default and Draft unchecked
+(matching Ch 1), saves, reads the new `/unit-planner/<id>` URL, then fills the 4 fields on that
+page. Run it once per `unit-NN-*.md`.
 
 ## Gotchas (learned the hard way)
 
@@ -122,16 +128,20 @@ For each chapter NN:
 
 ## Status
 
-- **Ch 1:** unit fields (4/5, Faith Learning Integration pending) + all 8 daily lessons — done.
-- **Ch 2–18:** not started. Need units created in Atlas + the two data files authored per chapter.
+- **All 18 units created + filled in Atlas** (fields 1/2/3/5). Unit ids in `config.yaml`:
+  Ch 1 = 2224, Ch 2–18 = 2225–2241 (sequential).
+- **Ch 1:** unit fields + all 8 daily lessons — done.
+- **Daily lessons for Ch 2–18:** not started. Author `lessons/chNN-lessons.md` per chapter, then
+  push with `lesson_fill.py <file> <unit_id>`.
 
-## TODO for the fanout session
+## TODO
 
-- Parameterize `fill_unit.py` with a `unit_id` and navigate to the planner (today it fills
-  whatever page the browser is on — for Ch 1 that was fine; for others, navigate first).
-- Script "Add New Unit" so units 02–18 can be created without hand-clicking.
+- Author + push daily lessons for Ch 2–18 (`lessons/chNN-lessons.md` → `lesson_fill.py`).
 - Solve Faith Learning Integration (Standards picker) or confirm it's set manually.
-- After Aug 1, 2026: set unit + lesson dates from `config.yaml` / the teaching map.
+- After Aug 1, 2026: set unit + lesson dates from `config.yaml` / the teaching map (all units
+  currently sit on the placeholder Week 1 / Aug 2025 slot until dates are set).
+- Note: `create_unit.py` now scripts "Add New Unit"; `fill_unit.py` still fills whatever page the
+  browser is on, so navigate to the unit planner first if running it standalone.
 
 ## Security
 

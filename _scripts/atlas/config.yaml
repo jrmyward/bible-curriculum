@@ -5,8 +5,25 @@ atlas:
   course: "Bible 9 Foundations"
   # Unit editor pattern: /develop/unit-planner/<unit_id>
   unit_planner_path: "develop/unit-planner"
-  unit_ids:            # Atlas internal unit ids (fill in as units are created)
+  unit_ids:            # Atlas internal unit ids (all 18 created)
     "01": 2224
+    "02": 2225
+    "03": 2226
+    "04": 2227
+    "05": 2228
+    "06": 2229
+    "07": 2230
+    "08": 2231
+    "09": 2232
+    "10": 2233
+    "11": 2234
+    "12": 2235
+    "13": 2236
+    "14": 2237
+    "15": 2238
+    "16": 2239
+    "17": 2240
+    "18": 2241
 
 # The 5 content fields per unit come from these markdown files (the data model).
 # The driver parses each file's "## N · Field" sections.

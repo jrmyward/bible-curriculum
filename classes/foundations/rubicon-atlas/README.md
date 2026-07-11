@@ -34,9 +34,13 @@ a day are filled; Modeling/Guided Practice get real detail on days that have the
 
 ## Files & status
 
-- `unit-01-introduction.md` — Ch 1 unit fields (the template). **Done in Atlas** (4/5 fields).
+- `unit-01-introduction.md` … `unit-18-conclusion.md` — all 18 unit-field files. **All 18 units
+  created and filled in Atlas** (fields 1/2/3/5; Faith Learning Integration and dates deferred, as
+  for Ch 1). Atlas unit ids are recorded in [_scripts/atlas/config.yaml](../../../_scripts/atlas/config.yaml)
+  (`unit_ids:` — Ch 1 = 2224 … Ch 18 = 2241).
 - `lessons/ch01-lessons.md` — Ch 1's 8 daily lessons (the template). **Done in Atlas** (all 8).
-- `unit-NN-*.md`, `lessons/chNN-lessons.md` — Ch 2–18, added as each chapter is built.
+- `lessons/chNN-lessons.md` — Ch 2–18 daily lessons: **not yet authored/pushed.** Build these next
+  (one Atlas lesson per instructional day) now that every unit exists.
 
 Each file is grounded in that chapter's transcribed source (`../_source-text/`), the
 [syllabus](../syllabus/syllabus.md), and the [teaching map](../teaching-map.md). Prose is
