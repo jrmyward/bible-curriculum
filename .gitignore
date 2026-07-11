@@ -9,6 +9,9 @@ Icon?
 .vscode/
 *.code-workspace
 
+# Claude Code — per-machine local settings (not shared)
+.claude/settings.local.json
+
 # Environment
 .env
 .env.local
