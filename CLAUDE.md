@@ -12,6 +12,16 @@ This is a personal curriculum repository for a high school Bible teacher at Wate
 - Each class lives in `classes/<class-name>/` with subfolders: `lesson-plans/`, `assessments/`, `handouts/`.
 - File naming: lowercase, hyphenated, prefixed with chapter number — e.g. `ch01-lesson.md`, `ch01-test.md`, `ch03-case-study.md`.
 
+## Automation & integrations (`_scripts/`)
+
+- `_scripts/atlas/` — pushes the Rubicon Atlas curriculum map (unit fields + daily lessons) from
+  the repo data model. Runbook: [`_scripts/atlas/README.md`](_scripts/atlas/README.md).
+- `_scripts/classroom/` — publishes the **Google Classroom** class and mirrors it in **Google
+  Drive** (topics = units, materials/assignments as drafts, handouts as editable Google Docs filed
+  into per-unit Drive folders), via the official Google APIs on `jward@waterspringsschool.net`.
+  Runbook: [`_scripts/classroom/README.md`](_scripts/classroom/README.md). Secrets
+  (`credentials.json`, `token.json`) are gitignored.
+
 ## How to Generate a New Teaching Map
 
 1. Read `_skill/SKILL_cohort_teaching_map.md` for the full process.

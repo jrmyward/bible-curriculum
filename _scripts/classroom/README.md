@@ -1,96 +1,118 @@
-# Google Classroom Automation — Runbook
+# Google Classroom + Google Drive integration
 
-Create + populate the Google Classroom class for **Bible 9 Foundations**, owned by the teacher
-account **jward@waterspringsschool.net** (confirm exact domain). Two paths, by design:
+Tooling that publishes the **Bible 9 Foundations** course into Google Classroom and mirrors it in
+Google Drive, driven from this repo. Owner account: **jward@waterspringsschool.net**.
 
-- **A · Browser automation (now).** Drive the persistent watchable Chrome (`:9222`, the same one
-  the Atlas tooling uses) to `classroom.google.com` and click through "Create class." Fastest, no
-  Google Cloud setup. Requires the teacher to be **signed into that Chrome window** first.
-- **B · Classroom API (long-term).** Official `classroom.googleapis.com` via OAuth. Robust and
-  repeatable — the right tool for pushing unit topics and daily lessons as topics/coursework later.
-  Needs a one-time Google Cloud setup (below).
+Everything runs through the **official Google APIs** (Classroom + Drive) via a single OAuth token.
+An earlier browser-automation approach was used once to create the class and the 18 topics; those
+scripts are kept as reference (see [Legacy](#legacy-browser-automation)) but coursework, handouts,
+and Drive organization all go through the API now — it is deterministic and idempotent.
 
-Mapping we're building toward: **1 class = Bible 9 Foundations · Atlas unit → Classroom Topic ·
-daily lesson → Classroom assignment/material** (due dates deferred until after Aug 1, 2026).
-For now the scope is **just the class shell.**
+## Architecture
 
-## Status
+```
+this repo (source of truth)                Google (via API, as jward@waterspringsschool.net)
+──────────────────────────                 ─────────────────────────────────────────────────
+classes/foundations/
+  lesson-plans-2026-27/   ─┐
+  rubicon-atlas/unit-*.md  ├─ (authored) ─▶ Classroom  Bible 9 Foundations
+  handouts/*.md            ─┘                 ├─ 18 Topics  (= units, "01: Introduction" …)
+_scripts/classroom/                           └─ per topic: Materials + Assignments (drafts)
+  content/<unit>/*.txt  (item copy)
+  cl.py + build/create scripts ───────────▶ Drive  Classroom/Bible 9 Foundations/
+                                              └─ one subfolder per unit  ← handout Google Docs
+```
 
-- **Class shell created** (via path A, browser automation) on `jward@waterspringsschool.net`:
-  - Name **Bible 9 Foundations** · Section **Grade 9**
-  - Course id `ODU1NTEwMzM0MDA3` · class code `kegl4xsb`
-  - Link: <https://classroom.google.com/c/ODU1NTEwMzM0MDA3>
-- **18 unit Topics created** in Classwork (via `create_topics.py`, path A), named to match the
-  Atlas units exactly (`01: Introduction` … `18: Conclusion`), one each, ordered 01→18. Empty
-  topics stay hidden from students until coursework is attached to them.
-- **Path B (API) is now the working path.** Google Cloud project **Watersprings Teaching** set up;
-  `credentials.json` + `token.json` in place (gitignored). Course id `855510334007`.
-- **Unit 01 built via the API** as DRAFTS under `01: Introduction`: 2 materials (Start Here,
-  Readings) + 2 assignments (Video Reflection = 20 pts, Chapter 1 Test = 87 pts). See
-  `build_unit01.py` (item list) + `content/unit01/*.txt` (the copy) + `cl.py` (API helpers).
-- **The flaky browser material/probe scripts were removed** — coursework goes through the API now.
-  `create_class.py` / `create_topics.py` remain (they did their job; kept as reference/fallback).
-- **Next:** generalize `build_unit01.py` into a per-unit builder and roll out units 02–18 (author
-  each unit's material/assignment copy, then create as drafts). Dates stay unset until Aug 1, 2026.
+**Mapping.** 1 Classroom class = the course · 1 Topic = 1 unit (chapter) · Materials/Assignments =
+the unit's coursework · Drive mirrors it (a folder per unit holding that unit's Docs).
 
----
+**Source-of-truth model.** The repo markdown is what we *generate from*. Handouts become **Google
+Docs** in Drive (editable by the teacher, and what students download). Small edits happen in the
+Doc; substantive/bulk changes happen in the repo markdown and are re-generated.
 
-## A · Browser automation (do this now)
+## Current state
 
-1. **Sign in.** In the watchable Chrome window, sign into `classroom.google.com` as
-   `jward@waterspringsschool.net`. (`open_signin.py` navigates that window to the sign-in page.)
-   First-time Classroom use will prompt for a role — choose **"I'm a Teacher."**
-2. **Verify** the session: `python check_login.py` (reports the signed-in account; screenshots the
-   Classroom home).
-3. **Create the class:** `python create_class.py` (probes the live "Create class" dialog and fills
-   Class name = "Bible 9 Foundations", Section = "Grade 9"). Written after login so the selectors
-   match the real logged-in UI.
+- **Course:** Bible 9 Foundations · Section Grade 9 · course id `855510334007` ·
+  class code `kegl4xsb` · <https://classroom.google.com/c/ODU1NTEwMzM0MDA3>
+- **Topics:** 18, named exactly like the Atlas units (`01: Introduction` … `18: Conclusion`).
+- **Unit 01 built** (all **drafts**, hidden from students until posted):
+  - Materials: *Unit 1 · Start Here: Finding Direction*, *Unit 1 · Readings*, *Unit 1 · Study Guide*
+    (an editable Google Doc, test-aligned to `TR 1.10A`)
+  - Assignments: *Video Reflection — Chapter 1* (20 pts), *Chapter 1 Test* (87 pts)
+- **Drive:** `Classroom/Bible 9 Foundations/` (Google-created course folder) now holds an
+  `01: Introduction/` … `18: Conclusion/` subfolder each; the Ch 1 study-guide Doc lives in
+  `01: Introduction/`. New handout Docs auto-file into their unit folder.
+- **Dates:** deferred — Classroom exposes 2026-27 week dates only after Aug 1, 2026.
 
-Run with the Atlas venv (Playwright is already installed there):
-`_scripts/atlas/.venv/bin/python _scripts/classroom/<script>.py`
+## Setup (one-time, already done)
 
-## B · Classroom API (one-time setup, then reusable)
+Google Cloud project **Watersprings Teaching** (`watersprings-teaching`, in the
+`waterspringsschool.net` org):
 
-**You do the Google Cloud steps once; the scripts handle the rest.**
-
-1. **Google Cloud project.** At <https://console.cloud.google.com/> create (or pick) a project.
-2. **Enable the API:** APIs & Services → Library → **Google Classroom API** → Enable.
-3. **OAuth consent screen:** User type **Internal** (if waterspringsschool.net is a Workspace org)
-   or External. App name e.g. "Foundations Classroom Automation." Add your account as a test user
-   if External.
-4. **Credentials:** Create Credentials → **OAuth client ID** → Application type **Desktop app** →
-   download the JSON as `_scripts/classroom/credentials.json` (gitignored).
-5. **Workspace admin note:** if the domain restricts third-party API access, an admin may need to
-   trust this OAuth client (Admin console → Security → API controls).
-6. **Install deps + authorize** (one-time browser consent, saves `token.json`, gitignored):
+1. Enabled APIs: **Google Classroom API**, **Google Drive API**.
+2. OAuth consent screen: **Internal** (Workspace org → no Google verification needed).
+3. Credential: **OAuth client ID → Desktop app**, downloaded to `credentials.json` (gitignored).
+4. Python env + authorization:
 
    ```bash
    python3 -m venv _scripts/classroom/.venv
    _scripts/classroom/.venv/bin/pip install -r _scripts/classroom/requirements.txt
-   _scripts/classroom/.venv/bin/python _scripts/classroom/auth_api.py
+   _scripts/classroom/.venv/bin/python _scripts/classroom/auth_api.py   # browser consent → token.json
    ```
 
-7. **Create the class:**
+Re-run `auth_api.py` whenever the scope list changes (it re-consents and overwrites `token.json`).
 
-   ```bash
-   _scripts/classroom/.venv/bin/python _scripts/classroom/create_class_api.py \
-     --name "Bible 9 Foundations" --section "Grade 9"
-   ```
+### Scopes (`auth_api.py`)
+- `classroom.courses` — the class
+- `classroom.topics` — unit topics
+- `classroom.courseworkmaterials` — materials (Start Here, Readings, Study Guide)
+- `classroom.coursework.students` — assignments (reflection, test)
+- `drive` (full) — organize Drive into the Classroom-created course folder (the folder was made by
+  Classroom, not this app, so `drive.file` can't reach it — full `drive` is required to add the
+  unit subfolders and move Docs in)
 
-   Prints the new course id; record it here and in future scripts. Topic/coursework helpers build
-   on the same `service` (see `create_class_api.py`).
+## Scripts
 
-### Scopes requested
-`classroom.courses` (the class) · `classroom.topics` (unit topics) ·
-`classroom.courseworkmaterials` (materials: Start Here, Readings) ·
-`classroom.coursework.students` (assignments: reflection, test).
+Run everything with the venv: `_scripts/classroom/.venv/bin/python _scripts/classroom/<script>.py`
 
-## Files
-- `open_signin.py` — point the watchable Chrome at Google sign-in (path A).
-- `check_login.py` — report the signed-in Google account / Classroom state (read-only).
-- `create_class.py` — browser-automation create-class (path A; added after login).
-- `requirements.txt`, `auth_api.py`, `create_class_api.py` — path B (API).
+| Script | Purpose |
+| --- | --- |
+| `auth_api.py` | One-time OAuth consent (`credentials.json` → `token.json`). |
+| `cl.py` | Shared helpers: `service()` / `drive_service()`, `course_id()`, `topics()`, `existing_titles()`, `teacher_folder()`, `ensure_folder()`, `move_file()`. |
+| `create_class_api.py` | Create (or find) the course. Idempotent by name. |
+| `build_unit01.py` | Create Unit 01's materials + assignments as drafts under `01: Introduction`. Idempotent (skips existing titles). The item list + points live at the top; `content/unit01/*.txt` holds the copy. |
+| `create_doc_material.py` | `--md <file> --topic "<unit>" --title "<name>" [--desc …] [--post]`. Renders markdown → a **Google Doc** in the unit's Drive folder → attaches it to the topic as a material (draft by default). Reusable for any handout. |
+| `organize_drive.py` | Create the per-unit Drive subfolders inside the course folder and move listed Docs into their unit folder. Idempotent. |
+
+### Recipes
+
+Add a handout (e.g. a study guide) — author `classes/foundations/handouts/<name>.md`, then:
+
+```bash
+_scripts/classroom/.venv/bin/python _scripts/classroom/create_doc_material.py \
+  --md classes/foundations/handouts/ch01-study-guide.md \
+  --topic "01: Introduction" --title "Unit 1 · Study Guide" \
+  --desc "Downloadable study guide for the Chapter 1 Test."
+```
+
+Build a unit's coursework — copy `build_unit01.py`, edit the `ITEMS` list + `content/<unit>/`
+copy, run it. (Generalizing this into one `build_unit.py` that reads a per-unit manifest is the
+next step for the 02–18 rollout.)
+
+## Legacy (browser automation)
+
+Used once, over a persistent authenticated Chrome on CDP `:9222`, to create the class and the 18
+topics before the API path existed. Kept for reference; not needed for ongoing work.
+
+- `open_signin.py` — point the watchable Chrome at Google sign-in.
+- `check_login.py` — report the signed-in account / Classroom state (read-only).
+- `create_class.py` — create the class via the "Create class" UI.
+- `create_topics.py` — create the 18 topics (reads names from the Atlas `unit-*.md` files).
+
+These use the Atlas venv's Playwright: `_scripts/atlas/.venv/bin/python …`.
 
 ## Security
-`credentials.json`, `token.json`, `.venv/`, and `probe-output/` (screenshots may show the account)
-are gitignored. Never commit them.
+
+`credentials.json`, `token.json`, `.venv/`, and `probe-output/` (screenshots can show the account)
+are gitignored — never commit them. The token grants access to the teacher's Google account; treat
+it like a password.
