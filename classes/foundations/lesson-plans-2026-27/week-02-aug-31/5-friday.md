@@ -1,22 +1,8 @@
-# Day (Ch 2, Day 2) — Fri Sep 4, 2026 · *stub*
+# Fri Sep 4, 2026 · **NO SCHOOL**
 
-**Chapter:** Ch 2 — *What the Bible Is and Isn't* (Day 2) · **Reading:** TBD
-**Period:** ~60 min
+**No school** (non-instructional day; start of the Labor Day weekend). **Mon Sep 7 is Labor Day** — also no school.
 
-> **Stub.** The Chapter 2 block has not been built yet. This file holds the slot in the week.
-> Build this when you build the Ch 2 lesson plans, using the
-> [Ch 1 daily template](../week-01-aug-24/1-monday.md) as the model.
+Chapter 2 opened Thu Sep 3 (Day 1, sub). The next instructional day is **Tue Sep 8** — Ch 2 Day 2,
+in [`../week-03-sep-07/2-tuesday.md`](../week-03-sep-07/2-tuesday.md).
 
----
-
-## Placeholder Start Slide
-
-**Do Now** — TBD
-**Objective** — TBD
-**Agenda** — TBD
-**Reminders** — TBD
-
-## To do when building Ch 2
-
-- Write the full daily plan from the [Ch 1 template](../week-01-aug-24/1-monday.md).
-- Source text: [`../../_source-text/textbook/ch02.md`](../../_source-text/textbook/ch02.md) · manual: [`../../_source-text/teaching-manual/ch02.md`](../../_source-text/teaching-manual/ch02.md)
+> Source of truth for no-school dates: [`_shared/school-calendar-2026-27.md`](../../../../_shared/school-calendar-2026-27.md).

@@ -24,8 +24,8 @@ Day-by-day lesson plans for the 18-chapter Foundations course, paced per the
   day (`1-monday.md` … `5-friday.md`), a `substitute-plan-*.md`, a `README.md`, and a `handouts/`
   folder. **Chapter 1 is converted** — it lives in [`week-01-aug-24/`](week-01-aug-24) and
   [`week-02-aug-31/`](week-02-aug-31). This is the format everything moves to.
-- **Chapter-file (interim).** `chNN-lesson-plan.md`, all ~8 days of a chapter in one file. **Ch 2–18
-  still live here** and will be converted week-by-week (or in a pass) using Ch 1 as the model.
+- **Chapter-file (interim).** `chNN-lesson-plan.md`, all ~8 days of a chapter in one file. **Ch 3–18
+  still live here** and will be converted week-by-week (or in a pass) using Ch 1–2 as the model.
 
 ### The daily file template (Ch 1 is the exemplar)
 
@@ -44,14 +44,14 @@ calendar weeks (most do — 8-day blocks) split across two week folders, as Ch 1
 
 ## Status
 
-Ch 1 is **converted to week style** (approved exemplar). Ch 2–18 remain in the chapter-file format:
-Ch 2 was written as a second calibration exemplar; Ch 3–18 were generated against both exemplars and
-the per-chapter source (teacher manual + textbook + the actual `TR NN.10A` test) and await review.
+Ch 1–2 are **converted to week style**. Ch 3–18 remain in the chapter-file format: they were
+generated against the exemplars and the per-chapter source (teacher manual + textbook + the actual
+`TR NN.10A` test) and await review/conversion.
 
 | Chapter | Days | Test | Plan |
 | --- | --- | --- | --- |
 | Ch 1 — Introduction: Finding Direction | 8 | Wed Sep 2 | ✅ Week style ([`week-01`](week-01-aug-24) · [`week-02`](week-02-aug-31)) |
-| Ch 2 — What the Bible Is and Isn't | 8 | Wed Sep 16 | ✅ Draft (exemplar) |
+| Ch 2 — What the Bible Is and Isn't | 8 | Wed Sep 16 | ✅ Week style ([`week-02`](week-02-aug-31) · [`week-03`](week-03-sep-07) · [`week-04`](week-04-sep-14)) |
 | Ch 3 — Does the Bible Have Authority? | 8 | Tue Sep 29 | ✅ Draft — awaiting review |
 | Ch 4 — How to Read the Bible | 9 | Tue Oct 13 | ✅ Draft — awaiting review |
 | Ch 5 — The Bible as a Story | 9 | Tue Oct 27 | ✅ Draft — awaiting review |

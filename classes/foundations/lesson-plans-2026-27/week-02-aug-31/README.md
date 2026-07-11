@@ -16,8 +16,8 @@
 - **Mon (Aug 31)** · Day 6 · **Mapmaking** synthesis (Lesson 6) — build a visual map of the Christian worldview
 - **Tue (Sep 1)** · Day 7 · Review games + Study Guide (Lessons 8 + 9, merged)
 - **Wed (Sep 2)** · Day 8 · **Chapter 1 Test** (`TR 1.10A`, /87) *(short day)*
-- **Thu (Sep 3)** · **Ch 2 Day 1** · **SUB DAY** — *stub (Ch 2 block not yet built)*
-- **Fri (Sep 4)** · **Ch 2 Day 2** — *stub (Ch 2 block not yet built)*
+- **Thu (Sep 3)** · **Ch 2 Day 1** · **SUB DAY** — Bible-knowledge check + four videos
+- **Fri (Sep 4)** · **NO SCHOOL** (Labor Day weekend; Mon Sep 7 is Labor Day)
 
 ### Assessments This Week
 
@@ -32,7 +32,8 @@
 
 ### Notes
 
-- **Thu Sep 3 is a sub day** — a `substitute-plan-thursday.md` belongs here once Ch 2 is planned.
+- **Thu Sep 3 is a sub day** (Ch 2 opener) — prep the sub folder Wed afternoon; see [`substitute-plan-thursday.md`](substitute-plan-thursday.md).
+- **Fri Sep 4 + Mon Sep 7 are no school** — Ch 2 resumes Tue Sep 8 in [`../week-03-sep-07/`](../week-03-sep-07/).
 - Return and review the Ch 1 test early in the Ch 2 block so misconceptions don't harden.
 - What the test weights most: **matching the six acts** (Day 3 / Day 7). Aim the review there.
 
@@ -43,8 +44,9 @@
 - [`1-monday.md`](1-monday.md) — Day 6: Mapmaking synthesis (Lesson 6)
 - [`2-tuesday.md`](2-tuesday.md) — Day 7: Review games + Study Guide (Lessons 8 + 9)
 - [`3-wednesday.md`](3-wednesday.md) — Day 8: **Chapter 1 Test** *(short day)*
-- [`4-thursday.md`](4-thursday.md) — Ch 2 Day 1 · **SUB DAY** *(stub)*
-- [`5-friday.md`](5-friday.md) — Ch 2 Day 2 *(stub)*
+- [`4-thursday.md`](4-thursday.md) — **Ch 2 Day 1** · **SUB DAY** (Bible-knowledge check + videos)
+- [`substitute-plan-thursday.md`](substitute-plan-thursday.md) — Full sub plan for Thu Sep 3
+- [`5-friday.md`](5-friday.md) — **NO SCHOOL** (Labor Day weekend)
 - [`handouts/`](handouts/) — Week-specific handouts
 
 ---
