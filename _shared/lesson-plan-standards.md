@@ -12,6 +12,14 @@ class:
 
 Both models share the week-directory convention and the quality bar further down.
 
+**Decide the model *after* OCR, not up front.** The publisher's own material often builds in
+discussion and activities, so read the transcribed source text before choosing (see the model
+checkpoint in `/setup-class`). A **blend** is a first-class option: keep the publisher day-file
+structure (Start Slide, timed outline, Slide-Deck Outline) as the spine, and layer in **cohort
+discussion moves** — a Pair & Defend, a short Discussion Brief, a Socratic segment — wherever the
+source invites it. Use the publisher template as the base and borrow cohort tools
+([cohort-tools.md](cohort-tools.md)) as ingredients rather than switching wholesale.
+
 ---
 
 ## Directory & file conventions (both models)

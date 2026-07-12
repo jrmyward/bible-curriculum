@@ -55,8 +55,9 @@ classes/<class-name>/
 └── lesson-plans-YYYY-YY/              (created later by /scaffold-lesson-structure)
 ```
 
-**Note:** Add `.gitkeep` files to empty directories so Git tracks them. Ask which **model** the class
-uses — `publisher` (Summit default) or `cohort` (worldviews/apologetics) — and note it in the README.
+**Note:** Add `.gitkeep` files to empty directories so Git tracks them. Record the **model** in the
+README as **TBD** — it's decided at the post-OCR model checkpoint (once the source text can be read),
+not now. See `/setup-class` Stage 0.
 
 ### 3. Generate the class README
 

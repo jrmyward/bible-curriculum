@@ -33,7 +33,10 @@ and depth.
 - **`--model cohort`** — discussion-first template (Discussion Briefs / Pair & Defend / Case Studies;
   45 min). Use for worldviews (and optionally apologetics). Cohort tools: `_shared/cohort-tools.md`.
 
-If `--model` is omitted, detect from the class README / teaching-map style; default to `publisher`.
+If `--model` is omitted, use the model **recorded in the class README** at the post-OCR checkpoint
+(`/setup-class` Stage 0); fall back to `publisher`. A **blend** is valid — publisher structure with
+cohort discussion moves layered in where the source text invites it (see the blending note in the
+standards doc). If the README still says model = TBD, stop and hold the model checkpoint first.
 
 ## Process
 

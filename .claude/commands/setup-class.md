@@ -23,18 +23,27 @@ tracks where you are, pausing for the human-in-the-loop steps (image uploads, re
 /setup-class worldviews --model cohort
 ```
 
-## Stage 0 — Class shell (once)
+## Stage 0 — Class shell + source text (once)
 
 1. `/new-class <class>` — create `classes/<class>/` (README, `syllabus/`, `handouts/`,
    `_source-text/{textbook,teaching-manual,portal}/`, `rubicon-atlas/lessons/`) and add it to the
-   CLAUDE.md Current Classes table.
-2. Upload syllabus images → `classes/<class>/syllabus/`, then `/generate-official-syllabus <class>`.
-3. `/generate-map <class>` — the teaching map (pick the teaching style; sets pacing, units, sub days).
-   Confirm `_shared/school-calendar-<year>.md` covers the year.
-4. `/scaffold-lesson-structure <class>` — week folders, READMEs, `.generation-log.md`.
+   CLAUDE.md Current Classes table. **Model = TBD** (decided at the checkpoint below, not now).
+2. Determine the chapter count; scaffold `_source-text/chNN/` as needed. Upload the textbook +
+   teacher-manual images (**HEIC ok — convert to JPEG first**) and the `portal/` assets.
+3. `/transcribe-source-text <class>` — OCR/transcribe the images to `_source-text/**/chNN.md`.
+4. **⛑ Model checkpoint (after OCR, before building) — a genuine stop-and-talk point; don't
+   auto-pick.** Read the OCR'd source text *together* and decide the model. The publisher's own
+   material often builds in discussion/activity structure, so this can't be decided blind up front.
+   Discuss: `publisher` (default), `cohort` (`--model cohort`), or a **blend** (publisher structure +
+   cohort discussion moves — see the blending note in the standards doc). Record the decision in the
+   class README.
+5. `/generate-official-syllabus <class>` (from `syllabus/` images) and `/generate-map <class>` — the
+   teaching map (pacing, units, sub days). Confirm `_shared/school-calendar-<year>.md` covers the year.
+6. `/scaffold-lesson-structure <class>` — week folders, READMEs, `.generation-log.md` (now that the
+   model is known, so cohort rubric stubs are created only if chosen).
 
-Also decide the **model** now (`publisher` default, or `cohort` for worldviews/apologetics) and,
-for Google, confirm the class has (or needs) a Classroom course + Atlas units wired up.
+Also confirm the class's **Google** container (Classroom course + topics) and **Atlas** units exist
+or need creating (see the per-chapter Google/Atlas steps).
 
 ## Stage 1 — Per chapter (loop)
 
