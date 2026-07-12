@@ -22,6 +22,17 @@ This is a personal curriculum repository for a high school Bible teacher at Wate
   Runbook: [`_scripts/classroom/README.md`](_scripts/classroom/README.md). Secrets
   (`credentials.json`, `token.json`) are gitignored.
 
+## How to Set Up / Build Out a Class
+
+A complete class spans **three pillars**: repo content · **Rubicon Atlas** (Playwright) · **Google**
+(Classroom/Forms/Slides). The slash-command pipeline (in `.claude/commands/`) covers all three;
+**`/setup-class <class>`** orchestrates it end to end. Per chapter: `/build-chapter` (week-style daily
+plans) → `/build-atlas` (unit fields + daily lessons) → `/push-atlas` → `/publish-chapter`. The
+lesson-plan template + the two models (`publisher` default / `cohort` for worldviews/apologetics) are
+defined in [`_shared/lesson-plan-standards.md`](_shared/lesson-plan-standards.md). Runbooks:
+[`_scripts/atlas/README.md`](_scripts/atlas/README.md), [`_scripts/classroom/README.md`](_scripts/classroom/README.md).
+**Foundations Ch 1–2 is the worked exemplar for all three pillars.**
+
 ## How to Generate a New Teaching Map
 
 1. Read `_skill/SKILL_cohort_teaching_map.md` for the full process.

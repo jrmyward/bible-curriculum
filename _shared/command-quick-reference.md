@@ -4,6 +4,37 @@ Quick guide to all available curriculum generation commands.
 
 ---
 
+## Class setup pipeline (current)
+
+A complete class has **three pillars**: repo content · **Rubicon Atlas** · **Google**
+(Classroom/Forms/Slides). The orchestrator **`/setup-class <class>`** walks all of it; the stages it
+sequences:
+
+**Once per class:** `/new-class` → upload syllabus → `/generate-official-syllabus` → `/generate-map`
+→ `/scaffold-lesson-structure`.
+
+**Per chapter:** `/build-chapter` (week-style daily plans) → `/build-atlas` (unit fields + Madeline
+Hunter dailies) → `/push-atlas` (Playwright) → `/publish-chapter` (Classroom + Form-quiz test +
+Slides).
+
+| Command | Pillar | Purpose |
+|---------|--------|---------|
+| `/setup-class` | all | Front-to-back orchestrator; resumable |
+| `/build-chapter` | content | One chapter's daily plans (`--model publisher`/`cohort`) |
+| `/build-atlas` | Atlas | Author `rubicon-atlas/` unit fields + daily lessons |
+| `/push-atlas` | Atlas | Push to Rubicon Atlas via Playwright (live Chrome) |
+| `/publish-chapter` | Google | Classroom materials + video worksheet + Form quiz + Slides decks |
+
+**Model:** `publisher` (Summit default — Start Slide template, publisher activities, Form-quiz tests)
+or `cohort` (worldviews/apologetics — Discussion Briefs / Pair & Defend). See
+[`lesson-plan-standards.md`](lesson-plan-standards.md). Runbooks: [`_scripts/atlas/README.md`](../_scripts/atlas/README.md),
+[`_scripts/classroom/README.md`](../_scripts/classroom/README.md). Exemplar: **Foundations Ch 1–2**.
+
+> The sections below predate this pipeline (they describe the older cohort-only, one-`lesson-plans.md`
+> -per-week flow). Kept for reference; prefer the pipeline above.
+
+---
+
 ## Getting Started (New Class)
 
 **Step 1:** Create the class structure

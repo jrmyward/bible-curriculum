@@ -8,6 +8,12 @@ args: "[class-name] [--year YYYY-YY]"
 
 Create the complete directory structure for lesson plans, handouts, substitute plans, and assessments for a class.
 
+**Read [`_shared/lesson-plan-standards.md`](../../_shared/lesson-plan-standards.md) first** — it
+defines the two models and the day-file conventions this structure holds. Ask which **model** the
+class uses: `publisher` (Summit default — no cohort rubric stubs) or `cohort` (worldviews/apologetics
+— create the Discussion Brief / Pair & Defend / Capstone rubric stubs in step 9). After scaffolding,
+fill weeks with `/build-chapter` (per chapter), not per calendar week.
+
 ## Usage
 
 ```bash
@@ -145,7 +151,7 @@ If missing:
    
    **Chapter:** [Chapter from teaching map]  
    **Topic:** [Topic from teaching map]  
-   **Class Period:** 45 minutes
+   **Class Period:** [publisher: ~60 min, Wed ~45 · cohort: 45 min]
    
    ---
    
@@ -202,9 +208,13 @@ If missing:
    [Auto-generated list of capstones and final assessments from teaching map]
    ```
 
-9. **Create assessment stub files**
+9. **Create assessment stub files** *(cohort model only)*
 
-   Create shared rubric files for all grading categories:
+   **Publisher model:** skip this step — assessment is the per-chapter publisher test (built as a
+   Google Form quiz by `/publish-chapter`), not shared cohort rubrics. Create only an empty
+   `assessments/` with `.gitkeep`.
+
+   **Cohort model:** create shared rubric files for all grading categories:
 
    **Shared rubrics (always created):**
 
