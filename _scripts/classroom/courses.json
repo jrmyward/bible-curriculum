@@ -1,0 +1,10 @@
+{
+  "_comment": "Maps a repo class key (the classes/<key>/ folder) to its Google Classroom course. Add an entry per class. The classroom scripts take --course <key>; default is the 'default' key below.",
+  "default": "foundations",
+  "classes": {
+    "foundations": {
+      "course_name": "Bible 9 Foundations",
+      "section": "Grade 9"
+    }
+  }
+}

@@ -210,12 +210,13 @@ def build_deck(slides, drive, topics_map, course_folder, day_file):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("day_files", nargs="+")
+    ap.add_argument("--course", default=None, help="repo class key (courses.json); default = config default")
     args = ap.parse_args()
     try:
         slides = cl.slides_service()
         svc = cl.service()
         drive = cl.drive_service()
-        cid = cl.course_id(svc)
+        cid = cl.course_id(svc, args.course)
         topics_map = cl.topics(svc, cid)
         course_folder = cl.teacher_folder(svc, cid)
         for f in args.day_files:

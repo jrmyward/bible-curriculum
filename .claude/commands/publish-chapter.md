@@ -74,4 +74,6 @@ Decks auto-file into `<NN: Topic>/Slides/` (the chapter number is read from each
 ## Reference
 
 [`_scripts/classroom/README.md`](../../_scripts/classroom/README.md) documents every script, the
-scopes, and the recipes. Foundations Ch 1–2 (`content/unit01/`, `content/unit02/`) are the exemplars.
+scopes, and the recipes. Foundations Ch 1–2 (`content/foundations/unit01/`, `unit02/`) are the
+exemplars. All scripts take `--course <class-key>` (from `courses.json`); provision a new class's
+course + topics with `create_class_api.py` + `create_topics_api.py` first.

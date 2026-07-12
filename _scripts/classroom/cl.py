@@ -1,10 +1,25 @@
 """Shared Google Classroom API helpers (path B). Reads token.json from auth_api.py."""
-import pathlib
+import json, pathlib
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
 HERE = pathlib.Path(__file__).parent
-COURSE_NAME = "Bible 9 Foundations"
+
+def _courses_cfg():
+    return json.loads((HERE / "courses.json").read_text())
+
+def course_config(class_key=None):
+    """Resolve a repo class key (e.g. 'foundations') to its course config from courses.json.
+    class_key=None uses the config's default."""
+    cfg = _courses_cfg()
+    key = class_key or cfg.get("default", "foundations")
+    c = cfg.get("classes", {}).get(key)
+    if not c:
+        raise SystemExit(f"class {key!r} not in courses.json (have: {list(cfg.get('classes', {}))})")
+    return c
+
+def course_name(class_key=None):
+    return course_config(class_key)["course_name"]
 
 def _creds():
     return Credentials.from_authorized_user_file(str(HERE / "token.json"))
@@ -23,11 +38,14 @@ def forms_service():
 def slides_service():
     return build("slides", "v1", credentials=_creds(), static_discovery=False)
 
-def course_id(svc, name=COURSE_NAME):
+def course_id(svc, class_key=None, name=None):
+    """Course id for a repo class key (via courses.json) or an explicit course name.
+    Back-compat: course_id(svc) resolves the default class."""
+    target = name or course_name(class_key)
     for c in svc.courses().list(teacherId="me").execute().get("courses", []):
-        if c.get("name") == name:
+        if c.get("name") == target:
             return c["id"]
-    raise SystemExit(f"course {name!r} not found")
+    raise SystemExit(f"course {target!r} not found (create it with create_class_api.py --course <key>)")
 
 def topics(svc, cid):
     """Return {topic_name: topicId} for the course."""

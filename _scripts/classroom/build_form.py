@@ -141,6 +141,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--spec", required=True)
     ap.add_argument("--desc", help="text file for the assignment description")
+    ap.add_argument("--course", default=None, help="repo class key (courses.json); default = config default")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
 
@@ -151,7 +152,7 @@ def main():
         forms = cl.forms_service()
         svc = cl.service()
         drive = cl.drive_service()
-        cid = cl.course_id(svc)
+        cid = cl.course_id(svc, args.course)
 
         fid, responder = create_form(forms, spec)
         print(f"created Form: {fid}\n  edit:   https://docs.google.com/forms/d/{fid}/edit\n  fill:   {responder}")

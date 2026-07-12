@@ -82,14 +82,15 @@ Run everything with the venv: `_scripts/classroom/.venv/bin/python _scripts/clas
 | Script | Purpose |
 | --- | --- |
 | `auth_api.py` | One-time OAuth consent (`credentials.json` → `token.json`). |
-| `cl.py` | Shared helpers: `service()` / `drive_service()`, `course_id()`, `topics()`, `existing_titles()`, `teacher_folder()`, `ensure_folder()`, `move_file()`. |
-| `create_class_api.py` | Create (or find) the course. Idempotent by name. |
-| `build_unit01.py` | Create Unit 01's text materials + the Video Reflection assignment as drafts under `01: Introduction`. Idempotent (skips existing titles). (The test is built by `build_form.py`, not here.) |
-| `build_form.py` | `--spec <form.json> [--desc <txt>] [--force]`. Builds a chapter test as a **Google Form quiz** (point values + correct answers), files it in the unit's Drive folder, and attaches it to the matching Classroom assignment as a link (Classroom then offers grade import). Needs the `forms.body` scope. |
-| `create_doc_material.py` | `--md <file> --topic "<unit>" --title "<name>" [--desc …] [--post]`. Renders markdown → a **Google Doc** in the unit's Drive folder → attaches it to the topic as a material (draft by default). Reusable for any handout. |
-| `build_doc_assignment.py` | `--md <file> --topic "<unit>" --title "<name>" --points N [--desc …] [--replace "<old title>"] [--force]`. Renders markdown → a **Google Doc** worksheet → attaches it to a new **assignment** as a **per-student copy** (`STUDENT_COPY`). Used for written worksheets students fill in and submit (e.g. the video questions). |
-| `build_slides.py` | `<day.md> [<day.md> …]`. Generates a **Google Slides** deck per day: slide 1 is a styled Start Slide (Do Now / Objective / Agenda / Reminders + "today is …" header) mimicking the classroom template; the rest are one slide per item in that day's *Slide-Deck Outline*. The day `.md` is the source of truth. Files decks into `<unit>/Slides/` in Drive. Needs the `presentations` scope. Teacher decks — not attached to Classroom. |
-| `organize_drive.py` | Create the per-unit Drive subfolders inside the course folder and move listed Docs into their unit folder. Idempotent. |
+| `cl.py` | Shared helpers: `service()`/`drive_service()`/`forms_service()`/`slides_service()`, `course_config()`/`course_name()`, `course_id(svc, class_key)`, `topics()`, `existing_titles()`, `teacher_folder()`, `ensure_folder()`, `move_file()`. |
+| `create_class_api.py` | `--course <key>` (or `--name/--section`). Create (or find) the course. Idempotent by name. |
+| `create_topics_api.py` | `--course <key> [--dry-run]`. Create the unit Topics from the class's `rubicon-atlas/unit-*.md` H1s (`NN: Title`). Idempotent. |
+| `build_unit.py` | `--course <key> --topic "<name>" --dir content/<key>/unitNN`. Create a unit's text materials (from `materials.json`) as drafts. Idempotent. (Tests → `build_form.py`; worksheets → `build_doc_assignment.py`.) |
+| `build_form.py` | `--spec <form.json> [--desc <txt>] [--course <key>] [--force]`. Builds a chapter test as a **Google Form quiz** (points + correct answers), files it in the unit's Drive folder, and attaches it to the Classroom assignment as a link (Classroom then offers grade import). Needs `forms.body`. |
+| `create_doc_material.py` | `--md <file> --topic "<unit>" --title "<name>" [--desc …] [--course <key>] [--post]`. Renders markdown → a **Google Doc** in the unit's Drive folder → attaches it to the topic as a material (draft). |
+| `build_doc_assignment.py` | `--md <file> --topic "<unit>" --title "<name>" --points N [--desc …] [--course <key>] [--replace "<old title>"] [--force]`. Renders markdown → a **Google Doc** worksheet → a new **assignment** as a **per-student copy** (`STUDENT_COPY`). |
+| `build_slides.py` | `<day.md> … [--course <key>]`. Generates a **Google Slides** deck per day: slide 1 is a styled Start Slide (Do Now / Objective / Agenda / Reminders); the rest = one slide per *Slide-Deck Outline* item. Chapter+unit read from each file's `**Chapter:** Ch N` line; decks auto-file into `<unit>/Slides/`. Needs `presentations`. |
+| `organize_drive.py` | `[--course <key>]`. Ensure a per-unit Drive subfolder exists for every topic. Idempotent. |
 
 ### Recipes
 
@@ -111,9 +112,31 @@ _scripts/classroom/.venv/bin/python _scripts/classroom/create_doc_material.py \
   --desc "The spine of the whole course — learn the six acts in order."
 ```
 
-Build a unit's coursework — copy `build_unit01.py`, edit the `ITEMS` list + `content/<unit>/`
-copy, run it. (Generalizing this into one `build_unit.py` that reads a per-unit manifest is the
-next step for the 02–18 rollout.)
+Build a unit's text materials — author `content/<class>/unitNN/materials.json` (+ the `.txt` files),
+then:
+
+```bash
+_scripts/classroom/.venv/bin/python _scripts/classroom/build_unit.py \
+  --course foundations --topic "02: What the Bible Is and Isn't" \
+  --dir content/foundations/unit02
+```
+
+## Multi-course
+
+All scripts take `--course <key>`, where `<key>` is a repo class folder mapped to its Classroom
+course in [`courses.json`](courses.json) (default: `foundations`). Handout `--md` paths already live
+under `classes/<key>/`; item copy lives under `content/<key>/unitNN/`.
+
+**Provision a brand-new class's Google containers** (once), then publish chapters as usual:
+
+```bash
+PY=_scripts/classroom/.venv/bin/python
+# 1. add the class to courses.json  { "classes": { "apologetics": {"course_name": "...", "section": "..."} } }
+$PY _scripts/classroom/create_class_api.py  --course apologetics          # create the course
+$PY _scripts/classroom/create_topics_api.py --course apologetics          # topics from rubicon-atlas/unit-*.md
+$PY _scripts/classroom/organize_drive.py    --course apologetics          # per-unit Drive folders
+# then per chapter: build_unit / create_doc_material / build_doc_assignment / build_form / build_slides — all with --course apologetics
+```
 
 ## Chapter tests → Google Form quizzes (`build_form.py`)
 
@@ -143,8 +166,8 @@ Forms grading view. (See the `simplify`/decision note in the repo history.)
 
 ```bash
 _scripts/classroom/.venv/bin/python _scripts/classroom/build_form.py \
-  --spec _scripts/classroom/content/unit01/chapter-1-test.form.json \
-  --desc _scripts/classroom/content/unit01/chapter-test.txt
+  --spec _scripts/classroom/content/foundations/unit01/chapter-1-test.form.json \
+  --desc _scripts/classroom/content/foundations/unit01/chapter-test.txt
 ```
 
 This creates the Form, files it in `01: Introduction/` in Drive, and (re)creates the *Chapter 1

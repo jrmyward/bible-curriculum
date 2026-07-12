@@ -29,11 +29,11 @@ def make_doc(drive, name, md_text, parent=None):
 
 def main():
     md_path = arg("--md"); topic = arg("--topic"); title = arg("--title")
-    desc = arg("--desc", ""); post = "--post" in sys.argv
+    desc = arg("--desc", ""); course = arg("--course"); post = "--post" in sys.argv
     if not (md_path and topic and title):
         print("need --md, --topic, --title"); sys.exit(1)
 
-    svc = cl.service(); cid = cl.course_id(svc); tid = cl.topics(svc, cid)[topic]
+    svc = cl.service(); cid = cl.course_id(svc, course); tid = cl.topics(svc, cid)[topic]
     if title in cl.existing_titles(svc, cid):
         print(f"skip (exists): {title}"); return
 

@@ -30,10 +30,11 @@ def main():
     ap.add_argument("--points", type=int, required=True)
     ap.add_argument("--desc", default="")
     ap.add_argument("--replace", help="title of an existing draft assignment to delete first")
+    ap.add_argument("--course", default=None, help="repo class key (courses.json); default = config default")
     ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
 
-    svc = cl.service(); cid = cl.course_id(svc); tid = cl.topics(svc, cid)[a.topic]
+    svc = cl.service(); cid = cl.course_id(svc, a.course); tid = cl.topics(svc, cid)[a.topic]
     drive = cl.drive_service()
 
     work = svc.courses().courseWork().list(
