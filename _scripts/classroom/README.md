@@ -35,14 +35,14 @@ Doc; substantive/bulk changes happen in the repo markdown and are re-generated.
 - **Course:** Bible 9 Foundations · Section Grade 9 · course id `855510334007` ·
   class code `kegl4xsb` · <https://classroom.google.com/c/ODU1NTEwMzM0MDA3>
 - **Topics:** 18, named exactly like the Atlas units (`01: Introduction` … `18: Conclusion`).
-- **Unit 01 built** (all **drafts**, hidden from students until posted):
-  - Materials: *Unit 1 · Start Here: Finding Direction*, *Unit 1 · Readings* (aligned to the 8-day
-    schedule), *Unit 1 · Study Guide* + *Six Acts of the Bible* (editable Google Docs)
-  - Assignments: *Video Reflection — Chapter 1* (20 pts), *Chapter 1 Test* (87 pts — a **Google Form
-    quiz**; 54 auto-graded, 33 hand-graded; built by `build_form.py`)
-- **Drive:** `Classroom/Bible 9 Foundations/` (Google-created course folder) now holds an
-  `01: Introduction/` … `18: Conclusion/` subfolder each; the Ch 1 study-guide Doc lives in
-  `01: Introduction/`. New handout Docs auto-file into their unit folder.
+- **Units 01–02 built** (all **drafts**, hidden from students until posted). Each has: Start Here +
+  Readings materials, editable Doc references (Study Guide + a per-chapter reference — *Six Acts* for
+  Ch 1, *Key Concepts* for Ch 2), a **per-student video worksheet** assignment, and the **chapter
+  test as a Google Form quiz** (Ch 1: 87 pts / 54 auto; Ch 2: 84 pts / 65 auto). Each day also has a
+  **Google Slides deck** in the unit's `Slides/` folder (built by `build_slides.py`).
+- **Drive:** `Classroom/Bible 9 Foundations/` (Google-created course folder) holds an
+  `01: Introduction/` … `18: Conclusion/` subfolder each; handout Docs auto-file into their unit
+  folder, and daily decks into `<unit>/Slides/`.
 - **Dates:** deferred — Classroom exposes 2026-27 week dates only after Aug 1, 2026.
 
 ## Setup (one-time, already done)
@@ -157,8 +157,9 @@ grades" appears). Re-run with `--force` to rebuild.
 One Google Slides deck per teaching day, generated from the day's lesson-plan `.md` (the source of
 truth). Slide 1 is a styled **Start Slide** (Do Now / Objective / Agenda / Reminders + a "today is
 …" header) that mimics the classroom start-slide template; the rest are one slide per item in that
-day's *Slide-Deck Outline*. Decks land in `01: Introduction/Slides/` in Drive — teacher decks, not
-Classroom materials. Layout + accent colors approximate the template, not its hand-lettered fonts.
+day's *Slide-Deck Outline*. The chapter number + unit are read from each file's `**Chapter:** Ch N`
+line, so decks auto-file into the right `<unit>/Slides/` folder — teacher decks, not Classroom
+materials. Layout + accent colors approximate the template, not its hand-lettered fonts.
 
 One-time: enable the **Google Slides API** in the Cloud project and re-run `auth_api.py` (adds the
 `presentations` scope). Then, for Chapter 1's eight days:

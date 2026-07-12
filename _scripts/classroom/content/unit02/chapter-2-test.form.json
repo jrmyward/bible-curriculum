@@ -1,0 +1,111 @@
+{
+  "_comment": "Machine-readable build spec for build_form.py — Chapter 2 Test Google Form quiz. Human-readable transcription: classes/foundations/_source-text/portal/ch02/test.md. Keep in sync.",
+  "title": "Chapter 2 Test — Foundations (Bible 9)",
+  "documentTitle": "Foundations · Chapter 2 Test (TR 2.10A)",
+  "description": "Chapter 2 covers the Bible's influence and arrangement, the four readers, general vs. special revelation, the canon and the three NT criteria, inspiration and inerrancy, and relativism vs. truth. Total: 84 points.",
+  "topic": "02: What the Bible Is and Isn't",
+  "assignmentTitle": "Chapter 2 Test",
+  "totalPoints": 84,
+  "sections": [
+    {
+      "heading": "Multiple Choice",
+      "instructions": "Select ALL correct answers. Some questions have more than one. (Auto-scored as all-or-nothing; the teacher awards partial credit in the Forms grading view where needed.)",
+      "questions": [
+        {"id": "q1", "type": "checkbox", "points": 4, "required": true, "text": "1. What are some ways the impact of the Bible can be seen?",
+          "options": ["It had a great influence on our nation.", "It has been read by everyone.", "It changed Western civilization.", "It is part of world literature.", "It can be found in every library in the world.", "Knowledge of it is the mark of an educated person."],
+          "correct": ["It had a great influence on our nation.", "It changed Western civilization.", "It is part of world literature.", "Knowledge of it is the mark of an educated person."]},
+        {"id": "q2", "type": "checkbox", "points": 1, "required": true, "text": "2. Four common ways the Bible can be read are …",
+          "options": ["scholar, saint, strategy, and skeptic", "skeptic, seeker, scholar, and student", "skeptic, scholar, seeker, and saint", "seeker, skeptic, strategy, and saint"],
+          "correct": ["skeptic, scholar, seeker, and saint"]},
+        {"id": "q3", "type": "checkbox", "points": 5, "required": true, "text": "3. What statements are true about the way the Bible is organized?",
+          "options": ["The Old Testament has 27 books, and the New Testament has 39 books.", "The first four books of the New Testament are called the Gospels.", "The Old Testament begins with Genesis and ends with Malachi.", "The first five books of the Old Testament are called the Torah.", "The Apocrypha is a section included in all Bibles.", "The New Testament includes an historical account of the early church and letters written to churches and Christians.", "The Old Testament has books on poetry, prophecy, and history."],
+          "correct": ["The first four books of the New Testament are called the Gospels.", "The Old Testament begins with Genesis and ends with Malachi.", "The first five books of the Old Testament are called the Torah.", "The New Testament includes an historical account of the early church and letters written to churches and Christians.", "The Old Testament has books on poetry, prophecy, and history."]},
+        {"id": "q4", "type": "checkbox", "points": 2, "required": true, "text": "4. The following are examples of general revelation EXCEPT for …",
+          "options": ["nebulas", "the redwood forest", "the healing of the ten lepers in Luke 17", "Joseph's dreams about his brothers and father", "eagles"],
+          "correct": ["the healing of the ten lepers in Luke 17", "Joseph's dreams about his brothers and father"]},
+        {"id": "q5", "type": "checkbox", "points": 3, "required": true, "text": "5. Special revelation is God's revelation about himself through …",
+          "options": ["pastors' sermons", "Jesus Christ", "Scriptures", "Christian books", "the Holy Spirit"],
+          "correct": ["Jesus Christ", "Scriptures", "the Holy Spirit"]},
+        {"id": "q6", "type": "checkbox", "points": 2, "required": true, "text": "6. Which of the following correctly describes the canon?",
+          "options": ["an Old Testament weapon used to conquer the Canaanites", "the name of a city the Israelites conquered", "another name for the Apocrypha", "a collection of pre-historic manuscripts", "the collection of biblical writings commonly acknowledged as genuine and authoritative", "sacred books held to be God's inspired Word"],
+          "correct": ["the collection of biblical writings commonly acknowledged as genuine and authoritative", "sacred books held to be God's inspired Word"]},
+        {"id": "q7", "type": "checkbox", "points": 3, "required": true, "text": "7. The three criteria used to select the books of the New Testament were …",
+          "options": ["pedigree", "the Torah", "general or special revelation", "apostolicity", "orthodoxy"],
+          "correct": ["pedigree", "apostolicity", "orthodoxy"]},
+        {"id": "q8", "type": "checkbox", "points": 2, "required": true, "text": "8. Inspiration is …",
+          "options": ["the doctrine that God enabled people to write the words of Scripture", "an interpretation of God's Word", "a prompting by the Holy Spirit to write God's message", "another term the Bible uses for imagination"],
+          "correct": ["the doctrine that God enabled people to write the words of Scripture", "a prompting by the Holy Spirit to write God's message"]},
+        {"id": "q9", "type": "checkbox", "points": 3, "required": true, "text": "9. What are some reasons we can be confident the entire Bible is God's Word?",
+          "options": ["The Bible is rooted in history.", "The Bible is inspired by God.", "The Bible was written by expert witnesses.", "The Bible changed Western civilization.", "The Bible is inerrant."],
+          "correct": ["The Bible is rooted in history.", "The Bible is inspired by God.", "The Bible is inerrant."]},
+        {"id": "q10", "type": "checkbox", "points": 3, "required": true, "text": "10. Which statements describe relativism?",
+          "options": ["It is a term used when searching for relatives or ancestors.", "Truth is relative.", "There are no moral absolutes.", "Truth can't be known with certainty."],
+          "correct": ["Truth is relative.", "There are no moral absolutes.", "Truth can't be known with certainty."]},
+        {"id": "q11", "type": "checkbox", "points": 3, "required": true, "text": "11. Which claims are NOT true about the Bible?",
+          "options": ["The Bible is the inspired Word of God.", "God speaks to humankind through the Bible.", "The Bible is a rule book.", "The Bible is God's revelation.", "The truth of the Bible is relative to each individual.", "The Bible merely contains God's word."],
+          "correct": ["The Bible is a rule book.", "The truth of the Bible is relative to each individual.", "The Bible merely contains God's word."]},
+        {"id": "q12", "type": "checkbox", "points": 1, "required": true, "text": "12. Which of the following statements are self-refuting?",
+          "options": ["\"There is no truth.\"", "\"No one can know anything.\"", "\"I have a brother who is an only child.\"", "\"Every sentence has only five words.\"", "All of the above"],
+          "correct": ["All of the above"]},
+        {"id": "q13", "type": "checkbox", "points": 1, "required": true, "text": "13. What makes a belief, thought, or statement true?",
+          "options": ["It is sincerely believed by an individual.", "It is sincerely believed by a large group of people.", "It is recorded in a holy book.", "It corresponds to reality.", "All of the above"],
+          "correct": ["It corresponds to reality."]},
+        {"id": "q14", "type": "checkbox", "points": 1, "required": true, "text": "14. Which of the following accurately describe the Bible?",
+          "options": ["It was written by at least 40 different writers.", "It is the best-selling book of all time.", "All or parts of it have been translated into over 3,400 languages.", "a and b only", "All of the above", "None of the above"],
+          "correct": ["All of the above"]}
+      ]
+    },
+    {
+      "heading": "True / False",
+      "instructions": "Indicate whether each statement is true or false. 1 point each.",
+      "questions": [
+        {"id": "q15", "type": "radio", "points": 1, "required": true, "text": "15. To say the Bible is inspired is to say the Old Testament prophets motivated and inspired its authors to write it.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q16", "type": "radio", "points": 1, "required": true, "text": "16. The Gospel of Mark and the Gospel of Luke are examples of apostolicity.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q17", "type": "radio", "points": 1, "required": true, "text": "17. The Bible is divided into two sections and was written over a period of 2,000 years.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q18", "type": "radio", "points": 1, "required": true, "text": "18. The Bible is like a rule book.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q19", "type": "radio", "points": 1, "required": true, "text": "19. Psalm 19:1–4 indicates that general revelation is written on our hearts and through the observation of God's creation.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q20", "type": "radio", "points": 1, "required": true, "text": "20. Romans 2:14–15 informs us that all Scripture is breathed out by God and can be used for teaching, reproof, correction, and training in righteousness.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q21", "type": "radio", "points": 1, "required": true, "text": "21. Relativism is a belief, thought, or statement that is true if it corresponds with reality.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q22", "type": "radio", "points": 1, "required": true, "text": "22. Christianity is a revealed religion.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q23", "type": "radio", "points": 1, "required": true, "text": "23. Through creation, there are aspects of God that everyone can know.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q24", "type": "radio", "points": 1, "required": true, "text": "24. God's plan for the world only comes through general revelation.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q25", "type": "radio", "points": 1, "required": true, "text": "25. The doctrine of inerrancy says that the Bible is without error in the original writings.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q26", "type": "radio", "points": 1, "required": true, "text": "26. The pseudepigrapha of Scripture was divinely inspired.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q27", "type": "radio", "points": 1, "required": true, "text": "27. Although there have been some errors in the transmission of the Bible, the essential doctrines of the faith have been transmitted reliably.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q28", "type": "radio", "points": 1, "required": true, "text": "28. It is most accurate to say the Bible contains God's word.", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q29", "type": "radio", "points": 1, "required": true, "text": "29. The Bible did not have a great influence on our nation and founding fathers.", "options": ["True", "False"], "correct": ["False"]}
+      ]
+    },
+    {
+      "heading": "Fill in the Blank",
+      "instructions": "Type the missing word(s). 2 points each. (Spelling matters; the teacher can accept variants in the grading view.)",
+      "questions": [
+        {"id": "q30", "type": "short_text", "points": 2, "required": true, "text": "30. The ______ is the view that the truth of a statement is determined by how accurately it describes the facts of reality.", "correct": ["correspondence theory of truth", "the correspondence theory of truth"]},
+        {"id": "q31", "type": "short_text", "points": 2, "required": true, "text": "31. ______ is the belief that truth, knowledge, and morality are relative to the individual, society, or historical context.", "correct": ["Relativism", "relativism"]},
+        {"id": "q32", "type": "short_text", "points": 2, "required": true, "text": "32. The statement \"There is no truth\" is a ______.", "correct": ["self-refuting claim", "self-refuting", "a self-refuting claim"]},
+        {"id": "q33", "type": "short_text", "points": 2, "required": true, "text": "33. If a book conforms to the teachings of the apostles and the theology of early church leaders, it passes the test of ______.", "correct": ["orthodoxy"]},
+        {"id": "q34a", "type": "short_text", "points": 2, "required": true, "text": "34a. The Old Testament contains ______ books.", "correct": ["39"]},
+        {"id": "q34b", "type": "short_text", "points": 2, "required": true, "text": "34b. The New Testament contains ______ books.", "correct": ["27"]},
+        {"id": "q34c", "type": "short_text", "points": 2, "required": true, "text": "34c. The Bible contains a total of ______ books.", "correct": ["66"]},
+        {"id": "q35", "type": "short_text", "points": 2, "required": true, "text": "35. Saints do more than just read the Bible; they ______ diligently to understand and apply it to life.", "correct": ["study it", "study"]}
+      ]
+    },
+    {
+      "heading": "Short Answer",
+      "instructions": "Answer in complete sentences. 3 points each. (Graded by the teacher.)",
+      "questions": [
+        {"id": "q36", "type": "paragraph", "points": 3, "required": true, "text": "36. How is the Bible like a map?", "modelAnswer": "A map gives perspective and orients you to the world; it shows the way to your destination. Likewise, the Bible shows you how to get your bearings so you can find your way and live well in God's world."},
+        {"id": "q37", "type": "paragraph", "points": 3, "required": true, "text": "37. Explain the analogy that the Bible is like a compass.", "modelAnswer": "A compass gives direction — a fixed point of reference. Like a compass, the Bible points to truth."},
+        {"id": "q38", "type": "paragraph", "points": 3, "required": true, "text": "38. Give two examples each of general revelation and special revelation.", "modelAnswer": "General: anything relating to creation or conscience. Special: God revealing himself through Jesus Christ, the Holy Spirit, the Scriptures, or miraculous events."}
+      ]
+    },
+    {
+      "heading": "Essay",
+      "instructions": "Answer each with at least one paragraph. 5 points each. (Graded by the teacher.)",
+      "questions": [
+        {"id": "q39", "type": "paragraph", "points": 5, "required": true, "text": "39. Explain why the statement \"Truth cannot be known\" is a self-refuting claim. Then explain why truth matters.", "modelAnswer": "If truth cannot be known, we couldn't know that very claim — it contradicts itself. But truth can be known and it matters: it is the only foundation on which to build a life; it tells us who we are, where we are, who created us, and the real story of the world."},
+        {"id": "q40", "type": "paragraph", "points": 5, "required": true, "text": "40. Think about the four common ways people read the Bible (skeptic, seeker, scholar, saint). Describe your own journey from when you first started reading the Bible to how you approach it now. Refer to at least two of the four ways.", "modelAnswer": "Answers vary but must reference at least two of: skeptic, seeker, scholar, saint."}
+      ]
+    }
+  ]
+}

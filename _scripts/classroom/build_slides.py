@@ -22,7 +22,6 @@ EMU = 914400  # per inch
 TERRACOTTA = {"red": 0.85, "green": 0.53, "blue": 0.36}
 DARK = {"red": 0.17, "green": 0.17, "blue": 0.17}
 BORDER = {"red": 0.20, "green": 0.20, "blue": 0.20}
-UNIT_TOPIC = "01: Introduction"   # Ch 1 lives here; parameterize per unit later
 
 
 # ---------- parsing the day .md ----------
@@ -51,6 +50,8 @@ def section(md, heading_contains):
 
 def parse_day(md):
     h1 = next((l[2:].strip() for l in md.splitlines() if l.startswith("# ")), "Lesson")
+    cm = re.search(r"\*\*Chapter:\*\*\s*Ch\s*(\d+)", md)
+    chapter = int(cm.group(1)) if cm else None
     start = section(md, "Start Slide")
 
     m = re.search(r"Today is\s+([A-Za-z]+)\s*·\s*([^*\n]+)", start)
@@ -89,7 +90,7 @@ def parse_day(md):
         bullets = [strip_md(b) for b in (mm.group(2) or "").split("·") if strip_md(b)]
         slides.append((title, bullets))
 
-    return {"h1": h1, "weekday": weekday, "date": date, "do_now": do_now,
+    return {"h1": h1, "chapter": chapter, "weekday": weekday, "date": date, "do_now": do_now,
             "objective": objective, "reminders": reminders, "agenda": agenda, "slides": slides}
 
 
@@ -175,9 +176,20 @@ def content_slide(page_id, title_id, body_id, title, bullets):
 
 # ---------- build one deck ----------
 
-def build_deck(slides, drive, folder_id, day_file):
+def unit_slides_folder(drive, topics_map, course_folder, chapter):
+    """Resolve (or create) <NN: Topic>/Slides/ in Drive for the given chapter number."""
+    prefix = f"{chapter:02d}:"
+    topic_name = next((n for n in topics_map if n.startswith(prefix)), None)
+    if not topic_name:
+        return None
+    unit = cl.ensure_folder(drive, topic_name, course_folder)
+    return cl.ensure_folder(drive, "Slides", unit)
+
+
+def build_deck(slides, drive, topics_map, course_folder, day_file):
     d = parse_day(pathlib.Path(day_file).read_text())
-    title = f"Foundations Ch 1 · {strip_md(d['h1'])}"
+    ch = d["chapter"]
+    title = f"Foundations Ch {ch if ch else '?'} · {strip_md(d['h1'])}"
     pres = slides.presentations().create(body={"title": title}).execute()
     pid = pres["presentationId"]
     default_slide = pres["slides"][0]["objectId"]
@@ -189,8 +201,9 @@ def build_deck(slides, drive, folder_id, day_file):
         reqs += content_slide(f"cslide{i:02d}", f"ctitle{i:02d}", f"cbody{i:02d}", t, bl)
     slides.presentations().batchUpdate(presentationId=pid, body={"requests": reqs}).execute()
 
-    if folder_id:
-        cl.move_file(drive, pid, folder_id)
+    folder = unit_slides_folder(drive, topics_map, course_folder, ch) if ch else None
+    if folder:
+        cl.move_file(drive, pid, folder)
     return title, len(d["slides"]) + 1, f"https://docs.google.com/presentation/d/{pid}/edit"
 
 
@@ -203,10 +216,10 @@ def main():
         svc = cl.service()
         drive = cl.drive_service()
         cid = cl.course_id(svc)
-        unit = cl.ensure_folder(drive, UNIT_TOPIC, cl.teacher_folder(svc, cid))
-        folder = cl.ensure_folder(drive, "Slides", unit)
+        topics_map = cl.topics(svc, cid)
+        course_folder = cl.teacher_folder(svc, cid)
         for f in args.day_files:
-            title, n, link = build_deck(slides, drive, folder, f)
+            title, n, link = build_deck(slides, drive, topics_map, course_folder, f)
             print(f"built {n:2} slides: {title}\n            {link}")
         print("done.")
     except HttpError as e:
