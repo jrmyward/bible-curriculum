@@ -57,7 +57,7 @@ lineup; the old classes are retained for reference during the transition.
 | --- | --- | --- |
 | `to-the-ends-of-the-earth` | 8 | Not started. |
 | `foundations` | 9 | Being built. Source text transcription in progress (18 chapters). |
-| `apologetics` | 10–11 | Being built. Stage 0 complete (18 ch, UtT Book II; source transcribed; syllabus + teaching map done, teacher-approved; model = publisher + surgical debate days). Stage 1 (per-chapter build) next. |
+| `apologetics` | 10–11 | Being built. Stage 0 done (18 ch, UtT Book II; publisher model + surgical debate days). **Ch 1 complete across all three pillars** (repo plans · Atlas unit 2242 + 8 lessons · Classroom drafts: materials, Form quiz, 8 Slides). Atlas/Classroom tooling now multi-course. Ch 2–18 pending. |
 | `worldviews` | 12 | Not started. |
 
 **Deprecated (retained for reference):**
