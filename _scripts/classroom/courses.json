@@ -5,6 +5,10 @@
     "foundations": {
       "course_name": "Bible 9 Foundations",
       "section": "Grade 9"
+    },
+    "apologetics": {
+      "course_name": "Bible 10/11 Apologetics",
+      "section": "Grade 10 / 11"
     }
   }
 }
