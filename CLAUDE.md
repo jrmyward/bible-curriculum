@@ -57,7 +57,7 @@ lineup; the old classes are retained for reference during the transition.
 | --- | --- | --- |
 | `to-the-ends-of-the-earth` | 8 | Not started. |
 | `foundations` | 9 | Being built. Source text transcription in progress (18 chapters). |
-| `apologetics` | 10–11 | Not started. |
+| `apologetics` | 10–11 | Being built. Stage 0 complete (18 ch, UtT Book II; source transcribed; syllabus + teaching map done, teacher-approved; model = publisher + surgical debate days). Stage 1 (per-chapter build) next. |
 | `worldviews` | 12 | Not started. |
 
 **Deprecated (retained for reference):**
