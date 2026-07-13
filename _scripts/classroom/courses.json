@@ -4,11 +4,13 @@
   "classes": {
     "foundations": {
       "course_name": "Bible 9 Foundations",
-      "section": "Grade 9"
+      "section": "Grade 9",
+      "label": "Foundations"
     },
     "apologetics": {
       "course_name": "Bible 10/11 Apologetics",
-      "section": "Grade 10 / 11"
+      "section": "Grade 10 / 11",
+      "label": "Apologetics"
     }
   }
 }

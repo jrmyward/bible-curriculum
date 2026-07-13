@@ -186,10 +186,10 @@ def unit_slides_folder(drive, topics_map, course_folder, chapter):
     return cl.ensure_folder(drive, "Slides", unit)
 
 
-def build_deck(slides, drive, topics_map, course_folder, day_file):
+def build_deck(slides, drive, topics_map, course_folder, day_file, label):
     d = parse_day(pathlib.Path(day_file).read_text())
     ch = d["chapter"]
-    title = f"Foundations Ch {ch if ch else '?'} · {strip_md(d['h1'])}"
+    title = f"{label} Ch {ch if ch else '?'} · {strip_md(d['h1'])}"
     pres = slides.presentations().create(body={"title": title}).execute()
     pid = pres["presentationId"]
     default_slide = pres["slides"][0]["objectId"]
@@ -219,8 +219,9 @@ def main():
         cid = cl.course_id(svc, args.course)
         topics_map = cl.topics(svc, cid)
         course_folder = cl.teacher_folder(svc, cid)
+        label = cl.course_config(args.course).get("label") or (args.course or "Class").title()
         for f in args.day_files:
-            title, n, link = build_deck(slides, drive, topics_map, course_folder, f)
+            title, n, link = build_deck(slides, drive, topics_map, course_folder, f, label)
             print(f"built {n:2} slides: {title}\n            {link}")
         print("done.")
     except HttpError as e:
