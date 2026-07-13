@@ -54,3 +54,37 @@ unit_dates:
   "16": { start: "2027-04-08", end: "2027-04-20" }
   "17": { start: "2027-04-21", end: "2027-05-03" }
   "18": { start: "2027-05-04", end: "2027-05-14" }
+
+# ---------------------------------------------------------------------------
+# Additional courses (multi-course reference).
+# The action scripts don't read this file: fill_unit.py fills whatever unit page
+# the browser is on, lesson_fill.py takes <unit_id> as an arg, and create_unit.py
+# takes `--course <course_map_id>` (or `--anchor <unit_id>`). This block just records
+# each course's ids/dates for humans. The top-level keys above are Foundations.
+# ---------------------------------------------------------------------------
+apologetics:
+  course: "Apologetics"                 # Summit Understanding the Times, Book II (grades 10-11)
+  course_map_id: 190                    # /develop/course-map/190/unit-calendar/year
+  data_model_dir: "classes/apologetics/rubicon-atlas"
+  # create with: create_unit.py <unit-NN-*.md> --course 190   (first unit) then --anchor <new id>
+  unit_ids: {}                          # fill in as units are created (create_unit.py prints each id)
+  academic_year: "2026-27"
+  unit_dates:                           # from classes/apologetics/teaching-map.md (same calendar as Foundations)
+    "01": { start: "2026-08-24", end: "2026-09-02" }
+    "02": { start: "2026-09-03", end: "2026-09-16" }
+    "03": { start: "2026-09-17", end: "2026-09-29" }
+    "04": { start: "2026-09-30", end: "2026-10-13" }
+    "05": { start: "2026-10-14", end: "2026-10-27" }
+    "06": { start: "2026-10-28", end: "2026-11-10" }
+    "07": { start: "2026-11-13", end: "2026-12-01" }
+    "08": { start: "2026-12-02", end: "2026-12-11" }
+    "09": { start: "2027-01-05", end: "2027-01-14" }
+    "10": { start: "2027-01-19", end: "2027-01-28" }
+    "11": { start: "2027-02-01", end: "2027-02-10" }
+    "12": { start: "2027-02-11", end: "2027-02-25" }
+    "13": { start: "2027-03-01", end: "2027-03-09" }
+    "14": { start: "2027-03-10", end: "2027-03-19" }
+    "15": { start: "2027-03-29", end: "2027-04-07" }
+    "16": { start: "2027-04-08", end: "2027-04-20" }
+    "17": { start: "2027-04-21", end: "2027-05-03" }
+    "18": { start: "2027-05-04", end: "2027-05-14" }

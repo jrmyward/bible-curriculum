@@ -1,8 +1,9 @@
 # Atlas Automation — Runbook
 
-Fill Rubicon Atlas (course **Bible 9 Foundations**, `watersprings.rubiconatlas.org`) from
-repo data models, so Claude does the form entry instead of hand-typing 18 units and ~145
-daily lessons.
+Fill Rubicon Atlas (`watersprings.rubiconatlas.org`) from repo data models, so Claude does the
+form entry instead of hand-typing 18 units and ~145 daily lessons per course. Multi-course:
+**Bible 9 Foundations** is the worked example; **Apologetics** (course-map 190) is onboarded via
+`create_unit.py --course 190` (see "Onboarding a new class" below).
 
 Two things get pushed per chapter:
 
@@ -84,14 +85,33 @@ For each chapter NN:
 | `launch-browser.sh` | Persistent watchable Chrome on CDP :9222 |
 | `session.py` | `attach(p)` → (browser, context, page) over CDP |
 | `probe.py` | Dump a page's DOM + screenshot + control cheat-sheet (for new selectors) |
-| `create_unit.py` | Create a new Unit (Add New Unit form) + fill its 4 free-text fields from `unit-NN-*.md`; prints the new unit_id |
+| `create_unit.py` | Create a new Unit (Add New Unit form) + fill its 4 free-text fields from `unit-NN-*.md`; prints the new unit_id. `--course <id>` (new course) or `--anchor <unit_id>` (existing) picks which course |
 | `fill_unit.py` | Fill a unit's 4 free-text Froala fields from `unit-NN-*.md` (browser must be on the unit planner) |
 | `lesson_fill.py` | Create + fill a chapter's daily lessons from `chNN-lessons.md` |
 
-`create_unit.py` clicks "Add New Unit" from an anchor unit's planner, fills `#unit-form-input-name`
-with the file's `Unit NN: Title`, leaves dates at the placeholder default and Draft unchecked
-(matching Ch 1), saves, reads the new `/unit-planner/<id>` URL, then fills the 4 fields on that
-page. Run it once per `unit-NN-*.md`.
+`create_unit.py` clicks "Add New Unit", fills `#unit-form-input-name` with the file's
+`Unit NN: Title`, leaves dates at the placeholder default and Draft unchecked (matching Ch 1),
+saves, reads the new `/unit-planner/<id>` URL, then fills the 4 fields on that page. Run it once
+per `unit-NN-*.md`.
+
+**Which course it adds to** (this is the only course-scoped script — `fill_unit.py` fills whatever
+page the browser is on, `lesson_fill.py` takes `<unit_id>` as an arg):
+
+- `--course <course_map_id>` — open that course's unit calendar and add there. Use for the **first**
+  unit of a course with none yet. Apologetics = **190**
+  (`/develop/course-map/190/unit-calendar/year`).
+- `--anchor <unit_id>` — add from an existing unit's planner (default: Foundations `2224`). Use once
+  the course already has at least one unit.
+
+### Onboarding a new class (e.g. apologetics)
+
+1. `create_unit.py classes/<class>/rubicon-atlas/unit-01-*.md --course <id>` — creates + fills Unit 01
+   in that course; note the printed `unit_id`. Create later units with `--anchor <a prior new id>`.
+2. Record each `unit_id` in the course's block in `config.yaml` (reference only; scripts take ids as
+   args). Apologetics has an `apologetics:` block (course_map_id 190, data-model dir, unit_dates).
+3. `fill_unit.py classes/<class>/rubicon-atlas/unit-NN-*.md` (browser on that unit) and
+   `lesson_fill.py classes/<class>/rubicon-atlas/lessons/chNN-lessons.md <unit_id>` — unchanged;
+   both already work for any course.
 
 ## Gotchas (learned the hard way)
 
