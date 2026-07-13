@@ -53,7 +53,7 @@ All chapters **pending build**. Build in block order starting with Ch 1:
 
 | Chapter | Days | Test | ⚔️ | Plan |
 | --- | --- | --- | --- | --- |
-| Ch 1 — Introduction | 8 | Wed Sep 2 | | ⬜ Pending build |
+| Ch 1 — Introduction | 8 | Wed Sep 2 | | ✅ Week style ([week-01](week-01-aug-24) · [week-02](week-02-aug-31)) |
 | Ch 2 — A Trustworthy Bible | 8 | Wed Sep 16 | | ⬜ Pending build |
 | Ch 3 — The Shape of God's Story | 8 | Tue Sep 29 | | ⬜ Pending build |
 | Ch 4 — Participating in God's Story | 9 | Tue Oct 13 | | ⬜ Pending build |
