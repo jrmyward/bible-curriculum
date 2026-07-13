@@ -17,6 +17,8 @@ from playwright.sync_api import sync_playwright
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from session import attach
 
+BASE = "https://watersprings.rubiconatlas.org"
+
 # md field section number -> Atlas field label (the free-text ones only)
 FIELDS = {
     "Unit Overview": 1,
@@ -88,12 +90,18 @@ def fill_field(pg, label, blocks):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: fill_unit.py <unit_md_path> [--dry-run]"); sys.exit(1)
+        print("Usage: fill_unit.py <unit_md_path> [--unit <unit_id>] [--dry-run]"); sys.exit(1)
     md_path = pathlib.Path(sys.argv[1])
     dry = "--dry-run" in sys.argv
+    unit_id = None
+    if "--unit" in sys.argv:
+        i = sys.argv.index("--unit")
+        if i + 1 >= len(sys.argv):
+            print("--unit requires a value"); sys.exit(1)
+        unit_id = sys.argv[i + 1]
     md = md_path.read_text()
     plan = {label: parse_blocks(section_text(md, n)) for label, n in FIELDS.items()}
-    print(f"Unit: {md_path.name}")
+    print(f"Unit: {md_path.name}" + (f" -> unit_id {unit_id}" if unit_id else " (current page)"))
     for label, blocks in plan.items():
         print(f"  {label}: {len(blocks)} block(s) — e.g. {blocks[0][:60] if blocks else '(empty)'}...")
     if dry:
@@ -101,6 +109,9 @@ def main():
     with sync_playwright() as p:
         b, ctx, pg = attach(p)
         pg.bring_to_front()
+        if unit_id:  # navigate to the unit planner first; otherwise fill the current page
+            pg.goto(f"{BASE}/develop/unit-planner/{unit_id}", wait_until="networkidle")
+            pg.wait_for_timeout(2500)
         for label, blocks in plan.items():
             if blocks: fill_field(pg, label, blocks)
         b.close()  # detach only; window stays open

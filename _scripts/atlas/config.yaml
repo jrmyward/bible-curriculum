@@ -67,7 +67,8 @@ apologetics:
   course_map_id: 190                    # /develop/course-map/190/unit-calendar/year
   data_model_dir: "classes/apologetics/rubicon-atlas"
   # create with: create_unit.py <unit-NN-*.md> --course 190   (first unit) then --anchor <new id>
-  unit_ids: {}                          # fill in as units are created (create_unit.py prints each id)
+  unit_ids:                             # fill in as units are created (create_unit.py prints each id)
+    "01": 2242
   academic_year: "2026-27"
   unit_dates:                           # from classes/apologetics/teaching-map.md (same calendar as Foundations)
     "01": { start: "2026-08-24", end: "2026-09-02" }

@@ -51,11 +51,15 @@ def main():
     course_id = opt_value(sys.argv, "--course")
     anchor = opt_value(sys.argv, "--anchor") or ANCHOR_UNIT
     if course_id:
-        add_from = f"{BASE}/develop/course-map/{course_id}/unit-calendar/year"
-        where = f"course {course_id} unit calendar"
+        # The course-map "Add New Unit" is a link to this route, which renders the unit
+        # form directly (#unit-form-input-name). Navigate straight to it — no button click.
+        add_from = f"{BASE}/develop/course-map/{course_id}/add-new-unit"
+        where = f"course {course_id} (add-new-unit route)"
+        click_add = False
     else:
         add_from = f"{BASE}/develop/unit-planner/{anchor}"
         where = f"anchor unit {anchor}"
+        click_add = True
     md = md_path.read_text()
     name = unit_name(md)
     plan = {label: parse_blocks(section_text(md, n)) for label, n in FIELDS.items()}
@@ -71,7 +75,8 @@ def main():
         pg.bring_to_front()
         pg.goto(add_from, wait_until="networkidle")
         pg.wait_for_timeout(1500)
-        pg.get_by_role("button", name="Add New Unit").first.click()
+        if click_add:
+            pg.get_by_role("button", name="Add New Unit").first.click()
         pg.wait_for_selector("#unit-form-input-name", timeout=15000)
         pg.wait_for_timeout(800)
         pg.fill("#unit-form-input-name", name)
@@ -88,14 +93,23 @@ def main():
             pg.screenshot(path=str(pathlib.Path(__file__).parent/"probe-output"/"create-blocked.png"))
             print("! Save still disabled — see probe-output/create-blocked.png"); b.close(); sys.exit(2)
         save.click()
-        # wait for navigation to the new unit's planner
-        pg.wait_for_url(re.compile(r"/develop/unit-planner/\d+(?!.*addUnit)"), timeout=20000)
-        pg.wait_for_timeout(2500)
+        pg.wait_for_timeout(4000)
+        # Anchor flow lands on the new unit's planner; the course-map flow lands back on the
+        # unit calendar. Capture the id from either.
+        uid = None
         m = re.search(r"/unit-planner/(\d+)", pg.url)
-        uid = m.group(1) if m else "?"
-        print(f"CREATED {name!r} -> unit_id={uid}  ({pg.url})")
+        if m:
+            uid = m.group(1)
+        else:
+            try:
+                href = pg.locator(f'a:has-text("{name}")').first.get_attribute("href") or ""
+                mm = re.search(r"/unit(?:-planner)?/(\d+)", href)
+                uid = mm.group(1) if mm else None
+            except Exception:
+                uid = None
+        print(f"CREATED {name!r} -> unit_id={uid or '?'}  ({pg.url})")
 
-        if not no_fill and uid != "?":
+        if not no_fill and uid:
             pg.goto(f"{BASE}/develop/unit-planner/{uid}", wait_until="networkidle")
             pg.wait_for_timeout(2500)
             for label, blocks in plan.items():
