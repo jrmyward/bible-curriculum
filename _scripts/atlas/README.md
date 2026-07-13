@@ -105,6 +105,10 @@ page the browser is on, `lesson_fill.py` takes `<unit_id>` as an arg):
 
 ### Onboarding a new class (e.g. apologetics)
 
+0. **One-time course setting:** in Atlas, set the course's **default lesson template** (Madeline
+   Hunter) in course settings. Without it, new lessons are blank and "Insert Default Template" is
+   disabled, so `lesson_fill.py` can't populate rows. Foundations already has this; a fresh course
+   (e.g. 190) does not until you set it.
 1. `create_unit.py classes/<class>/rubicon-atlas/unit-01-*.md --course <id>` — creates + fills Unit 01
    in that course; note the printed `unit_id`. Create later units with `--anchor <a prior new id>`.
 2. Record each `unit_id` in the course's block in `config.yaml` (reference only; scripts take ids as
