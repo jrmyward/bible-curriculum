@@ -1,0 +1,104 @@
+{
+  "_comment": "Machine-readable build spec for build_form.py. Source of truth for the Chapter 1 Test Google Form quiz. Human-readable transcription: classes/apologetics/_source-text/portal/ch01/test.md. Keep in sync. Total 73 pts.",
+  "title": "Chapter 1 Test — Apologetics (Bible 10/11)",
+  "documentTitle": "Apologetics · Chapter 1 Test (TR 1.8)",
+  "description": "Chapter 1 covers why we prepare to explain our faith, the purpose of apologetics, the mission of God and the Great Commission, evangelism vs. apologetics, and the roles of reason and doubt. Total: 73 points.",
+  "topic": "01: Introduction",
+  "assignmentTitle": "Chapter 1 Test",
+  "totalPoints": 73,
+  "sections": [
+    {
+      "heading": "Multiple Choice",
+      "instructions": "Circle the correct answer(s). Some questions have more than one. Each correct answer is worth 1 point. (Multi-answer items auto-score all-or-nothing; the teacher awards partial credit in the Forms grading view where needed.)",
+      "questions": [
+        {"id": "q1", "type": "radio", "points": 1, "required": true, "text": "1. According to Isaiah 1:18, God invites us to . . .",
+          "options": ["preach good news.", "praise God.", "reason together.", "fight the good fight."],
+          "correct": ["reason together."]},
+        {"id": "q2", "type": "checkbox", "points": 3, "required": true, "text": "2. Choose all that the mission of God includes.",
+          "options": ["God's plan to bless creation", "God's plan to restore creation", "God's plan to replace creation", "God's plan to redeem creation", "God's plan to be one with creation"],
+          "correct": ["God's plan to bless creation", "God's plan to restore creation", "God's plan to redeem creation"]},
+        {"id": "q3", "type": "radio", "points": 1, "required": true, "text": "3. The most famous call to participate in God's mission in the New Testament is . . .",
+          "options": ["the Great Calling.", "the Great Omission.", "Pentecost.", "the Sermon on the Mount.", "the Great Commission."],
+          "correct": ["the Great Commission."]},
+        {"id": "q4", "type": "radio", "points": 1, "required": true, "text": "4. The work of conversion is something that . . .",
+          "options": ["we can accomplish if we are persuasive.", "only the Holy Spirit can accomplish.", "should be left to professionals.", "is something Christians must do weekly."],
+          "correct": ["only the Holy Spirit can accomplish."]},
+        {"id": "q5", "type": "checkbox", "points": 3, "required": true, "text": "5. Choose all that are critical pieces of evangelism.",
+          "options": ["an apologetics presentation before the gospel", "a clear presentation of the gospel", "an active demonstration of the gospel", "an emotionally moving environment to hear the gospel", "a generous invitation to respond to the gospel", "a long-term friendship prior to hearing the gospel"],
+          "correct": ["a clear presentation of the gospel", "an active demonstration of the gospel", "a generous invitation to respond to the gospel"]},
+        {"id": "q6", "type": "checkbox", "points": 3, "required": true, "text": "6. What three lessons from Matthew 28:18-20 help us understand our role in the mission of God?",
+          "options": ["Mission is grounded in the reality that \"all authority in heaven and earth\" belongs to Jesus.", "We already have the strength within ourselves to accomplish the task.", "We \"go\" to make disciples, baptize, and teach.", "Jesus is always with us, as he promised that he would be.", "Mission is primarily for full-time vocational missionaries and evangelists."],
+          "correct": ["Mission is grounded in the reality that \"all authority in heaven and earth\" belongs to Jesus.", "We \"go\" to make disciples, baptize, and teach.", "Jesus is always with us, as he promised that he would be."]},
+        {"id": "q7", "type": "radio", "points": 1, "required": true, "text": "7. Apologetics is defined as . . .",
+          "options": ["the art of persuasion and argumentation about religion.", "the clear and careful presentation of the gospel.", "the art of defending, commending, and translating the Christian faith.", "the clear invitation to respond to the truth of the Christian worldview."],
+          "correct": ["the art of defending, commending, and translating the Christian faith."]},
+        {"id": "q8", "type": "checkbox", "points": 3, "required": true, "text": "8. Choose the three suggested principles for learning apologetics.",
+          "options": ["Be open to learning new things and thinking about things in different ways.", "Be cautious of reading other perspectives and only read Christian literature.", "Be humble, remembering that apologetics is mostly for professionals.", "Be humble, remembering that a faithful apologist knows he or she does not have all the answers.", "Be careful not to overthink and ask too many questions about difficult topics.", "Be ready to grow in confidence and apply what you learn to your life."],
+          "correct": ["Be open to learning new things and thinking about things in different ways.", "Be humble, remembering that a faithful apologist knows he or she does not have all the answers.", "Be ready to grow in confidence and apply what you learn to your life."]},
+        {"id": "q9", "type": "checkbox", "points": 3, "required": true, "text": "9. Choose all that are true about apologetics.",
+          "options": ["Apologetics can strengthen a Christian's faith in the gospel.", "Apologetics alone can persuade someone to believe the gospel.", "Apologetics can show that Christianity is reasonable, relevant, and desirable.", "Apologetics can eliminate all possible doubts about Christianity.", "Apologetics can help translate the gospel into terms non-Christians understand."],
+          "correct": ["Apologetics can strengthen a Christian's faith in the gospel.", "Apologetics can show that Christianity is reasonable, relevant, and desirable.", "Apologetics can help translate the gospel into terms non-Christians understand."]},
+        {"id": "q10", "type": "radio", "points": 1, "required": true, "text": "10. Who is called to participate in the mission of God?",
+          "options": ["only professionals like pastors, missionaries, and apologists", "all people who ever lived", "all people who have placed their faith in Christ", "only Christians with the spiritual gift of evangelism"],
+          "correct": ["all people who have placed their faith in Christ"]},
+        {"id": "q11", "type": "checkbox", "points": 2, "required": true, "text": "11. Choose two things required for making disciples.",
+          "options": ["moving to the foreign mission field", "sharing the gospel and leading people to Christ", "making sure new Christians stay away from non-Christians", "teaching new disciples to obey all that Jesus commanded"],
+          "correct": ["sharing the gospel and leading people to Christ", "teaching new disciples to obey all that Jesus commanded"]},
+        {"id": "q12", "type": "radio", "points": 1, "required": true, "text": "12. The word disciple means . . .",
+          "options": ["learner or pupil.", "follower or servant.", "teacher or master.", "child or dependent."],
+          "correct": ["learner or pupil."]},
+        {"id": "q13", "type": "radio", "points": 1, "required": true, "text": "13. Which key verse contains Jesus' command to share the Gospel?",
+          "options": ["Isaiah 1:18", "John 20:21", "Matthew 28:18-20", "Ephesians 6:12"],
+          "correct": ["Matthew 28:18-20"]},
+        {"id": "q14", "type": "radio", "points": 1, "required": true, "text": "14. Which act in the biblical metanarrative answers the question, \"What's wrong with the world?\"",
+          "options": ["Act 5: Restoration Initiated", "Act 1: Creation", "Act 3: Redemption Initiated", "Act 2: The Fall"],
+          "correct": ["Act 2: The Fall"]}
+      ]
+    },
+    {
+      "heading": "True / False",
+      "instructions": "Indicate whether each statement is true or false. 1 point each. (If a statement is false, the publisher test also asks you to correct the underlined word — the teacher grades that part in the grading view.)",
+      "questions": [
+        {"id": "q15", "type": "radio", "points": 1, "required": true, "text": "15. Reason is like a GPS to guide us through life. (If false, the underlined word should be: worldview.)", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q16", "type": "radio", "points": 1, "required": true, "text": "16. The process of evangelism, which is about giving reasons for believing Christianity, has sometimes acquired negative connotations as some act as if the goal is to win an argument rather than win the person. (If false, the underlined word should be: apologetics.)", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q17", "type": "radio", "points": 1, "required": true, "text": "17. Proselytism has come to be associated with evangelistic strategies that do not show respect for others.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q18", "type": "radio", "points": 1, "required": true, "text": "18. Jesus' words \"As the Father has sent me, even so I am sending you\" are found in John 1:4. (If false, the correct reference is: John 20:21.)", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q19", "type": "radio", "points": 1, "required": true, "text": "19. The mission of God refers to God's plan to bless, redeem, and restore creation.", "options": ["True", "False"], "correct": ["True"]},
+        {"id": "q20", "type": "radio", "points": 1, "required": true, "text": "20. Act 6: Restoration Accomplished in the biblical metanarrative details Jesus' life, death, and resurrection. (If false, the correct act is: Act 4: Redemption Accomplished.)", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q21", "type": "radio", "points": 1, "required": true, "text": "21. The description of the new heavens and new earth in the biblical metanarrative is found in Act 5: Restoration Initiated. (If false, the correct act is: Act 6: Restoration Accomplished.)", "options": ["True", "False"], "correct": ["False"]},
+        {"id": "q22", "type": "radio", "points": 1, "required": true, "text": "22. God's mission is something God invites us to participate in.", "options": ["True", "False"], "correct": ["True"]}
+      ]
+    },
+    {
+      "heading": "Fill in the Blank",
+      "instructions": "Type the missing word. 2 points each (question 29 is worth 4 points). Spelling matters; the teacher can accept variants in the grading view.",
+      "questions": [
+        {"id": "q23", "type": "short_text", "points": 2, "required": true, "text": "23. ______ addresses real doubts, objections, and questions that prevent people from saying yes to Jesus.", "correct": ["Apologetics", "apologetics"]},
+        {"id": "q24", "type": "short_text", "points": 2, "required": true, "text": "24. The Christian ______ offers the best explanation of reality and provides reasonable and desirable answers to many hard questions.", "correct": ["worldview"]},
+        {"id": "q25", "type": "short_text", "points": 2, "required": true, "text": "25. The mission of God is grounded in the ______ ______.", "correct": ["biblical metanarrative", "biblical metanarrative."]},
+        {"id": "q26", "type": "short_text", "points": 2, "required": true, "text": "26. When a Christian explains the evidence that the universe had a Creator to her non-Christian cousin, she is doing ______.", "correct": ["apologetics"]},
+        {"id": "q27", "type": "short_text", "points": 2, "required": true, "text": "27. When a Christian talks with his friend about Christianity and shares a booklet explaining Jesus' sacrifice for our sins, he is engaging in ______.", "correct": ["evangelism"]},
+        {"id": "q28", "type": "short_text", "points": 2, "required": true, "text": "28. \"For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places . . .\" (______).", "correct": ["Ephesians 6:12", "Eph 6:12", "Ephesians 6"]},
+        {"id": "q29", "type": "paragraph", "points": 4, "required": true, "text": "29. The primary goal of apologetics is to expose ______ in a way that helps others move toward the ______. (Two blanks, 2 points each.)", "modelAnswer": "false beliefs; the gospel"}
+      ]
+    },
+    {
+      "heading": "Short Answer",
+      "instructions": "Answer in complete sentences. 3 points each. (Graded by the teacher.)",
+      "questions": [
+        {"id": "q30", "type": "paragraph", "points": 3, "required": true, "text": "30. Explain the difference between evangelism and apologetics.", "modelAnswer": "Evangelism is the act of explaining the gospel. Apologetics is the act of explaining how we can know the gospel is true and why it's worth believing. Apologetics is complementary to evangelism."},
+        {"id": "q31", "type": "paragraph", "points": 3, "required": true, "text": "31. Describe the biblical metanarrative's Act 4: Redemption Accomplished.", "modelAnswer": "In Act 4: Redemption Accomplished, God accomplished our redemption by coming to Earth as Jesus, living a sinless life, dying on the cross in our place, and defeating sin and death through his resurrection."},
+        {"id": "q32", "type": "paragraph", "points": 3, "required": true, "text": "32. List three of the nine commonly asked questions about the Christian worldview.", "modelAnswer": "Any three of: Is claiming truth intolerant? Are all religions the same? Is religion irrelevant? Is belief in the supernatural outdated? Is Christianity anti-science? Why do evil and suffering exist? What's the deal with hell? What does the Bible have to say about violence, slavery, and racism? What does the Bible have to say about sex and gender?"}
+      ]
+    },
+    {
+      "heading": "Essay",
+      "instructions": "Answer each with at least one paragraph. 5 points each. (Graded by the teacher.)",
+      "questions": [
+        {"id": "q33", "type": "paragraph", "points": 5, "required": true, "text": "33. Explain the roles of reason and doubt in apologetics and the Christian life.", "modelAnswer": "Reason matters because we are commanded to love God with all our mind, and reasoning well shows love and respect for those we talk with about the truth of Christianity. Doubt can drive us to learn more and use our reasoning to build a stronger faith. Reason is not ultimate and doubt cannot be totally eliminated; at some point everyone has to place faith in the evidence and in ultimately unprovable truths."},
+        {"id": "q34", "type": "paragraph", "points": 5, "required": true, "text": "34. Contrast poor evangelism and apologetics methods with Jesus' model for reaching sinners.", "modelAnswer": "Poor methods include high-pressure tactics to get someone to pray a prayer, shouting and waving signs, or being rude during a gospel conversation. Jesus spoke the truth boldly but also with grace, and did not force people to believe. We should be humble, love others, and respect their free choice in evangelism and apologetics."},
+        {"id": "q35", "type": "paragraph", "points": 5, "required": true, "text": "35. You try to share the message of salvation with your friends but meet with a lot of resistance. How can knowing who the true enemy of the Christian is and the appropriate weapons for the battle help you respond well?", "modelAnswer": "Realizing the true enemy is the spiritual powers of evil and not individual people helps me stay compassionate when someone resists the gospel. Instead of getting frustrated with my friends, I can pray for them and love them while I keep sharing the truth as opportunities come. The weapons for the spiritual battle are prayer and God's Word."}
+      ]
+    }
+  ]
+}
