@@ -16,7 +16,7 @@ Copy lesson plans from a previous school year to a new school year, updating dat
 
 **Examples:**
 ```
-/new-school-year understanding-the-faith --from 2026-27 --to 2027-28
+/new-school-year foundations --from 2026-27 --to 2027-28
 /new-school-year worldview --from 2027-28 --to 2028-29
 ```
 

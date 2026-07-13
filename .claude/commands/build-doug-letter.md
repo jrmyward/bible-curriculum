@@ -30,12 +30,12 @@ For all other units (0, 1, 3, 7, 8, 9), use the publisher's existing Doug Letter
 
 ### 1. Read context
 
-1. `classes/worldview/teaching-map.md` — locate the Unit `<N>` section; read purpose, key anchors, Gospel-conversation focus
-2. `classes/worldview/handouts/unit-<NN>-<slug>-reading-packet.md` if it exists — for content alignment
+1. `classes/understanding-the-times/teaching-map.md` — locate the Unit `<N>` section; read purpose, key anchors, Gospel-conversation focus
+2. `classes/understanding-the-times/handouts/unit-<NN>-<slug>-reading-packet.md` if it exists — for content alignment
 3. **Read 2–3 publisher Doug Letters** as format models — recommend Ch 02 (Christianity), Ch 03 (Islam), Ch 06 (New Spirituality):
-   - `classes/worldview/_source-text/_cd/UTT Unit 02 Files/02 Writing Assignment/UTT Chapter 02 Assignment-Teacher.pdf`
-   - `classes/worldview/_source-text/_cd/UTT Unit 03 Files/03 Writing Assignment/UTT Chapter 03 Assignment-Teacher.pdf`
-   - `classes/worldview/_source-text/_cd/UTT Unit 06 Files/06 Writing Assignment/UTT Chapter 06 Assignment-Teacher.pdf` (if it exists)
+   - `classes/understanding-the-times/_source-text/_cd/UTT Unit 02 Files/02 Writing Assignment/UTT Chapter 02 Assignment-Teacher.pdf`
+   - `classes/understanding-the-times/_source-text/_cd/UTT Unit 03 Files/03 Writing Assignment/UTT Chapter 03 Assignment-Teacher.pdf`
+   - `classes/understanding-the-times/_source-text/_cd/UTT Unit 06 Files/06 Writing Assignment/UTT Chapter 06 Assignment-Teacher.pdf` (if it exists)
 
 ### 2. Match the publisher's voice and format
 
@@ -68,7 +68,7 @@ For the assigned unit:
 
 ### 4. Write to
 
-`classes/worldview/assessments/unit-<NN>-<slug>-doug-letter.md`
+`classes/understanding-the-times/assessments/unit-<NN>-<slug>-doug-letter.md`
 
 Use the prefix-zero pattern:
 - `unit-02-judaism-doug-letter.md`
@@ -135,7 +135,7 @@ possible responses:
 
 ```
 ✅ Built Unit <N> — <Worldview> Doug Letter
-   Output: classes/worldview/assessments/unit-<NN>-<slug>-doug-letter.md
+   Output: classes/understanding-the-times/assessments/unit-<NN>-<slug>-doug-letter.md
    Estimated student reading time: ~5 min
    Estimated student writing time: ~30–45 min
    Format reference used: Ch 02 / Ch 03 / Ch 06 publisher Doug Letters

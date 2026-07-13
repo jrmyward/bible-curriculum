@@ -17,9 +17,9 @@ Audit existing lesson plans for completeness, teaching map alignment, and consis
 **Examples:**
 
 ```bash
-/review-lessons understanding-the-faith
-/review-lessons understanding-the-faith --week 5
-/review-lessons understanding-the-faith --year 2026-27
+/review-lessons foundations
+/review-lessons foundations --week 5
+/review-lessons foundations --year 2026-27
 ```
 
 ## Modes

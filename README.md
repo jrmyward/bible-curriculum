@@ -55,7 +55,7 @@ exemplar for all three pillars.**
 | `apologetics` | 10–11 | Not started |
 | `worldviews` | 12 | Not started |
 
-Deprecated (retained for reference): `understanding-the-faith`, `worldview`.
+Deprecated (retained for reference): `understanding-the-times`.
 
 ## Teaching models
 

@@ -22,7 +22,7 @@ If source type is omitted, transcribe both.
 
 ### 1. Resolve paths
 
-- Chapter images live at `classes/understanding-the-faith/_source-text/<chapter>/`
+- Chapter images live at `classes/foundations/_source-text/<chapter>/`
 - Textbook images: `textbook/`
 - Student manual images: `student-manual/`
 - Output files: `textbook.md` and `student-manual.md` in the same chapter folder
@@ -41,7 +41,7 @@ For each batch:
 
 1. Read 2 images using the Read tool.
 2. Transcribe them following the formatting rules below.
-3. **Immediately append** the transcription to a working file at `classes/understanding-the-faith/_source-text/<chapter>/<source-type>.wip.md` using the Bash tool (`cat >>` or similar). Do not wait until all images are read.
+3. **Immediately append** the transcription to a working file at `classes/foundations/_source-text/<chapter>/<source-type>.wip.md` using the Bash tool (`cat >>` or similar). Do not wait until all images are read.
 4. Move to the next batch.
 
 #### Formatting rules
@@ -66,8 +66,8 @@ Do not summarize, paraphrase, or editorialize. Transcribe the actual text. Separ
 ### 4. Finalize output
 
 After all batches are written, rename the working file to the final output path:
-- `classes/understanding-the-faith/_source-text/<chapter>/textbook.md`
-- `classes/understanding-the-faith/_source-text/<chapter>/student-manual.md`
+- `classes/foundations/_source-text/<chapter>/textbook.md`
+- `classes/foundations/_source-text/<chapter>/student-manual.md`
 
 If the final output file already exists, ask before overwriting.
 

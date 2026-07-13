@@ -12,7 +12,7 @@ Generate a polished, printable student-facing syllabus for a class — the kind 
 
 ```bash
 /generate-student-syllabus <class-name>
-/generate-student-syllabus understanding-the-faith --year 2026-27
+/generate-student-syllabus foundations --year 2026-27
 ```
 
 ## Prerequisites

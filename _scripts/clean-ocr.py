@@ -9,8 +9,8 @@ Usage:
     python3 clean-ocr.py <target-dir> <chapter-number|all>
 
 Examples:
-    python3 _scripts/clean-ocr.py classes/understanding-the-faith/_source-text/teaching-manual all
-    python3 _scripts/clean-ocr.py classes/understanding-the-faith/_source-text/teaching-manual 5
+    python3 _scripts/clean-ocr.py classes/foundations/_source-text/teaching-manual all
+    python3 _scripts/clean-ocr.py classes/foundations/_source-text/teaching-manual 5
 """
 
 import re

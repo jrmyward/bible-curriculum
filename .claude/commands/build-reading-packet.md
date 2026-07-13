@@ -24,18 +24,18 @@ Unit numbers map to: 1 Christianity · 2 Judaism · 3 Islam · 4 Mormonism · 5 
 ### 1. Read context
 
 Read in this order:
-1. `classes/worldview/teaching-map.md` — locate the Unit `<N>` section; read purpose, key anchors, day-by-day schedule, Gospel-conversation focus
-2. `classes/worldview/teaching-methodology.md` — section "The Capital Investment That Makes This Work" defines packet anatomy
-3. `classes/worldview/worldview-grid.md` — find this unit's column; you'll embed a blank slice
-4. `classes/worldview/syllabus/syllabus.md` — note the publisher's prescribed supplemental reading for the matching Myers/Noebel chapter
-5. **The publisher's matching chapter test** at `classes/worldview/_source-text/_cd/UTT Unit <NN> Files/<NN> Test Questions/UTT Chapter <NN> Test-Teacher.pdf` — this is the dual-credit alignment standard for the unit. Read every fill-in-the-blank, multiple-choice, and short-answer question; extract every defined term and Scripture reference. The packet's Publisher Vocabulary section (see structure below) must include all of these.
+1. `classes/understanding-the-times/teaching-map.md` — locate the Unit `<N>` section; read purpose, key anchors, day-by-day schedule, Gospel-conversation focus
+2. `classes/understanding-the-times/teaching-methodology.md` — section "The Capital Investment That Makes This Work" defines packet anatomy
+3. `classes/understanding-the-times/worldview-grid.md` — find this unit's column; you'll embed a blank slice
+4. `classes/understanding-the-times/syllabus/syllabus.md` — note the publisher's prescribed supplemental reading for the matching Myers/Noebel chapter
+5. **The publisher's matching chapter test** at `classes/understanding-the-times/_source-text/_cd/UTT Unit <NN> Files/<NN> Test Questions/UTT Chapter <NN> Test-Teacher.pdf` — this is the dual-credit alignment standard for the unit. Read every fill-in-the-blank, multiple-choice, and short-answer question; extract every defined term and Scripture reference. The packet's Publisher Vocabulary section (see structure below) must include all of these.
 6. **The worldview's slices of Ch 8–17 publisher tests.** The Day-9 blended test combines the publisher Ch X test (above) with each worldview's relevant questions from Ch 8 (Theology) through Ch 17 (History). The reading packet must prepare students for both halves of that blended test, so the Publisher Vocabulary section must also include defined terms from each Ch 8–17 test that pertain to this worldview. Look up `_source-text/_cd/UTT Unit 08 Files/`, `09`, `10`, ..., `17` and extract worldview-relevant vocabulary.
-7. **The publisher's Doug Letter** at `classes/worldview/_source-text/_cd/UTT Unit <NN> Files/<NN> Writing Assignment/UTT Chapter <NN> Assignment-Teacher.pdf` — read the four embedded questions and the model answers. The packet's Doug Letter Preview (see structure below) introduces students to the format before they write their own response.
+7. **The publisher's Doug Letter** at `classes/understanding-the-times/_source-text/_cd/UTT Unit <NN> Files/<NN> Writing Assignment/UTT Chapter <NN> Assignment-Teacher.pdf` — read the four embedded questions and the model answers. The packet's Doug Letter Preview (see structure below) introduces students to the format before they write their own response.
 
 ### 2. Map sources
 
-**Textbook OCR:** `classes/worldview/_source-text/textbook/ch<NN>.md`
-**Teacher's manual:** `classes/worldview/_source-text/teaching-manual/ch<NN>.md`
+**Textbook OCR:** `classes/understanding-the-times/_source-text/textbook/ch<NN>.md`
+**Teacher's manual:** `classes/understanding-the-times/_source-text/teaching-manual/ch<NN>.md`
 
 **Per-unit Myers/Noebel mapping:**
 
@@ -70,7 +70,7 @@ For non-matching units, pull primary sources from teaching-map.md's "Contemporar
 
 ### 3. Write the packet
 
-Write to: `classes/worldview/handouts/unit-<NN>-<worldview-slug>-reading-packet.md`
+Write to: `classes/understanding-the-times/handouts/unit-<NN>-<worldview-slug>-reading-packet.md`
 
 Use the prefix-zero pattern (`unit-01-...`, `unit-03-...`).
 
@@ -146,7 +146,7 @@ After writing, report:
 
 ```
 ✅ Built Unit <N> — <Worldview> reading packet
-   Output: classes/worldview/handouts/unit-<NN>-<slug>-reading-packet.md
+   Output: classes/understanding-the-times/handouts/unit-<NN>-<slug>-reading-packet.md
    Estimated pages: <count>
    Primary sources included: <list>
    Sources to acquire: <list, or "none">

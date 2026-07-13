@@ -8,7 +8,7 @@ Converts HEIC images to JPG format (macOS only, uses built-in `sips` command).
 
 ```bash
 ./_scripts/convert-heic.sh                                                # current directory
-./_scripts/convert-heic.sh classes/understanding-the-faith/syllabus       # specific directory
+./_scripts/convert-heic.sh classes/foundations/syllabus       # specific directory
 ```
 
 What it does:
@@ -48,8 +48,8 @@ python3 _scripts/clean-ocr.py <target-dir> <chapter-number|all>
 Examples:
 
 ```bash
-python3 _scripts/clean-ocr.py classes/understanding-the-faith/_source-text/teaching-manual all
-python3 _scripts/clean-ocr.py classes/understanding-the-faith/_source-text/textbook 5
+python3 _scripts/clean-ocr.py classes/foundations/_source-text/teaching-manual all
+python3 _scripts/clean-ocr.py classes/foundations/_source-text/textbook 5
 ```
 
 Reads from `<target-dir>/.raw-ocr/chNN.txt` and writes to `<target-dir>/chNN.md`. Idempotent — safe to re-run after editing the raw text.

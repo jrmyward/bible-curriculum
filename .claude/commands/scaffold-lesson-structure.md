@@ -23,8 +23,8 @@ fill weeks with `/build-chapter` (per chapter), not per calendar week.
 **Example:**
 
 ```bash
-/scaffold-lesson-structure understanding-the-faith
-/scaffold-lesson-structure understanding-the-faith --year 2026-27
+/scaffold-lesson-structure foundations
+/scaffold-lesson-structure foundations --year 2026-27
 /scaffold-lesson-structure worldview --year 2027-28
 ```
 

@@ -26,7 +26,7 @@ If you're building lesson plans for a class that has a teaching map but no lesso
 
 1. **Run the workflow skill:**
    ```
-   /lesson-plan-workflow understanding-the-faith
+   /lesson-plan-workflow foundations
    ```
    
    This will:
@@ -63,7 +63,7 @@ This will:
 
 **Options:**
 ```
-/generate-lesson-plans 5 --class understanding-the-faith
+/generate-lesson-plans 5 --class foundations
 ```
 
 ---
@@ -112,7 +112,7 @@ This will:
 After scaffolding, your `lesson-plans/` directory will look like this:
 
 ```
-classes/understanding-the-faith/lesson-plans/
+classes/foundations/lesson-plans/
 ├── week-01-lesson-plans.md
 ├── week-02-lesson-plans.md
 ├── [...through week-39]
@@ -340,7 +340,7 @@ A: Substitute plans are generated automatically when you create a week that has 
 Ready to start? Run:
 
 ```
-/lesson-plan-workflow understanding-the-faith
+/lesson-plan-workflow foundations
 ```
 
 This will guide you through the entire process, from scaffolding to final week.
@@ -348,7 +348,7 @@ This will guide you through the entire process, from scaffolding to final week.
 Or, if you prefer manual control, start with:
 
 ```
-/scaffold-lesson-structure understanding-the-faith
+/scaffold-lesson-structure foundations
 /generate-lesson-plans 1
 ```
 

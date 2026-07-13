@@ -64,5 +64,4 @@ lineup; the old classes are retained for reference during the transition.
 
 | Class | Grade | Status |
 | --- | --- | --- |
-| `understanding-the-faith` | 11–12 | Deprecated. Teaching map + lesson plans complete. |
-| `worldview` | 11–12 | Deprecated. Superseded by 12th-grade `worldviews`. |
+| `understanding-the-times` | 11–12 | Deprecated. Superseded by 12th-grade `worldviews`. |

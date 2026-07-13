@@ -16,7 +16,7 @@ Generate a cohort-style teaching map for a class in this Bible curriculum reposi
 
 **Example:**
 ```
-/generate-map understanding-the-faith
+/generate-map foundations
 /generate-map worldview
 /generate-map old-testament-survey
 ```

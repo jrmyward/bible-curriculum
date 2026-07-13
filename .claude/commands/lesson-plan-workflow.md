@@ -17,8 +17,8 @@ Interactive guide to build out a complete set of lesson plans for a class, from 
 **Examples:**
 
 ```bash
-/lesson-plan-workflow understanding-the-faith
-/lesson-plan-workflow understanding-the-faith --year 2026-27
+/lesson-plan-workflow foundations
+/lesson-plan-workflow foundations --year 2026-27
 /lesson-plan-workflow worldview --year 2027-28
 ```
 
@@ -218,7 +218,7 @@ Or generate specific handouts with:
 If user wants to generate multiple weeks at once:
 
 ```
-/lesson-plan-workflow understanding-the-faith --batch 5-10
+/lesson-plan-workflow foundations --batch 5-10
 ```
 
 This generates Weeks 5–10 in sequence, pausing between each to allow textbook image uploads.
@@ -228,7 +228,7 @@ This generates Weeks 5–10 in sequence, pausing between each to allow textbook 
 If user wants to update existing lesson plans:
 
 ```
-/lesson-plan-workflow understanding-the-faith --regenerate 7
+/lesson-plan-workflow foundations --regenerate 7
 ```
 
 This backs up Week 7, then regenerates it (useful if teaching approach changes mid-year).
@@ -238,7 +238,7 @@ This backs up Week 7, then regenerates it (useful if teaching approach changes m
 If user wants to focus on generating assessment rubrics:
 
 ```
-/lesson-plan-workflow understanding-the-faith --assessments
+/lesson-plan-workflow foundations --assessments
 ```
 
 This skips weekly lesson plans and generates:
@@ -297,4 +297,4 @@ Generate Week 2 first, then use the same chapter images for Week 3 (I'll remembe
 ## Example Workflow Session
 
 ```
-User: /lesson-plan-workflow understanding-the-faith
+User: /lesson-plan-workflow foundations

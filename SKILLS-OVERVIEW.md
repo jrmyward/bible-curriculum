@@ -10,7 +10,7 @@ This repository includes a comprehensive set of skills for building Bible curric
 
 | Skill | Purpose | Example |
 |-------|---------|---------|
-| `/generate-map` | Create teaching map for a class | `/generate-map understanding-the-faith` |
+| `/generate-map` | Create teaching map for a class | `/generate-map foundations` |
 
 **What it does:**
 - Reads syllabus and school calendar
@@ -30,8 +30,8 @@ This repository includes a comprehensive set of skills for building Bible curric
 
 | Skill | Purpose | Example |
 |-------|---------|---------|
-| `/lesson-plan-workflow` | Interactive project manager for lesson planning | `/lesson-plan-workflow understanding-the-faith` |
-| `/scaffold-lesson-structure` | Set up directory structure | `/scaffold-lesson-structure understanding-the-faith` |
+| `/lesson-plan-workflow` | Interactive project manager for lesson planning | `/lesson-plan-workflow foundations` |
+| `/scaffold-lesson-structure` | Set up directory structure | `/scaffold-lesson-structure foundations` |
 | `/generate-lesson-plans` | Generate week-by-week lesson plans | `/generate-lesson-plans 5` |
 | `/generate-handout` | Create specific handouts | `/generate-handout case-study --week 7 --topic "Early church apologetics"` |
 | `/generate-substitute-plan` | Create detailed sub teacher plans | `/generate-substitute-plan 1 friday` |
@@ -86,10 +86,10 @@ This repository includes a comprehensive set of skills for building Bible curric
 ### **Starting a New Class**
 
 ```
-1. /generate-map understanding-the-faith
+1. /generate-map foundations
    → Creates teaching-map.md
 
-2. /lesson-plan-workflow understanding-the-faith
+2. /lesson-plan-workflow foundations
    → Scaffolds structure (if needed)
    → Guides you week-by-week through lesson plan generation
    → Tracks progress and resumes where you left off
@@ -104,7 +104,7 @@ That's it! The workflow skill orchestrates everything else.
 If you prefer step-by-step control instead of the workflow:
 
 ```
-1. /scaffold-lesson-structure understanding-the-faith
+1. /scaffold-lesson-structure foundations
    → Sets up directory structure
 
 2. /generate-lesson-plans 1
@@ -155,13 +155,13 @@ lesson-plan-workflow (orchestrates all below)
 
 ### **After `/generate-map`:**
 ```
-classes/understanding-the-faith/
+classes/foundations/
 └── teaching-map.md
 ```
 
 ### **After `/scaffold-lesson-structure`:**
 ```
-classes/understanding-the-faith/
+classes/foundations/
 ├── teaching-map.md
 └── lesson-plans/
     ├── README.md
@@ -185,7 +185,7 @@ classes/understanding-the-faith/
 
 ### **After `/generate-lesson-plans 1`:**
 ```
-classes/understanding-the-faith/lesson-plans/
+classes/foundations/lesson-plans/
 ├── week-01-lesson-plans.md (fully generated, 20+ pages)
 ├── handouts/
 │   └── week-01/
@@ -273,7 +273,7 @@ All skills support iteration and customization:
 ### **Example 1: Start Understanding the Faith lesson plans**
 
 ```
-/lesson-plan-workflow understanding-the-faith
+/lesson-plan-workflow foundations
 ```
 
 **Output:**
@@ -379,13 +379,13 @@ Ready to start? Choose your path:
 
 ### **Path 1: Guided (Recommended)**
 ```
-/lesson-plan-workflow understanding-the-faith
+/lesson-plan-workflow foundations
 ```
 Let the workflow guide you step-by-step.
 
 ### **Path 2: Manual Control**
 ```
-1. /scaffold-lesson-structure understanding-the-faith
+1. /scaffold-lesson-structure foundations
 2. /generate-lesson-plans 1
 3. /generate-lesson-plans 2
 [...repeat for all weeks]
@@ -394,7 +394,7 @@ Generate each component manually.
 
 ### **Path 3: Just the Teaching Map**
 ```
-/generate-map understanding-the-faith
+/generate-map foundations
 ```
 Generate only the teaching map (no lesson plans yet).
 
@@ -404,6 +404,6 @@ Generate only the teaching map (no lesson plans yet).
 
 - **Quick Reference**: See `README-LESSON-PLANNING.md` for detailed usage guide
 - **Skill Definitions**: Each `.skill.md` file has full documentation
-- **Example Output**: Week 1 lesson plans are already complete — see `classes/understanding-the-faith/lesson-plans/week-01-lesson-plans.md`
+- **Example Output**: Week 1 lesson plans are already complete — see `classes/foundations/lesson-plans/week-01-lesson-plans.md`
 
 Happy teaching! 📚

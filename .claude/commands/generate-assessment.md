@@ -17,9 +17,9 @@ Create assessment materials including capstone rubrics, unit test study guides, 
 **Examples:**
 
 ```bash
-/generate-assessment capstone --class understanding-the-faith --number 1
-/generate-assessment unit-test --class understanding-the-faith --unit 2 --chapters 3-4
-/generate-assessment final-reflection --class understanding-the-faith
+/generate-assessment capstone --class foundations --number 1
+/generate-assessment unit-test --class foundations --unit 2 --chapters 3-4
+/generate-assessment final-reflection --class foundations
 /generate-assessment capstone --class worldview --number 2 --type debate
 ```
 

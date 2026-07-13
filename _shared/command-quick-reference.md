@@ -85,7 +85,7 @@ or `cohort` (worldviews/apologetics — Discussion Briefs / Pair & Defend). See
 ### Recommended: Orchestrated Workflow
 
 ```bash
-/lesson-plan-workflow understanding-the-faith
+/lesson-plan-workflow foundations
 ```
 
 **What it does:**
@@ -103,7 +103,7 @@ or `cohort` (worldviews/apologetics — Discussion Briefs / Pair & Defend). See
 ### Advanced: Manual Control
 
 ```bash
-1. /scaffold-lesson-structure understanding-the-faith
+1. /scaffold-lesson-structure foundations
 2. /generate-lesson-plans 1
 3. /generate-lesson-plans 2
 ... (repeat for each week)
@@ -137,7 +137,7 @@ Teaching map style files are in `_shared/teaching-map-styles/`
 ## File Structure After Full Generation
 
 ```text
-classes/understanding-the-faith/
+classes/foundations/
 ├── README.md
 ├── teaching-maps/
 │   └── teaching-map-2026-27.md
@@ -181,7 +181,7 @@ classes/understanding-the-faith/
 ### Pattern 2: Regenerate one week
 
 ```bash
-/generate-lesson-plans 5 --class understanding-the-faith --year 2026-27
+/generate-lesson-plans 5 --class foundations --year 2026-27
 ```
 
 ### Pattern 3: Create custom handout
@@ -193,7 +193,7 @@ classes/understanding-the-faith/
 ### Pattern 4: Copy to new year
 
 ```bash
-/new-school-year understanding-the-faith --from 2026-27 --to 2027-28
+/new-school-year foundations --from 2026-27 --to 2027-28
 ```
 
 ---
@@ -232,7 +232,7 @@ classes/understanding-the-faith/
 
 - **Detailed docs**: See `SKILLS-OVERVIEW.md` for comprehensive guide
 - **Command definitions**: Each command file in `.claude/commands/` has full documentation
-- **Example output**: See `classes/understanding-the-faith/lesson-plans-2026-27/week-01-aug-24/` for reference
+- **Example output**: See `classes/foundations/lesson-plans-2026-27/week-01-aug-24/` for reference
 
 ---
 

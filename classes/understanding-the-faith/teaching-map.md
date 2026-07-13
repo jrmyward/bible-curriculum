@@ -1,1 +1,0 @@
-teaching-maps/teaching-map-2026-27.md

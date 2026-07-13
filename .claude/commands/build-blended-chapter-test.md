@@ -31,9 +31,9 @@ This means each per-unit assessment covers both worldview-holistic mastery (the 
 
 ### 1. Read context
 
-1. `classes/worldview/teaching-map.md` — locate the Unit `<N>` section; understand what content was taught
-2. `classes/worldview/handouts/unit-<NN>-<slug>-reading-packet.md` if it exists — for terminology alignment
-3. **The publisher's matching Ch X test:** `classes/worldview/_source-text/_cd/UTT Unit <NN> Files/<NN> Test Questions/UTT Chapter <NN> Test-Teacher.pdf`
+1. `classes/understanding-the-times/teaching-map.md` — locate the Unit `<N>` section; understand what content was taught
+2. `classes/understanding-the-times/handouts/unit-<NN>-<slug>-reading-packet.md` if it exists — for terminology alignment
+3. **The publisher's matching Ch X test:** `classes/understanding-the-times/_source-text/_cd/UTT Unit <NN> Files/<NN> Test Questions/UTT Chapter <NN> Test-Teacher.pdf`
    - For Unit 0 → Ch 01; Unit 1 → Ch 02; Unit 3 → Ch 03; Unit 7 → Ch 06; Unit 8 → Ch 04; Unit 9 → Ch 05 + Ch 07
    - For Units 2, 4 (no publisher coverage): no Ch X test — use Ch 02 (Christianity) as a format template
    - For Units 5, 6 (Hindu/Buddhist split from Ch 06): use Ch 06 as the partial source, supplement with locally-built questions on the distinct content
@@ -65,10 +65,10 @@ Aim for **45–60 total questions** (single class period, ~50 minutes). Don't bl
 ### 3. Two output files (Student + Teacher versions)
 
 **Teacher version** (with answers + reference codes):
-`classes/worldview/assessments/unit-<NN>-<slug>-test-teacher.md`
+`classes/understanding-the-times/assessments/unit-<NN>-<slug>-test-teacher.md`
 
 **Student version** (questions only, no answers):
-`classes/worldview/assessments/unit-<NN>-<slug>-test-student.md`
+`classes/understanding-the-times/assessments/unit-<NN>-<slug>-test-student.md`
 
 Match publisher conventions:
 
@@ -100,8 +100,8 @@ Pull the Ch 06 (New Spirituality) test items where they pertain to Hindu or Budd
 ```
 ✅ Built Unit <N> — <Worldview> Blended Chapter Test
    Outputs:
-     classes/worldview/assessments/unit-<NN>-<slug>-test-teacher.md
-     classes/worldview/assessments/unit-<NN>-<slug>-test-student.md
+     classes/understanding-the-times/assessments/unit-<NN>-<slug>-test-teacher.md
+     classes/understanding-the-times/assessments/unit-<NN>-<slug>-test-student.md
    Total questions: <count>
    Total points: <count>
    Estimated administration time: ~<min> min

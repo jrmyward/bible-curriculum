@@ -226,7 +226,7 @@ Test these workflows to ensure everything works:
 
 2. **Multi-year setup**:
    ```bash
-   /new-school-year understanding-the-faith --from 2026-27 --to 2027-28
+   /new-school-year foundations --from 2026-27 --to 2027-28
    ```
 
 3. **Individual commands with prerequisites**:

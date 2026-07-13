@@ -18,7 +18,7 @@ Generate comprehensive, day-by-day lesson plans for a specific week based on tex
 
 ```bash
 /generate-lesson-plans 5
-/generate-lesson-plans 12 --class understanding-the-faith
+/generate-lesson-plans 12 --class foundations
 /generate-lesson-plans 23 --year 2026-27
 ```
 

@@ -33,18 +33,18 @@ This skill targets Units 1–9 (the worldview units). For Unit 0 (Foundations) a
 
 ### 1. Read context
 
-1. `classes/worldview/teaching-map.md` — locate the Unit `<N>` section; read purpose, key anchors, day-by-day schedule, Gospel-conversation focus
-2. `classes/worldview/handouts/unit-<NN>-<slug>-reading-packet.md` if it exists — for narrative consistency with what students have read
-3. `classes/worldview/worldview-grid.md` — find this unit's column; lecture builds toward students filling it in
+1. `classes/understanding-the-times/teaching-map.md` — locate the Unit `<N>` section; read purpose, key anchors, day-by-day schedule, Gospel-conversation focus
+2. `classes/understanding-the-times/handouts/unit-<NN>-<slug>-reading-packet.md` if it exists — for narrative consistency with what students have read
+3. `classes/understanding-the-times/worldview-grid.md` — find this unit's column; lecture builds toward students filling it in
 4. **Publisher worldview chapter** (the textbook):
    - Unit 0 → Ch 1; Unit 1 → Ch 2; Unit 3 → Ch 3; Unit 5/6/7 → Ch 6; Unit 8 → Ch 4; Unit 9 → Ch 5 + Ch 7
-   - Path: `classes/worldview/_source-text/textbook/ch<NN>.md`
+   - Path: `classes/understanding-the-times/_source-text/textbook/ch<NN>.md`
    - For Units 2, 4 (Judaism, Mormonism — no publisher coverage): use the unit's reading packet and primary sources as the source-of-truth instead
 5. **Publisher teacher's manual chapter** (matching above):
-   - Path: `classes/worldview/_source-text/teaching-manual/ch<NN>.md`
+   - Path: `classes/understanding-the-times/_source-text/teaching-manual/ch<NN>.md`
    - The teacher's manual is the single most valuable source for this skill — it's literally written to teach from. Mine it for discussion questions, activity prompts, anticipated student responses, pedagogical guidance.
 6. **Worldview slices of Ch 8–17 (textbook):**
-   - For Day 2 lenses (Theology, Philosophy, Ethics, Biology, Psychology): pull this worldview's slice from `classes/worldview/_source-text/textbook/ch08.md` through `ch12.md`
+   - For Day 2 lenses (Theology, Philosophy, Ethics, Biology, Psychology): pull this worldview's slice from `classes/understanding-the-times/_source-text/textbook/ch08.md` through `ch12.md`
    - For Day 3 lenses (Sociology, Law, Politics, Economics, History): pull from `ch13.md` through `ch17.md`
    - Find each chapter's section labeled with this worldview (e.g., `2. SECULARISM`, `7. CHRISTIANITY`)
 7. **Worldview slices of Ch 8–17 (teacher's manual):** same as above but `_source-text/teaching-manual/`. Often contains discussion-launcher questions for the discipline-comparative work.
@@ -153,17 +153,17 @@ expected vocabulary for the test.]
 
 **Unit 7 (New Spirituality, 5d):** Combine the Day 2 + Day 3 Deep Dives into one combined day (all 10 lenses, accelerated). Skip Day 7 brief — fold the Four-Test into the combined Deep Dive day.
 
-**Unit 9 (Revolutionary Lineage, 13d):** Produce three sets of Framing+Deep-Dive notes (one per movement: Marxism, American Progressivism, Postmodernism). The Movement 2 (Progressivism) notes are entirely locally-built since the publisher doesn't cover it; use [unit-09-revolutionary-lineage-outline.md](../classes/worldview/unit-09-revolutionary-lineage-outline.md) as the source.
+**Unit 9 (Revolutionary Lineage, 13d):** Produce three sets of Framing+Deep-Dive notes (one per movement: Marxism, American Progressivism, Postmodernism). The Movement 2 (Progressivism) notes are entirely locally-built since the publisher doesn't cover it; use [unit-09-revolutionary-lineage-outline.md](../classes/understanding-the-times/unit-09-revolutionary-lineage-outline.md) as the source.
 
 **Units 2, 4 (Judaism, Mormonism):** No publisher Ch X to mine. Build entirely from primary sources, the unit's reading packet, and the Key Anchors in teaching-map.md. The skill should still produce Teacher + Student versions in the same shape.
 
 ### 3. Two output files
 
 **Teacher version:**
-`classes/worldview/lectures/unit-<NN>-<slug>-lecture-notes-teacher.md`
+`classes/understanding-the-times/lectures/unit-<NN>-<slug>-lecture-notes-teacher.md`
 
 **Student version (guided fill-in-blank handout):**
-`classes/worldview/lectures/unit-<NN>-<slug>-lecture-notes-student.md`
+`classes/understanding-the-times/lectures/unit-<NN>-<slug>-lecture-notes-student.md`
 
 The Student version is the Teacher version with key vocabulary terms replaced by blanks (`__________`) and answer keys stripped. Board prompts, time markers, and discussion-launchers stay (so students know when to listen vs. write). Keep the section structure identical so teacher and students are literally on the same page.
 
@@ -183,8 +183,8 @@ The Student version is the Teacher version with key vocabulary terms replaced by
 ```
 ✅ Built Unit <N> — <Worldview> Blended Lecture Notes
    Outputs:
-     classes/worldview/lectures/unit-<NN>-<slug>-lecture-notes-teacher.md
-     classes/worldview/lectures/unit-<NN>-<slug>-lecture-notes-student.md
+     classes/understanding-the-times/lectures/unit-<NN>-<slug>-lecture-notes-teacher.md
+     classes/understanding-the-times/lectures/unit-<NN>-<slug>-lecture-notes-student.md
    Lecture days covered: Day 1, Day 2, Day 3, Day 7 [+ extras for Unit 1, 7, 9]
    Estimated teacher version length: ~<count> pages
    Estimated student version length: ~<count> pages
